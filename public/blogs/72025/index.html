@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>youtube影片自動播放 — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">youtube影片自動播放</h1>
+        <div class="blog-meta">
+            <span>✍️ 小米</span>
+            <span>📅 2011-10-05</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：小米</p>
+<p><strong>發文</strong>：2011-10-05</p>
+<p><strong>瀏覽</strong>：282 次 ｜ <strong>回應</strong>：35 則</p>
+<hr>
+<p>應小心的要求，再研究一次影片自動播放。仔細看有二個方法喔～</p>
+<p> </p>
+<p>　在首頁搜尋你要的影片然後點分享後再看左下 ［嵌入］ &lt;&lt; 這個點下去</p>
+<p> </p>
+<p>　使用舊版內嵌程式碼 [?] &lt;&lt; 這個選項打勾 就會出現一個Html代碼</p>
+<p> </p>
+<p>　將完整代碼取出複制在電腦筆記本，按照步驟既可。</p>
+<p> </p>
+<p>　1
+　http://www.youtube.com/v/2tZ2xB_qM88?fs=1&amp;hl=zh_TW &lt;&lt; 這段拿出來後
+　2
+　加上&amp;autoplay=1&amp;loop=1 &lt;&lt;就會自動撥放。
+　3
+　變成這樣後
+　http://www.youtube.com/v/2tZ2xB_qM88?fs=1&amp;hl=zh_TW&amp;autoplay=1&amp;loop=1
+　4
+　[flash]放進這裡就OK了[?flash] 這個?是我故意打的，請自己畫/</p>
+<p>　[flash]http://www.youtube.com/v/2tZ2xB_qM88?fs=1&amp;hl=zh_TW&amp;autoplay=1&amp;loop=1[?flash]</p>
+<p> </p>
+<p>　[flash]http://www.youtube.com/v/2tZ2xB_qM88?fs=1&amp;hl=zh_TW&amp;autoplay=1&amp;loop=1[/flash]</p>
+<p> </p>
+<p>　之前的教學帖（有圖片） <a href="http://ahpal.com/home/space.php?uid=6&amp;amp;do=blog&amp;amp;id=30736">http://ahpal.com/home/space.php?uid=6&amp;amp;do=blog&amp;amp;id=30736</a></p>
+<p> </p>
+<p>　這是心死的做法，是 Html 代碼的做法，請記得要在編輯源碼的空格打勾才能使用喔！</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>清除電腦暫存檔、紀錄、解放20%頻寬限制 — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">清除電腦暫存檔、紀錄、解放20%頻寬限制</h1>
+        <div class="blog-meta">
+            <span>✍️ roger9199</span>
+            <span>📅 2012-01-18</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：roger9199</p>
+<p><strong>發文</strong>：2012-01-18</p>
+<p><strong>瀏覽</strong>：20 次 ｜ <strong>回應</strong>：1 則</p>
+<hr>
+<p>第一步：清除系統垃圾、暫存、紀錄……等等檔案。</p>
+<p>我相信大家都知道，剛重灌玩的電腦，一定都是跑比較順、比較快，可是才過沒幾天，整個速度效率就慢了下來，這大家也應該都有感覺到才對。</p>
+<p>原因↓</p>
+<p>１：安裝及時通、遊戲等等。</p>
+<p>不過這是正常的，我相信大家都有玩遊戲、聊即時通、ＭＳＮ，這是一定要的
+其實這沒差多少，只不過因為系統容量降低，加上開機需要執行一些常駐程式，當然速度就慢下來了。</p>
+<p>２：上網、開機都會產生大量的暫存檔、紀錄檔等等一些雜七雜八，完全沒有用的東西
+　　我測試過，我點選桌面網際網路，跑完奇摩，關掉奇摩，就這麼簡單！可是卻產生　　　　　　　
+　　３０個暫存檔，這可是很嚇人的喔！光是一個網頁就３０幾個，甚至４０幾個！
+　　隨隨便便都累積上千個暫存檔案，而開、關機也會產生紀錄檔！這些是要紀錄你開　
+　　關機的程序有無正常，作為下次參考。
+　　而這些完全都不會被刪除，隨著開、關機次數增加，紀錄檔也越來越多。
+　　加上先前的暫存檔，累積下來，不但會拖慢電腦系統執行速度，還會把你寶貴的　
+　　磁碟空間給佔據，讓你磁碟容量越來越少。</p>
+<p>這可是真的，沒在虎爛，不相信比對一下磁碟容量，在去上網，關掉，絕對會減少。</p>
+<p>解決方法：製造清除系統垃圾器。</p>
+<p>製造步驟很簡單，請看下面。</p>
+<p>桌面→右鍵→新增記事本。</p>
+<p>開啟之後，貼上我↓面的文字，分隔線不用貼。</p>
+<p>echo off
+echo 正在清除系統垃圾文件，請稍等&hellip;&hellip;
+del /f /s /q %systemdrive%*.tmp
+del /f /s /q %systemdrive%*._mp
+del /f /s /q %systemdrive%*.gid
+del /f /s /q %systemdrive%*.chk
+del /f /s /q %systemdrive%*.old
+del /f /s /q %systemdrive%\recycled*.*
+del /f /s /q %windir%*.bak
+del /f /s /q %windir%\prefetch*.*
+rd /s /q %windir%\temp &amp; md %windir%\temp
+del /f /q %userprofile%\cookies*.*
+del /f /q %userprofile%\recent*.*
+del /f /s /q &ldquo;%userprofile%\Local Settings\Temporary Internet Files*.<em>&rdquo;
+del /f /s /q &ldquo;%userprofile%\Local Settings\Temp*.</em>&rdquo;
+del /f /s /q &ldquo;%userprofile%\recent*.*&rdquo;
+echo 清除系統垃圾完成！
+echo. &amp; pause</p>
+<p>把我分隔線內的內容全部複製到筆記本當中。</p>
+<p>檔案→另存新檔→存檔類型選擇：所有檔案→檔名：清除系統垃圾.bat</p>
+<p>後面檔名絕對要為.bat</p>
+<p>這樣你的垃圾清除器，就製作成功！</p>
+<p>建議每天開啟一次，給他清除，跑完後隨便按一個鍵他就會自動消失</p>
+<p>這樣你的紀錄檔、暫存檔等等就會被清潔溜溜</p>
+<p>去看看磁碟容量，是否變多？速度有沒有些許快？</p>
+<p>以上只是清除系統垃圾而已，只是個開胃菜罷了，接下來還有優化各位電腦系統的好用工具。</p>
+<p>第二步：優化電腦系統、加快執行速度。</p>
+<p>竟然要優化電腦，那麼首要步驟，就是修改登陸檔，以下登陸檔安全，本人皆為試用過，大可放心。</p>
+<p><a href="http://myweb.hinet.net/service/download.html?http://game76420.sg1004.myweb.hinet.net/XPUF.exe">http://myweb.hinet.net/service/download.html?http://game76420.sg1004.myweb.hinet.net/XPUF.exe</a></p>
+<p>下載完畢後，執行，便會自動幫你用好，這樣就完成第一步優化。</p>
+<p>開始→執行→輸入msconfig→選到啟動。</p>
+<p>如果有安裝即時通、MSN的玩家們（應該幾乎都有）</p>
+<p>把Messenger (Yahoo!)
+MSMGSG</p>
+<p>選擇不勾選，即可，其他認識的軟體，也可不勾選，這樣系統啟動時，就不會執行這些東西，只是要你自己去開，這樣開機就不用讀取，跑得更快。</p>
+<p>第二步：修復電腦錯誤</p>
+<p>每次當你安裝東西、或移除東西等等動作，其實會有登陸檔還殘留在，下次還是會執行，只是移除了程式，並沒有把登陸檔真正清除乾淨，這樣也會越來越慢，怎麼解決呢？</p>
+<p>靠系統醫生準沒錯，下載網址：http://libura.myweb.hinet.net/16.htm</p>
+<p>本人用過心得：真的不錯用，本人掃出上百個錯誤！修復完之後，電腦也變得更為順暢。</p>
+<hr>
+<p>加快網路速度。　（只限ＸＰ，ＶＩＴＳＴ無。）</p>
+<p>系統會替ＸＰ保留２０％頻寬起來，要用什麼？緊急用到，不過其實並不會用到，因為沒什麼情況，保留起來的頻寬是要非常緊急的狀況下使用</p>
+<p>不過那是商業化的電腦居多，我們這種聊天、玩遊戲的，根本毫無用處。</p>
+<p>所以這裡就教如何釋放這保留起來的２０％寬頻。　（只有ＸＰ）</p>
+<p>桌面→開始→執行→輸入gpedit.msc→開啟系統管理範本→網路→QoS封包排程器</p>
+<p>限制可保留的頻寬→以啟用→２０改為０</p>
+<p>這樣２０％頻寬就釋放出來惹。</p>
+<p>以上釋放寬頻、CPU優先使用SF，全部都有效，本人、朋友都試過了</p>
+<p>注意：ＶＩＴＳＡ不能使用系統醫生（那是限定ＸＰ）
+　　　有些人沒有gpedit.msc，有些人有。
+VITSA是一定沒有，XP則是看電腦，有些有，有些沒有</p>
+<p>相信有VITSA的玩家，眼睜睜的看著系統醫生掃出無數個讓你錯愕的錯誤，卻不能修復，那真是何等心痛呀！</p>
+<p>這時候建議可使用CCleaner，這套軟體挺不錯的。</p>
+<p>下載網址http://www.softking.com.tw/soft/download.asp?fid3=23123</p>
+<p>隨便你要下載那一個都OK。</p>
+<p>下載完畢→安裝→語言別動→接下來就是安裝。</p>
+<p>建議先清除用清道夫分析一下垃圾，稍等，然後等他清除完畢。</p>
+<p>接著就是登陸檔，分析，把分析到的錯誤點選不備份，全部修復。</p>
+<p>建議多掃個幾次。</p>
+<p>然後先前教學的msconfig應該會是有玩家，開起來之後，看不懂，所以不敢亂調。</p>
+<p>放心，CCLEANER裡面也有這種功能。</p>
+<p>清道夫、登陸檔分析清除完畢。</p>
+<p>工具→啟動。</p>
+<p>把裡面的MSMSGS
+Messenger(Yahoo!)</p>
+<p>選擇：停用</p>
+<p>這樣以後開機就不會執行這上述東西，只是要你自己去開，開機不讀取，是否跑得更快？</p>
+<p>如果有其他你也知道的東西，也可以選擇停用。</p>
+<p>像是ＦＯＸＹ、ＰＰＳ等等一些也可停用。</p>
+<p>相信各位VITST是一定沒有gpedit.msc 。</p>
+<p>XP則是看個人電腦，像我就是有。</p>
+<p>可是不是只有gpedit.msc才能釋放寬頻。</p>
+<p>就讓我來教學你如何修改登陸檔來釋放２０％寬頻。</p>
+<p>記住：眼睛要放大一點，近視者戴眼鏡，不要修改錯了嘿</p>
+<p>開始→執行→輸入regedit開啟登陸檔。</p>
+<p>接著慢慢找哦。</p>
+<p>HKEY LOCAL MACHINEY→SOFTWARE→Policies→Microsoft→Windows</p>
+<p>到這個地方，按滑鼠右鍵→新增→機碼→將名子設為Psched</p>
+<p>對新增的這個機碼選擇右鍵→新增→DWORD值→名子設為NoBestEffortLimit。</p>
+<p>用滑鼠對DWORD值點右鍵修改→將數值設為０→改成十六進位→重新開機。</p>
+<p>這樣就加快網路速度了</p>
+<p>那２０％寬頻即可被釋放出來。</p>
+<p>電腦破的人真很的很需要</p>
+<p>另外有個小程式也不錯用</p>
+<p>Game Booster1.22</p>
+<p>大家可以上網下載</p>
+<p>可以關掉不必要的程式</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

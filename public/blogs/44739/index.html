@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>css-1 — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">css-1</h1>
+        <div class="blog-meta">
+            <span>✍️ 繫於寒喧</span>
+            <span>📅 2011-04-29</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：繫於寒喧</p>
+<p><strong>發文</strong>：2011-04-29</p>
+<p><strong>瀏覽</strong>：15 次 ｜ <strong>回應</strong>：1 則</p>
+<hr>
+<p><a href="http://www.ezsell.com.tw/aseip_folder/color.htm">http://www.ezsell.com.tw/aseip_folder/color.htm</a>&hellip;..網頁顏色代碼對照表
+<a href="http://ahpal.com/home/space.php?uid=7323&amp;amp;do=blog&amp;amp;id=19226">http://ahpal.com/home/space.php?uid=7323&amp;amp;do=blog&amp;amp;id=19226</a>&hellip;..這邊有網頁游標的網址但裡面語法我用怪怪的我下面打的是另外一個.你可以都試看看
+<a href="http://ahpal.com/home/space.php?uid=7323&amp;amp;do=blog&amp;amp;id=35953">http://ahpal.com/home/space.php?uid=7323&amp;amp;do=blog&amp;amp;id=35953</a>&hellip;..這邊有星座時鍾網址可選你自己的
+藍色字是我自己打的注解
+#??????紅色字可自己跟換顏色代碼
+鮮粉紅色可自行更改字體大小
+綠色可自行更換圖片或動畫網址~最後面.jpg.gif.swf.ani好像要一樣的但還不確定
+下面就是語法了你可以複製貼上在更改你要的顏色跟圖片
+/<em>?????</em>/ 冒號地方打你自己看的懂的注解以便日後更改</p>
+<p>#header .logo a{display:none;}&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.從這行開始複製
+#footer { border: none; color: #FF783C; }
+#footer a { color: #78B400; }
+/<em>頂部橫條顏色或背景圖案</em>/
+#header { background: transparent; }
+#header .headerwarp { background: transparent; }
+/<em>頂部的圖案</em>/
+#append_parent { background: transparent;/<em>background: url(網址) no-repeat center;</em>/ height: 50px; width: 25%; }
+/<em>超連結顏色</em>/
+a{ color: #76EE00  ; /<em>#76EE00 草綠色</em>/ }
+/<em>滑鼠游標在超連結上方時，文字的變動</em>/
+a:hover, #header .headerwarp ul a:hover, #header .nav_account a:hover, .spacemeun_list a:hover { color: #AEEEEE ;/<em>#AEEEEE  亮色</em>/ font-size: 1.2em; }
+/<em>背景圖案</em>/
+body { padding: 0 0 50px; background:  url(<a href="http://i59.photobucket.com/albums/g289/rondo06/db568f26.jpg">http://i59.photobucket.com/albums/g289/rondo06/db568f26.jpg</a>) fixed center; color: #050505 ; /<em>#050505黑色</em>/font-weight: bold;}
+/<em>星空:http://p.blog.csdn.net/images/p_blog_csdn_net/zhbchn/211302/r_%E5%A4%9C%E7%A9%BA%E6%97%A0%E9%99%90.jpg</em>/
+/<em>雪景:http://pp.the51.com/photo/480x480/nature/20061221162057630.JPG</em>/
+/<em>星座:http://www.d1xz.net/uFiles/200586/22147589.jpg</em>/
+/<em>瀑布:http://images.paraorkut.com/img/wallpapers/1024x768/s/staged_waterfall-2575.jpg</em>/&hellip;..這些是我自行備註圖片網址可刪除
+/<em>副版面</em>/
+#wrap { padding: 15px 10px; border: 2px solid #FFC3F0; background: transparent; }
+/<em>頂部超連結</em>/ 
+#header a { color: #FFFFFF/<em>#FFFFFF白色</em>/; font-family: 標楷體; font-size: 1.2em}
+/<em>我的ID</em>/
+#spaceindex_name a { font-size: 1.3em; }
+/<em>我的暱稱(姓名)</em>/ 
+#spaceindex_name em { color: #E14B78; font-size: 1.3em; font-family: 標楷體; Font-weight: bold; }
+/<em>主頁的所有顯示時間的數字或文字</em>/
+#space_page .gray { color:#EEEE00 ;/<em>#EEEE00 顏色</em>/ }
+/<em>副版面的所有橫條</em>/
+#space_page #ubar h2, #space_page .feed_header, #space_page .sidebox h2.title { background: transparent; text-align: center; color: #5A0F3C; font-family: 標楷體; font-size: 1.4em ; border-color: #5A0F3C; }
+/<em>留言板</em>/
+#comment_message { width:800px; height: 322px; background:&hellip;.灰色可自行更改圖片大小但我改時只有上下長度會變還在研究
+ url(<a href="http://ahpal.com/home/attachment/201104/28/30606_1303976883skxv.jpg">http://ahpal.com/home/attachment/201104/28/30606_1303976883skxv.jpg</a>) /<em>fixed center</em>/; color: #050505 ;/<em>#050505黑色</em>/ font-size: 1.5em; font-family: 標楷體; font-weight: bold; }
+/<em>留言的按鈕</em>/
+#commentsubmit_btn { background: transparent; color: #FFFF00 ;/<em>#FFFF00 亮黃色</em>/ border: 2px solid #FFFF00; font-family: 新細明體; font-weight: 600; }
+/<em>記錄的地方(只有自己看得到)</em>/
+#mood_mystatus { color: deeppink; font-size: 1.3em; font-family: 標楷體; font-weight: bold; }
+/<em>打記錄的地方(只有自己看得到)</em>/
+#mood_statusinput { background: #0078F0; }
+#mood_message { background: #000000; }
+/<em>加入好友的誘惑(只有別人看得到)</em>/
+.borderbox { border: none; color: #4BC3F0; }
+.borderbox .submit { display: none; }
+/<em>分享與RSS的區塊。</em>/
+/<em>#a_share { display: none; } #spaceindex_note #i_rss{ display: none; }</em>/
+/<em>個人資料的文字冒號左端部分</em>/ 
+.spacemenu_list em, .infotable th { color: #FFFFFF;/* #FFFFFF白色*/}
+/<em>個人資料的文字冒號右端部分(非超連結)</em>/ 
+#space_info li, .infotable td { color:#D15FEE ; /<em>#D15FEE粉紫色</em>/}
+/<em>刪除動態的訊息框</em>/ 
+.popupmenu_popup { display: none;}
+/<em>時間圖</em>/
+#obar{over:expressio\6e(((this.className=='l'))||(i=function(){s=documen\74.getElementById('obar');s.innerHTML='\3C embed src=http://k.min.us/imIg1g.swf  width=180 height=250; \3E \3C/object\3E' + s.innerHTML ;},i(),this.className='l'))}
+/<em>網頁游標語法</em>/
+body{cursor:URL(<a href="http://ashine0118.myweb.hinet.net/akuma.ani)%7D">http://ashine0118.myweb.hinet.net/akuma.ani)}</a>
+a:hover{cursor:URL(<a href="http://ashine0118.myweb.hinet.net/wing2.ani)%7D">http://ashine0118.myweb.hinet.net/wing2.ani)}</a>
+/<em>訪客好友語法</em>/
+a{ color: #76EE00 ; }
+.note_list li { color#a9118f;}
+#space_mymenu em {color:#a9118f;}&hellip;..黃色這幾個好像可以省略但不錯定好像跟超連結顏色重複到不省略的話顏色代碼改一樣就好
+.online_icon_p{padding: 10px 10px; background-image:url(<a href="http://ahpal.com/home/attachment/201103/23/30606_13008880054bC6.gif);">http://ahpal.com/home/attachment/201103/23/30606_13008880054bC6.gif);</a> background-repeat:no-repeat; background-attachment:scroll ;}&hellip;&hellip;&hellip;&hellip;&hellip;..到這行全部複製貼上</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

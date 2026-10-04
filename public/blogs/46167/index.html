@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>(轉載)CSS — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">(轉載)CSS</h1>
+        <div class="blog-meta">
+            <span>✍️ 繫於寒喧</span>
+            <span>📅 2011-05-04</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：繫於寒喧</p>
+<p><strong>發文</strong>：2011-05-04</p>
+<p><strong>瀏覽</strong>：3 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p>轉載的所以請勿表態或評論</p>
+<p>(轉載)CSS基礎教學</p>
+<p>前言：</p>
+<p>CSS(Cascading Style Sheets)是一種樣式表語言。它的目的是為了對像 XHTML 及 HTML 之類的標記語言 (markup language) 提供一個顯示層。有了 CSS，我們就可以將資料層及顯示層分開：HTML 文件就只包括資料，而 CSS 則是告訴瀏覽器這些資料應該要如何顯現出來。(資料來源)</p>
+<p>序言：</p>
+<p>在此提供CSS的基礎語法，逐一解說，只需花你幾個小時的時間，就能讓你的個人空間看起來漂漂亮亮的，切勿抄襲別人的CSS作品。CSS語法難度的等級比程式語言還簡單，但是也不是一步就能登天，有耐心點一步一步的操作，如果這種語法一天就能全部學會並融會貫通，那大家都不會找不到工作了，所以請耐心看完，如果你想要讓你的主頁變漂亮的話。</p>
+<p>CSS的語法結構：</p>
+<p>選擇器 子選擇器 { 屬性1: 設定值1 ; 屬性2: 設定值2 ; &hellip;(以此類推); }</p>
+<p>選擇器：簡單說就是你個人主頁想改的地方都有所謂的標籤語法，例如&quot;.comments_list&quot;指的是留言版評論的列表，也就是個人主頁最下方。</p>
+<p>子選擇器：若是在&quot;.comments_list&quot;後面加上&quot;.quote&quot;(引用的意思)，就變成&quot;.comments_list .quote&quot;，所指定的就變成留言版引用樣式。子選擇器為非必要，通常用於更改更詳細的部分才需要。</p>
+<p>屬性與設定值：例如想更改文字的顏色成紅色，想更改屬性就是文字，其設定值為紅色。</p>
+<p>注意：CSS的語法其屬性與設定值必須被大括弧包含起來，且每個屬性與設定值設定完成都必須用分號做結束！</p>
+<p>區塊：指整個語法宣告的結構，例如在HTML語法中把&quot;甲&quot;這個字變成粗體，語法是&quot;&lt;div&gt;&lt;b&gt;甲&lt;/b&gt;&lt;/div&gt;&quot;，這整個統稱為區塊，會自動換行。會顯示成以下這樣：</p>
+<p>甲</p>
+<p>這樣看來，圖片也是區塊；網頁分頁也是分成很多的區塊，就這個日誌來看，最上面有首頁、個人主頁到右邊的有積分的這個橫條，就是一個區塊；左邊的菜單也是區塊；文章的段落&quot;&lt;p&gt;甲&lt;/p&gt;&ldquo;也是區塊；表格(Table)也是區塊；輸入東西的欄位如輸入記錄那邊也是區塊。</p>
+<p>附註：如果有數個選擇器都有相同的樣式，例如我想要暱稱、記錄、留言字都是紫色的，就能一次宣告所有選擇器，選擇器間須用逗號&rdquo;,&ldquo;隔開。</p>
+<p>e.g. 選擇器1, 選擇器2, 選擇器3 { 顏色: 紫色 ; } (在此只是範例，宣告須用英文。)</p>
+<p>CSS的語法建議：</p>
+<p>1.中文註解或是不想被執行但想保留的語法都可以用&rdquo;/**/&ldquo;所包含，系統偵測&rdquo;/<em>&ldquo;到&rdquo;</em>/&ldquo;中間的語法或字串並不會被執行。</p>
+<p>2.CSS語法並不會受到空格所影響，當然，語法與語法間的空格是必須的。原則上，英文的句子如果在標點符號後面，要空一格；語法與大括號之間也習慣空一格。</p>
+<p>3.如果重複宣告CSS語法，則會取後者作為結果，比方說先前設定超連結顏色為紫色，最後又不小心設定到超連結為藍色，同樣的選擇器和屬性，只是設定值不相同，最後超連結會是藍色的，特別注意這點。</p>
+<p>4.如果本人列出的語法下面說明了預設的設定值為何，假若你喜歡伊莉預設的樣式，你將可以捨棄語法內的與預設相應的&quot;屬性: 設定值;&ldquo;這段語法。</p>
+<p>5.伊莉的自定義風格有限制字數，所以最好在最下面加上幾行註解如&rdquo;/<em>Buffer</em>/&quot;，免得最下面的語法因為字數超過而消失，緩衝行數的減少告知你字數不能再增加了。</p>
+<p>6.如果認為本人寫的看不太懂，可以參考其它人的傑作，本人由這學習的，並請記得表態、推文，讓更多人知道謝謝。</p>
+<p>簡易CSS的語法樣式：</p>
+<p>※這邊只列出最簡單的語法樣式，有些英文不會可以去奇摩字典查，通常很容易了解。</p>
+<p>背景部分：</p>
+<p>選擇器 { background: #000000; } 在這選擇器代表的區塊其背景是黑色的。</p>
+<p>選擇器 { background: url(網址) fixed; } 在這選擇器代表的區塊其背景來自於你的相簿的某個圖片，並且圖片完全固定於瀏覽器視窗的邊框，也就是說背景圖片不會因為你拉移瀏覽器最右方的捲軸而有所改變，&ldquo;fixed&quot;也可以代換成&quot;no-repeat&rdquo;。</p>
+<p>選擇器 { background: url(網址) fixed center; } 這裡背景不但固定，而且置中。</p>
+<p>顏色部分：</p>
+<p>選擇器 { color: blue; } 這代表選擇器代表的區塊其文字都是藍色的</p>
+<p>注意：顏色的表示方法有三種：</p>
+<ol>
+<li>選擇器 { color: blue; } 直接指定顏色的英文名稱，查詢顏色名稱。</li>
+</ol>
+<p>2. 選擇器 { color: #0099FF; } 直接指定色碼，查詢簡易色碼表。</p>
+<p>3. 選擇器 { color: RGB(0,100,0); } 直接指定三維陣列代入256色，第一個參數是紅色，再來是綠色，最後是藍色，唯一要注意的是：參數值是從0開始計算，0代表第一個元素，255代表第兩百五十六個元素，因為從0數到255有256個數字(索引(index))。另外，這三個參數也可以用0%~100%表示。例如：RGB(30%,20%,63%)。</p>
+<p>盒子部分：</p>
+<p>請參考我的個人主頁，&ldquo;Margin&rdquo;(邊界)指的是整個瀏覽器能顯示網頁的邊界，&ldquo;Border&rdquo;(邊框)指的是我個人主頁橘色虛線的部分，&ldquo;Padding&rdquo;(留白)指的是&quot;邊界&quot;與&quot;邊框&quot;的中間部分，最後&quot;Content&rdquo;(內容)指的是&quot;邊框&quot;以內的部分，也就是本個人空間(網誌)的重點。關於詳細語法將在最下面補充。這邊是舉例主體，但是任何區塊都有邊界、邊框、留白和內容，比方說留言版。</p>
+<p>文字部分：</p>
+<p>選擇器 { font-family: Georgia; } </p>
+<p>後面的設定值可以替換為&quot;Verdana&quot;,&ldquo;Arial&rdquo;,&ldquo;Helvetica&rdquo;,&ldquo;sans-serif&rdquo;,&ldquo;細明體&rdquo;,或&quot;標楷體&quot;&hellip;&hellip;等等，每一樣都試試看，找到你喜歡的字體吧！</p>
+<p>附註：更多CSS的語法樣式在最下面。</p>
+<p>伊莉的CSS選擇器(或稱元素)：</p>
+<p>※注意：</p>
+<p>1.這邊開始按部就班更改你的CSS語法，前面只是簡易說明，並沒有實際操作。這邊補充一下：打語法的地方在你的主頁右上角有個&quot;設置&quot;的選項，點了之後出現新的網頁找到&quot;個人設置&quot;的選項，再按了之後找到&quot;自定義風格&quot;，這就是編輯語法的地方。</p>
+<p>2.以下所有範例都將依我的主頁為準，可以參考我的主頁，不過有些可能已經不一樣了，特別注意一下，另外，藍色字體都為語法或註解，如有錯誤請幫忙指正，謝謝。</p>
+<p>3.如果遇到語法不懂，可以到最下方的&quot;補充CSS的語法樣式&quot;找找看，或是在Google或雅虎的搜尋器打上「&ldquo;border&rdquo; CSS」搜尋，假如想要搜尋&quot;border&quot;的CSS相關語法的話，應該可以找到你要的答案，畢竟CSS語法很多網誌都有用，雖然選擇器(或稱元素)不太相同，但是屬性和設定值幾乎是一樣的。</p>
+<p>1.更改個人空間的主體、副版面的區塊與背景圖案(&ldquo;body&rdquo;&amp;&ldquo;wrap&rdquo;)：</p>
+<p>/<em>主體與背景圖案</em>/</p>
+<p>body { padding: 0 0 50px; background: url(網址) fixed; color: #FF783C; }</p>
+<p>&ldquo;body&quot;就是整個個人空間你可以看到的地方都算是。</p>
+<p>&ldquo;padding: 0 0 50px;&ldquo;可以讓最下面的留白(Padding)部分(例如我的主頁最下方的橘色虛線)往上抬移50個像素，沒有這樣做的話，最下面的邊框(Border)會看不見。</p>
+<p>&ldquo;background: url(網址) fixed center;&ldquo;可以讓你的背景圖案固定且置中，另外，如果要找自己相片的網址，到自己的圖片點選查看原圖，會出現新的只有圖的視窗，那個網址就是你要的。</p>
+<p>&ldquo;color: #FF783C;&ldquo;讓你的整個內容(Content)的文字，也就是整篇網頁非超連結的所有文字，都改成橘色類。</p>
+<p>顏色、網址、留白抬移多少像素請依個人喜好修改。</p>
+<p>/<em>副版面</em>/</p>
+<p>#wrap { margin-top: -10px; padding: 15px 10px; border: 2.5px dashed #FF783C; background: transparent; }</p>
+<p>&ldquo;wrap&quot;就是個人空間(網誌)中間最重要的部分，簡單說就是從ID、暱稱、訪問人次、記錄、個人資料、個人動態到留言版這一塊版面，包括左邊的個人菜單和右邊的最近來訪，姑且稱為主體的副版面。</p>
+<p>&ldquo;margin-top: -10px;&ldquo;指的是我把橘色框線所包起來的區塊(副版面)往下移動-10個像素，正確說來就是往上移動10個像素。</p>
+<p>&ldquo;padding: 15px 10px;&ldquo;指的是主體的留白部分往上移動15個像素，再往左移動10個像素，有關padding的所有用法將在最下面補充。</p>
+<p>&ldquo;border: 2.5px dashed #FF783C;&ldquo;指的是我個人主頁的橘色虛線，厚(寬)度2.5個像素，&ldquo;dashed&quot;是虛線，&quot;#FF783C&quot;是橘色，如果不要虛線就刪掉&quot;dashed&rdquo;，預設為直線，如果整個border都不要，就改成&quot;border: none;&ldquo;即可，之後有關於任何的邊框不需要，就在語法加上&quot;border: none;&quot;。關於線的形狀將在最下面補充。</p>
+<p>&ldquo;background: transparent;&ldquo;指的是副版面的背景設定為透明的(transparent)，因為主體已經有背景了，當然你仍可以放背景或是指定顏色，請依個人喜好自行調整。</p>
+<p>/<em>副版面大部分的橫線</em>/</p>
+<p>#spaceindex_name, #space_feed li, #space_page .line_list li, #space_page .comments_list li { border: none; }</p>
+<p>個人將它設定成不顯示，當然，如果你的背景太花，導致字看不夠清楚，橫線可以作陪襯來呈現段落文字。</p>
+<p>/<em>副版面的所有橫條</em>/</p>
+<p>#space_page #ubar h2, #space_page .feed_header, #space_page .sidebox h2.title { background: transparent; text-align: center; color: #FF5AF0; font-size: 1em ; border-style: outset; border-color: #FF5AF0; border-width: 5px; }</p>
+<p>&ldquo;background: transparent;&ldquo;可以更改橫條的背景，當然可以使用圖片，只是要注意大小，或是可以藉由更改相框的大小，至於如何更改，下面講到&rdquo;/<em>頂部中間的圖案</em>/&ldquo;會詳細說明，本人將橫條背景設定為透明！&ldquo;text-align: center;&ldquo;可以把文字置中，預設是靠左。可改文字大小、字體、顏色，本人將顏色設定成紫色，請依個人喜好修改。&ldquo;border-style: outset;&ldquo;這是改邊框的，我將它設成浮凸，顏色為紫色，寬度為5個像素。有關邊框(Border)的詳細語法補充將在最下面說明。</p>
+<p>/<em>主頁的所有顯示時間的數字或文字</em>/</p>
+<p>#space_page .gray { color: #0078F0; }</p>
+<p>更改主頁所有顯示的時間數字或文字的顏色、字體，或是說有灰色字的部分，例如&quot;kejsu160913 去自己的 開心農場 辛勤工作了一番 5小時前&quot;的&quot;5小時前&rdquo;，另外留言、日誌發表等等，還有相簿的簡易說明都會更改到喔。</p>
+<p>2.更改個人空間整頁大部分的超連結(&ldquo;a&rdquo;)：</p>
+<p>/<em>所有超連結顏色</em>/</p>
+<p>a { color: #4BC3F0; }</p>
+<p>此步驟可以將你整頁大部分的超連結顏色都改成淡藍色，顏色請依個人喜好調整。</p>
+<p>/<em>滑鼠游標在超連結上方時，文字的變動</em>/</p>
+<p>a:hover, #header .headerwarp ul a:hover, #header .nav_account a:hover, .spacemeun_list a:hover { color: red; font-size: 1.2em; }</p>
+<p>&ldquo;#header .headerwarp ul a:hover&quot;指的是以下這個(滑鼠移到&quot;隨便看看&quot;的時候)：</p>
+<p>&ldquo;#header .nav_account a:hover&quot;指的是以下這個(滑鼠移到&quot;道具&quot;的時候)：&quot;.spacemeun_list a:hover&quot;指的是以下這個(滑鼠移到&quot;郵件提醒&quot;的時候)：</p>
+<p>&ldquo;#footer a:hover&quot;指的是以下這個(滑鼠移到&quot;聯繫我們&quot;的時候)：</p>
+<p>此步驟可以將您整頁所有的超連結改成動態的，當滑鼠移置超連結上方時，字體的顏色、大小將會改變，&ldquo;font-size: 1.2em;&ldquo;就是改字的大小，此外還可以更改字體為粗體、斜體，以及超連結被點過的所呈現的顏色，將在最下面補充。</p>
+<p>有些地方可以更改的，像是訂閱和ID這兩個超連結本人就沒有用到，還有字體、線體、大小、顏色&hellip;&hellip;等等語法都是一樣的，請依個人喜好修改，之後將不再贅述。</p>
+<p>3.更改個人空間的頂部區塊(&quot;#header&rdquo;)：</p>
+<p>/<em>頂部橫條顏色或背景圖案</em>/</p>
+<p>#header { background: transparent; }</p>
+<p>#header .headerwarp { background: transparent; }</p>
+<p>這邊就是指從首頁、個人主頁、好友到道具、設置、退出那整個橫條，本人把它用成透明的，這樣就只能看到主體的背景，這邊仍可放背景或改背景顏色，&quot;#header&quot;與&rdquo;#header .headerwarp&quot;似乎是一樣的。</p>
+<p>/<em>頂部的圖案</em>/</p>
+<p>#append_parent { background: url(網址) no-repeat center; height: 100px; width: 100%; }</p>
+<p>這邊就是指頂部橫條下方(或上方)的圖片，或是有用中國年的風格就清楚了。此區有什麼功用呢？你可以放圖片，或是放個文字圖片作公告用(就是在Word檔打個文字用鍵盤上&quot;PrintScreen&quot;照下來，再貼到小畫家存成JPEG檔案。)我的頂部圖案是好幾行紫色的字，背景是透明的，你可以使用影像處理軟體將背景用成透明的，再存成GIF檔，網路搜尋很容易找到這樣的教學。</p>
+<p>注意：圖片放入的概念跟日常生活中把相片放入相框的意思是一樣的，通常相框的大小是預設的，也就是說如果你圖片的高度或長度太長會被剪掉，所以可以定義你要的相框大小。另外，相框也可以作移動，這部分用到的是&quot;Margin&rdquo;(邊界)這個屬性，將在最下面補充。相框的大小如何定義呢？&ldquo;width: 1024px; height: 100px;&ldquo;前者為寬度，後者為高度，&ldquo;px&quot;是像素，這類語法都是一樣的，之後將不贅述。</p>
+<p>&ldquo;height: 100px;&ldquo;指的是我的相框高度是100個像素，這樣我插入的圖片高度剛好契合。</p>
+<p>&ldquo;width: 100%;&ldquo;這邊提供不同的方法，此指將相框寬度設定成瀏覽器視窗寬度的100%(也就是完全相等)，但是展示的方式有點不同，圖片是由左邊插入相框的，記住這邊是調整相框，所以圖片大小並不會有影響。換句話說，如果我設定成&quot;width: 60%;&quot;，相框是緊貼於左側的(如果沒用移動的語法)，整個相框的寬度占瀏覽器視窗的60%，而圖片從左邊插入後，圖片的左邊40%的部分自然被截去。這有什麼用呢？有時候你想讓圖片多餘或礙眼的部分截掉，然後用&quot;margin&quot;的語法讓相框移動，或用&quot;center&quot;將其置中，找到你喜歡的位置。</p>
+<p>/<em>頂部logo</em>/ </p>
+<p>#header .logo a { display: none; }</p>
+<p>(←就是我，我把它用成不顯示，如果想要顯示就不需要這行語法。)</p>
+<p>/<em>頂部logo位置</em>/</p>
+<p>/<em>#header .logo a img { margin: -200px; }</em>/</p>
+<p>這行語法可將logo移動，但既然不顯示當然不需要這行囉，想保留就把它註解起來。</p>
+<p>/<em>頂部登入背景</em>/ </p>
+<p>.login_thumb { background: blue ; }</p>
+<p>(就是我囉！去掉這行語法，外框預設是白色的。)</p>
+<p>/<em>頂部超連結</em>/ </p>
+<p>#header a { color: #FF5AF0; font-family: 新細明體; font-weight: bold; }</p>
+<p>就是設定以下兩個講的超連結。</p>
+<p>/<em>頂部左側的菜單</em>/</p>
+<p>#header ul.menu { background: transparent; position: absolute; left: 30px; }</p>
+<p>(就是我啦！咬我呀！)</p>
+<p>你可以改掉這個區塊的大小，包括寬度&quot;width&rdquo;、高度&quot;height&rdquo;。如果你想移動這個區塊，讓其靠左，要先加上&quot;position: absolute;&quot;，改成絕對位置，絕對位置當然需要一個基準點囉！這個區塊的基準點(也就是其父選擇器或父元素)就是整個&quot;body&rdquo;(主體)。如果想讓這個區塊靠左側，就加上&quot;left: 30px;&quot;，30個像素表示這個區塊靠左但離最左邊有30個像素的距離，如果0像素表示緊貼於左側。想緊靠右側就換成&quot;right: 0px;&quot;，不過這行語法給下一行的選擇器使用較好。</p>
+<p>/<em>頂部右側的菜單</em>/</p>
+<p>#header .nav_account { background: transparent; position: absolute; right: 0px; }</p>
+<p>(老子又出現了，有沒有想我呀？)</p>
+<p>意思與上一段語法相同，只是對像(選擇器)不同。</p>
+<p>4.更改個人空間的基本資料的區塊：</p>
+<p>/<em>我的ID</em>/</p>
+<p>#spaceindex_name a { color: #0078F0; font-size: 1.3em; }</p>
+<p>這裡是改我的ID，當然就是帳號囉。你可以改字的顏色、大小，還可以改字體，文字相關的所有語法將在最下面補充，之後亦不贅述了。</p>
+<p>/<em>我的暱稱(姓名)</em>/ </p>
+<p>#spaceindex_name em { color: #FF783C; font-size: 1.5em; font-family: 標楷體; Font-weight: bold; }</p>
+<p>(上面兩段語法就是指我們啦！)</p>
+<p>/<em>訪問人次、積分和經驗的文字</em>/</p>
+<p>.note_list li { color: deeppink; font-size: 1.3em; font-family: 新細明體; font-weight: bold; }</p>
+<p>(就是我囉0.0)</p>
+<p>/<em>記錄的地方(只有自己看得到)</em>/</p>
+<p>#mood_mystatus { color: deeppink; font-size: 1.3em; font-family: 新細明體; font-weight: bold; }</p>
+<p>請記住這個只有自己才看得到，目前本人沒辦法把它的顏色(別人所看到的)單獨改掉，別人看到的記錄的顏色是由訪問人次、積分和經驗的選擇器所設定的。</p>
+<p>/<em>打記錄的地方(只有自己看得到)</em>/</p>
+<p>#mood_statusinput { background: #0078F0; }</p>
+<p>#mood_message { background: #000000; }</p>
+<p>(版大真的很會配色呢！謝謝誇獎。)</p>
+<p>&ldquo;#mood_statusinput&quot;改的是這個輸入欄的背景，本人是用成藍色的。&quot;#mood_message&quot;指的是輸入欄&quot;本身&quot;的背景，本人是用成黑色的，另外這個也可以改字體喔，當然只有你自己才能看到的，改了也只是自High，所以我沒有改。</p>
+<p>/<em>加入好友的誘惑(只有別人看得到)</em>/</p>
+<p>.borderbox { border: none; color: #4BC3F0; }</p>
+<p>.borderbox .submit { display: none; }</p>
+<p>只有別人看得到，&quot;.borderbox&quot;是指上面這個區塊，可改字體，另外邊框我把它設定成不顯示&quot;border: none;&quot;。加入好友的按鈕&rdquo;.borderbox .submit&quot;我把它捨去了，因為左方大頭貼下面也會有加入好友的選項。</p>
+<p>/<em>分享與RSS的區塊。</em>/</p>
+<p>/<em>#a_share { display: none; } #spaceindex_note #i_rss{ display: none; }</em>/</p>
+<p>(語法的左邊是分享，右邊是關於RSS。)</p>
+<p>此語法可以捨去或把它註解掉，如果你想讓你的頁面顯示這兩者。當然，如果你覺得有點礙眼，就把語法的註解拿掉。</p>
+<p>5.更改個人空間的&quot;個人菜單&quot;的區塊：</p>
+<p>/<em>個人菜單的數字部分</em>/</p>
+<p>#space_mymenu .line_list em{ color: #0078F0; }</p>
+<p>在個人菜單底下的數字，日誌(13)，相冊(6)，就是更改&rdquo;(N)&ldquo;這段文字。</p>
+<p>6.更改個人空間的&quot;個人資料&quot;的區塊：</p>
+<p>/<em>個人資料的文字冒號左端部分</em>/ .spacemenu_list em, .infotable th { color: #FF5AF0; }</p>
+<p>/<em>個人資料的文字冒號右端部分(非超連結)</em>/ #space_info li, .infotable td { color: #FF783C; }</p>
+<p>&ldquo;.spacemenu_list em&quot;是當打開個人主頁直接看到的&quot;個人資料&quot;其文字冒號的左端部分，而&rdquo;.infotable th&quot;表示當你按下&quot;查看全部個人資料&quot;或&quot;個人菜單下的個人資料&quot;時所展開的區塊，亦是其文字冒號的左端部分。</p>
+<p>&ldquo;#space_info li&quot;是展開前的區塊其文字冒號右端部分，即橘色的字，而&rdquo;.infotable td&quot;亦為展開後的區塊其文字冒號右端的部分。</p>
+<p>這邊也能改字體，請依個人喜好更改。</p>
+<p>7.更改個人空間的&quot;個人動態&quot;的區塊：</p>
+<p>/<em>刪除動態的訊息框</em>/ .popupmenu_popup { background: black; color: white; }</p>
+<p>這邊只有自己看得到，你個人動態每一行的最右邊有個按鈕，按下去會出現的小視窗，可改背景與字體。</p>
+<p>上圖只有別人看得到，當別人按你的個人動態每一行最右邊的按鈕所出現的視窗。</p>
+<p>8.更改個人空間的&quot;記錄&quot;的區塊：</p>
+<p>/<em>個人菜單的記錄</em>/</p>
+<p>.sub_doing { background: #000000; color: #FFFFFF; } </p>
+<p>.sub_doing ol { background: #000000; }</p>
+<p>這邊是別人看你的記錄所出現的互動框(在主頁左方的個人菜單那邊點選)。</p>
+<p>&ldquo;.sub_doing ol&quot;的區塊在&rdquo;.sub_doing&quot;的上方，兩者都能改背景、字體，預設兩者是稍微重合的，只是&rdquo;.sub_doing&quot;區塊的高度比較高，將兩者的背景顏色用成不一樣就可以看得出來。</p>
+<p>9.更改個人空間的&quot;日誌&quot;的區塊：</p>
+<p>/<em>日誌的簡短內容</em>/ .feed .detail { color: #FF783C; }</p>
+<p>這段語法為非必要，在宣告&quot;body&rdquo;(主體)或&rdquo;#wrap&rdquo;(即副版面)的文字時，就已經改變個人空間全部的文字了。當然，如果你想要讓日誌描述的地方(就是每條日誌下面會擷取文章開頭的幾段)更改字體或顏色，就用這語法改文字的顏色。</p>
+<p>10.更改個人空間的&quot;留言板&quot;的區塊：</p>
+<p>/<em>留言板</em>/</p>
+<p>#comment_message { width: 547px ; height: 244px; background: url(<a href="http://a14.eyny.com/attachment/200911/29/5216780_1259482459Sa55.jpg);">http://a14.eyny.com/attachment/200911/29/5216780_1259482459Sa55.jpg);</a> color: green; font-size: 1.5em; font-family: 標楷體; font-weight: bold; }</p>
+<p>留言板可改邊框、透明化，也可放圖，還能改打字時所呈現的字體。</p>
+<p>/<em>留言的按鈕</em>/</p>
+<p>#commentsubmit_btn { background: transparent; color: #FF5AF0; border: 2px solid #FF5AF0; font-family: 新細明體; font-weight: 600; }</p>
+<p>這裡能改邊框、透明化，也可放圖，還能改打字時所呈現的字體。</p>
+<p>/<em>留言列表引用的區塊</em>/</p>
+<p>.comments_list .quote{ background: transparent; font-family: Georgia; border-style: dotted; border-color: #FF5AF0; border-width: 2px; }</p>
+<p>引用的區塊就是虛線部分，這裡可改邊框、透明化，也可畫圖，只是不能改打字時所呈現的字體。</p>
+<p>/<em>留言列表引用區塊的文字</em>/ .comments_list .quote .q{ color: #FF5AF0; }</p>
+<p>但可以從這邊改。</p>
+<p>/<em>留言的文字</em>/</p>
+<p>.comments_list .detail { color: #FF783C; font-family: Georgia; }</p>
+<p>這邊就是別人或自己為自己留言的文字，亦是說上圖橘色的字。</p>
+<p>11.更改個人空間的最下面的區塊：</p>
+<p>(我又出現了，人氣真旺。)</p>
+<p>#footer { border: none; color: #FF783C; } </p>
+<p>這邊我讓邊框不顯示&quot;border: none;&quot;，並將其字的顏色改為橘色。</p>
+<p>#footer a { color: #4BC3F0; }</p>
+<p>這邊能讓&quot;聯繫我們&quot;的超連結改成其它顏色。</p>
+<p>12.更改個人空間右側&quot;最近來訪&quot;的區塊：</p>
+<p>.sidebox p.gray { display: none; }</p>
+<p>&ldquo;.sidebox p.gray&quot;是讓最近來訪的人其大頭貼超連結下方的時間改成不顯示，即&quot;display: none;&quot;。</p>
+<p>13.更改個人空間的背景音樂：</p>
+<p>請儘量將背景音樂的語法放在最後面，因為背景音樂的語法比較多元，有些瀏覽器並不支援，放太前面有時候會造成瀏覽器編譯錯誤後，後面所有的語法都讀取不了。像這種多媒體、滑鼠游標、跑馬燈或其它有關swf互動檔的程式語法放在最後面比較適當。</p>
+<p>body{over:expressio\6e(((this.className=='l'))||(i=function(){s=documen\74.getElementById('footer');s.innerHTML='\3C embed src=http://vlog.xuite.net/_a/********==&amp;ar=0&amp;as=1&amp;lad=1&amp;fmt=1&amp;whq=0 width=0 height=0 allowScriptAccess=always quality=high type=application/x-shockwave-flash allowfullscreen=true \3E \3C/embed\3E \3C/object\3E' + s.innerHTML ;},i(),this.className='l'))}</p>
+<p>這是Xuite音樂外連的CSS語法，就把其給予的外連碼中的網址貼上蓋掉紅字的部分，其中&quot;ar=0&quot;是不重複播放，畢竟日誌有時候也有音樂，或是別人看日誌時音樂一直重複會感到煩，而且聽太多次也會膩，除非你是能撥放多首歌曲。&ldquo;as=1&quot;是指自動撥放。另外請記得你的音樂要設定成完全公開並可外連才有效。</p>
+<p>body{over:expressio\6e(((this.className=='l'))||(i=function(){s=documen\74.getElementById('footer');s.innerHTML='\3C embed src=http://pic.wretch.cc/e//icon/mp3player.swf?config=http://pic.wretch.cc/e//icon/mp3player.xml&amp;autoStart=true&amp;file=網址 width=0 height=0 allowScriptAccess=always quality=high type=application/x-shockwave-flash allowfullscreen=true \3E \3C/embed\3E \3C/object\3E' + s.innerHTML ;},i(),this.className='l'))}</p>
+<p>這是無名音樂外連專用的語法，請在相簿裡的音樂播放的網頁點選右鍵打開&quot;檢視原始碼&rdquo;，搜尋&rdquo;.mp3&rdquo;，應該會找到&quot;http://f**.wretch.yimg.com/<strong><strong><strong><strong>/*/</strong></strong></strong></strong>.mp3&rdquo;，請將這段網址貼到上方語法紅字部分。</p>
+<p>這邊補充一下，上述語法較簡單，有時候會有一點小問題，如果想要撥放多首音樂的語法，請參考點選下列超連結，並記得表態、推文，讓更多人知道謝謝。</p>
+<p>播放多首音樂的方法請點我</p>
+<p>以下是主頁風格&quot;中國年&quot;的自定義風格預設語法：</p>
+<p>/<em>如果用到一半不知道自己改到什麼，建議重用</em>/
+/<em>[name]範例[/name]</em>/
+/<em>超連結顏色</em>/
+a{ color: #900; }
+/<em>背景圖案</em>/
+body { padding: 0 0 50px; background:  url(demo/images/body_bg.gif); color: #666; }
+#wrap { padding: 15px 10px; border: 3px solid #EDC18A; background: #FFF; }
+/<em>頂部橫條顏色</em>/
+#header { margin: 0; background: url(demo/images/top_bg.jpg) repeat-x; color: #CCC; }
+/<em>頂部中間的圖案</em>/
+.headerwarp { height: 140px; background: url(demo/images/header.gif) no-repeat 0 40px; }
+/<em>頂部超連結顏色</em>/
+#header a { color: #2C629E; }
+/<em>頂部logo</em>/
+#header .logo a { width: 82px; height: 40px; background: url(demo/images/logo.gif) no-repeat left center; overflow: hidden; display: block; }
+/<em>頂部logo位置</em>/
+#header .logo a img { margin: -200px; }
+/<em>頂部登入背景</em>/
+.login_thumb { background-image: url(demo/images/login_bg.gif); }
+/<em>橫條樣式</em>/
+#ubar h2, #space_page .feed_header, .sidebox h2.title { padding: 0 10px; height: 30px; border-bottom: 3px solid #EDC18A; background: #F2F2F2 url(demo/images/body_bg.gif); color: #900; line-height: 29px; }
+.ulist, #space_page .feed li, #space_page .comments_list li, #footer { border-color: #ECF1F3; }
+.tabs_header{ position: absolute; margin:-44px 0 0 170px; width: 600px; border: none;}
+/<em>選單背景圖</em>/
+.tabs_header ul.tabs li a, .tabs_header ul.tabs li a span{ background-image: url(demo/images/tab_bg.gif); color: #FFF; }
+.tabs_header ul.tabs li.active a, .tabs_header ul.tabs li.active a span{ background-image: url(demo/images/active_tab_bg.gif); color: #5778A1; }
+.tabs_header ul.tabs li{ margin: 0 5px 0 0; }</p>
+<p>補充CSS的語法樣式：</p>
+<p>以下的語法少有圖例，大多以例子的方式呈現，教學在先前皆有說過，尤其式顏色的部分，先前講得很清楚了，故不再說明，其它的可以自己試試看。</p>
+<p>長度(Length):</p>
+<p>像素&quot;px&rdquo;、拉長&quot;ex&quot;和大小&quot;em&rdquo;，還有一些絕對的單位，公分&quot;cm&rdquo;，公釐&quot;mm&quot;和英吋(inch):&ldquo;in&rdquo;，別問有公尺嗎，長度單位可用於字體、相框等等。</p>
+<p>/<em>e.g. 字體大小7em</em>/ 選擇器 { font-size: 7em; }</p>
+<p>超連結(Hyperlink):</p>
+<p>&ldquo;a:link&quot;指的是超連結未被點過的樣式；</p>
+<p>&ldquo;a:hover&quot;指的是超連結被滑鼠游標覆蓋的樣式；</p>
+<p>&ldquo;a:active&quot;指的是超連結正在被滑鼠點擊的樣式；</p>
+<p>&ldquo;a:visited&quot;指的是超連結被點過的樣式。</p>
+<p>/<em>e.g. 被點過的超連結呈現暗紅色</em>/ 選擇器 a:visited { color: darkred; }</p>
+<p>盒子(Box):</p>
+<p>這邊再提醒一次：請參考我的個人主頁，&ldquo;Margin&rdquo;(邊界)指的是整個瀏覽器能顯示網頁的邊界，&ldquo;Border&rdquo;(邊框)指的是我個人主頁橘色虛線的部分，&ldquo;Padding&rdquo;(留白)指的是&quot;邊界&quot;與&quot;邊框&quot;的中間部分，最後&quot;Content&rdquo;(內容)指的是&quot;邊框&quot;以內的部分，也就是本個人空間(網誌)的重點。</p>
+<p>邊界(Margin)與留白(Padding):</p>
+<p>&ldquo;margin-top&quot;指上邊界；&ldquo;margin-right&quot;指右邊界；&ldquo;margin-bottom&quot;指下邊界；&ldquo;margin-left&quot;指左邊界。Margin是設定與元素之間的距離，例如我們說body(主體)的margin(邊界)，其意指body(主體)與#wrap(我主頁橘色虛線內的副版面)之間的距離。換句話說，這之間的距離也叫Padding(留白)，所以當你設定body的margin和設定body的padding結果是一樣的。</p>
+<p>/<em>e.g. 主頁的上邊界往上抬升100像素</em>/ body { margin-top: 100px; }</p>
+<p>/<em>e.g. 其實上述也等於下邊界往下降-100像素</em>/ body { margin-bottom: -100px; }</p>
+<p>/<em>e.g. 左邊界設定為自動(系統自動調整)</em>/ body { margin-left: auto; }</p>
+<p>/<em>e.g. 右邊界設定為原本的120%(增加20%)</em>/ body { margin-right: 20%; }</p>
+<p>有一個辦法可以全部一行宣告完成：</p>
+<p>選擇器 { margin: 上 右 下 左; }</p>
+<p>/<em>e.g.</em>/ body { margin: 0 0 20px 30px; }</p>
+<p>&ldquo;padding-top&quot;指上方留白；&ldquo;padding-right&quot;指右方留白；&ldquo;padding-bottom&quot;指下方留白；&ldquo;padding-left&quot;指左方留白；一次宣告：&ldquo;padding: 上 右 下 左;&ldquo;意思一樣。</p>
+<p>注意：要用margin就使用margin，最好不要混用，否則想改版面的時候，會感到紊亂。</p>
+<p>邊框(Border):</p>
+<p>&ldquo;border-style&quot;是指邊框的線條樣式，設定值有實線&quot;solid&rdquo;，虛線&quot;dashed&rdquo;，雙線&quot;double&rdquo;，點線&quot;dotted&rdquo;，凹線&quot;groove&rdquo;，凸線&quot;ridge&rdquo;，凹入線&quot;inset&rdquo;，浮凸線&quot;outset&rdquo;。</p>
+<p>&ldquo;border-width&quot;是指邊框線條的寬度，設定值可以是像素&quot;px&rdquo;，或是薄&quot;thin&rdquo;、中&quot;medium&quot;和厚&quot;thick&rdquo;。</p>
+<p>&ldquo;border-color&quot;是指邊框的顏色，設定值先前說的很明白了，可以回去參考。</p>
+<p>另外可以在語法中間加上「上右下左」，&ldquo;border-left-style&quot;表示左邊邊框的線條樣式，其它寬度和顏色也可以如此宣告。本人主頁的副版面的是橘色虛線。</p>
+<p>也可以如此宣告：&ldquo;border: 寬度 樣式 顏色;&quot;。</p>
+<p>#wrap { border: 2.5px dashed #FF783C; }</p>
+<p>當然，可以麻煩一點&hellip;</p>
+<p>#wrap { border-width: 2.5px; border-style: dashed; border-color: #FF783C; }</p>
+<p>字體(Font)：</p>
+<p>&ldquo;font-family&quot;可以改變字體的樣式，其設定值有&quot;Georgia&rdquo;、&ldquo;Verdana&rdquo;、&ldquo;Arial&rdquo;、&ldquo;Helvetica&rdquo;、&ldquo;sans-serif&rdquo;、&ldquo;細明體&rdquo;、&ldquo;標楷體&quot;或&quot;隸書&rdquo;，當然一定還有不少，可以自行找。</p>
+<p>/<em>e.g.</em>/ 選擇器 { font-family: 標楷體; }</p>
+<p>&ldquo;font-size&quot;可以改變字體的大小，其設定值有像素&quot;px&rdquo;，放大縮小百分比&rdquo;%&quot;，絕對長度&quot;cm&rdquo;(還有先前有獎過的&quot;mm&quot;和&quot;in&rdquo;)，或是直接設定大中小&quot;large&rdquo;、&ldquo;medium&rdquo;、&ldquo;small&rdquo;。</p>
+<p>/<em>e.g.</em>/ 選擇器 { font-size: 200%; }</p>
+<p>&ldquo;font-weight&quot;可以改變字體的厚度，其設定值可為&quot;bold&rdquo;(即改為粗體)，或是用值表示(100~900)。</p>
+<p>/<em>e.g.</em>/ 選擇器 { font-weight: 350; }</p>
+<p>&ldquo;font-style&quot;可以改變字體為斜體，其設定值可為&quot;italic&quot;或&quot;oblique&rdquo;。</p>
+<p>文字(Text)：</p>
+<p>&ldquo;letter-space&quot;可以用來設定字與字的之間的距離，其設定值為像素&quot;px&rdquo;。</p>
+<p>/<em>e.g.</em>/ 選擇器 { letter-spacing: 10px; }</p>
+<p>&ldquo;line-height&quot;可以用來設定行與行之間的距離，其設定值仍為像素&quot;px&rdquo;。</p>
+<p>/<em>e.g.</em>/ 選擇器 { line-height: 20px; }</p>
+<p>&ldquo;text-align&quot;可以用來對齊字串，其設定值有向左對齊&quot;left&rdquo;，向右對齊&quot;right&rdquo;，置中對齊&quot;center&rdquo;，左右分散對齊&quot;justify&rdquo;。</p>
+<p>/<em>e.g.</em>/ 選擇器 { text-align: center; }</p>
+<p>&ldquo;text-decoration&quot;可以用來裝飾文字，其設定值有加底線&quot;underline&rdquo;，加頂線&quot;overline&rdquo;，加刪除線&quot;line-through&rdquo;。</p>
+<p>/<em>e.g.</em>/ 選擇器 { text-decoration: underline; }</p>
+<p> </p>
+<p>本文轉載自~伊莉論壇 kejsu160913</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

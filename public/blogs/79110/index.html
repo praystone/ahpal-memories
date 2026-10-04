@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>主頁小掛件教學 — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">主頁小掛件教學</h1>
+        <div class="blog-meta">
+            <span>✍️ 愛麥兜</span>
+            <span>📅 2011-12-17</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：愛麥兜</p>
+<p><strong>發文</strong>：2011-12-17</p>
+<p><strong>瀏覽</strong>：0 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p> </p>
+<p>♥掛件說明♥</p>
+<p>寬高為140x210</p>
+<p>如果覺得太小 可以在自行修改寬高</p>
+<p>要放在主頁的CSS語法如下</p>
+<p> </p>
+<p>#obar {over:expressio\6e(((this.className=='1'))||(i=function(){s=documen\74.getElementById('obar');s.innerHTML='\3C 在此貼上你所選定的語法 \3E \3C/embed\3E\3C/object\3E' +s.innerHTML ;},i(),this.className='1'))}</p>
+<p> </p>
+<p>藍色字的地方是在98主頁上播放顯示的位置，以下是可放置的位置：</p>
+<p>footer是放在主頁最下面，</p>
+<p>ubar是放在大頭貼的上面，</p>
+<p>obar是路人名單上面，</p>
+<p>header是頂端圖片位置</p>
+<p>space_info是在用戶組別、主頁地址的下面(個人資料的標題上面)，</p>
+<p>space_mymenu是放在個人菜單上面(大頭貼的下面)，</p>
+<p>comment是放在相簿的表格中(留言版標題的上面)，</p>
+<p>i_rss是放在RSS列那條裡面。</p>
+<p>每一個擺放位子都有一定的限定大小</p>
+<p>請自行斟酌測試</p>
+<p>不要玩壞了 來怪我這隻小螞蟻唷~~~~</p>
+<p>第一款:</p>
+<p>embed src=http://img94.imageshack.us/img94/6923/bulletin1.swf width= 140 height= 210 flashvars= go=第一段話#第二段話#第三段話 quality= high wmode= transparent</p>
+<p>第二款:</p>
+<p>&lt;embed src= <a href="http://img94.imageshack.us/img94/5147/bulletin2.swf">http://img94.imageshack.us/img94/5147/bulletin2.swf</a> width= 140 height= 210 flashvars= go=第一段話#第二段話#第三段話 quality= high wmode= transparent</p>
+<p>第三款:</p>
+<p>embed src= <a href="http://img94.imageshack.us/img94/2714/bulletin3.swf">http://img94.imageshack.us/img94/2714/bulletin3.swf</a> width= 140 height= 210 flashvars= go=第一段話#第二段話#第三段話 quality= high wmode= transparent</p>
+<p> </p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

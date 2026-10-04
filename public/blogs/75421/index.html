@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>CSS(簡單版) — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">CSS(簡單版)</h1>
+        <div class="blog-meta">
+            <span>✍️ 胖臉ㄦ</span>
+            <span>📅 2011-11-07</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：胖臉ㄦ</p>
+<p><strong>發文</strong>：2011-11-07</p>
+<p><strong>瀏覽</strong>：1 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p>/<em>超連結</em>/
+a{ color: #1C86EE ;  }</p>
+<p>/<em>用戶－暱稱、姓名、綜合</em>/
+.borderbox { border: ; color: brown ; }
+.note_list li { color:brown; }</p>
+<p>#space_page .gray { color: brown; }
+#space_info li, .infotable td { color: brown ; }
+.feed .detail { color: brown ; }</p>
+<p>/<em>留言版－背景圖、按鈕顏色</em>/
+#comment_message { width: 547px ; height: 308px; background: url(<a href="http://ahpal.com/home/attachment/201110/18/37093_1318930791qgUW.jpg">http://ahpal.com/home/attachment/201110/18/37093_1318930791qgUW.jpg</a>) ;color: brown;font-size: 2.5em; }
+#commentsubmit_btn { background: transparent; color: #FF5AF0; border: 2px solid #FF5AF0; font-family: 新細明體; font-weight: 600; }</p>
+<p>#comment_message, { border-style: ridge;border-color:#4876FF;border-width: 1px; }</p>
+<p>/<em>背景圖</em>/
+body { padding: 0 0 50px; background:  url(<a href="http://ahpal.com/home/attachment/201110/17/37093_1318840446l2kk.jpg);background-repeat:no-repeat">http://ahpal.com/home/attachment/201110/17/37093_1318840446l2kk.jpg);background-repeat:no-repeat</a> ;background-position :50% 40% ;background-attachment: fixed;}</p>
+<p>html{SCROLLBAR-ARROW-COLOR: brown ;
+SCROLLBAR-TRACK-COLOR: brown;
+SCROLLBAR-BASE-COLOR: brown  }</p>
+<p>/<em>以下↓－以下的頂部圖檔、橫條、選單可選擇自己想要的風格做調適</em>/
+#wrap { background:url();}</p>
+<p>/<em>頂部－橫條顏色</em>/
+#header { margin: 0 auto; padding: 0 0px;width: 970px; background: url() repeat-x; color: brown ; }</p>
+<p>/<em>頂部－中間的圖案</em>/
+.headerwarp { width: 945px; height: 600px; background: url() no-repeat 0 40px; }</p>
+<p>/<em>頂部－超連結顏色</em>/
+#header a  { color: brown ; }</p>
+<p>/<em>頂部－LoGo</em>/
+#header .logo a { width: 0px; height: 0px; background: url() no-repeat left center; overflow: hidden; display: block; }</p>
+<p>/<em>頂部－LoGo位置</em>/
+#header .logo a img { margin: -200px; }</p>
+<p>/<em>頂部－登入背景</em>/
+.login_thumb { background-image: url(); }
+#ubar h2,
+#space_page .feed_header,
+/<em>副版面的所有橫條</em>/
+#space_page #ubar h2, #space_page .feed_header, #space_page .sidebox h2.title { background: transparent; text-align: center; color: lime ; font-size: 1.4em ; border-style: outset; border-color: lavender ; border-width: 5px; }</p>
+<p>/<em>橫條－樣式</em>/
+#ubar h2, #space_page .feed_header, #space_page .sidebox h2.title  { background:url() no-repeat;padding-left:10px;padding-top:10px; color: white;}
+.ulist,
+#space_page .feed li,
+#space_page .comments_list li,
+#footer { border-color: #F8F2F5; }
+.tabs_header{ position: absolute; margin:-44px 0 0 170px; width: 600px; border: none;}</p>
+<p>/<em>以上↑－選單背景圖</em>/
+.tabs_header ul.tabs li a, .tabs_header ul.tabs li a span{ background-image: url(); color: brown; }
+.tabs_header ul.tabs li.active a, .tabs_header ul.tabs li.active a span{ background-image: url(); color: brown; }</p>
+<p>.tabs_header ul.tabs li{margin: 0 5px 0 0;}
+#space_feed{display:none;}</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

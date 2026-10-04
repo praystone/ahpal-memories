@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>CSS透明濾鏡(Alpha) — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">CSS透明濾鏡(Alpha)</h1>
+        <div class="blog-meta">
+            <span>✍️ kaisiyu</span>
+            <span>📅 2010-06-13</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：kaisiyu</p>
+<p><strong>發文</strong>：2010-06-13</p>
+<p><strong>瀏覽</strong>：253 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p> </p>
+<p>注意!!!濾鏡效果僅IE有支援</p>
+<p>所以在讀這篇文章時，請用IE瀏覽!!</p>
+<p> </p>
+<p>首先，先大概說明一下</p>
+<p>語法</p>
+<p>{ FILTER：ALPHA(opacity=opacity,finishopacity=finishopacity,style=style,startx=startx,
+starty=starty,finishx=finishx,finishy=finishy)}</p>
+<p> 
+說明</p>
+<p>&ldquo;Alpha&quot;屬性是把一個目標元素與背景混合，設計者可以指定數值來控制混合的程度，</p>
+<p>這種“與背景混合”通俗地說就是一個元素的透明度，</p>
+<p>通過指定座標，可以指定點、線、面的透明度，</p>
+<p>他們的參數含義分別如下:</p>
+<p>&ldquo;opacity&quot;代表透明度水準，其範圍值是從0到100，他其實是百分比的形式。也就是說，0代表完全透明，100代表完全不透明。</p>
+<p>&ldquo;finishopacity&quot;是一個可選參數，如果想要設置漸變的透明效果，就可以使用他來指定結束時的透明度。範圍也是0 到 100。</p>
+<p>&ldquo;style&quot;參數指定了透明區域的形狀特徵。其中0代表統一形狀、1代表線形、2代表放射狀、3代表方形。</p>
+<p>&ldquo;STARTX&quot;和&quot;STARTY&quot;代表漸變透明效果的開始X和Y座標。</p>
+<p>&ldquo;FINISHX&quot;和&quot;FINISHY&quot;代表漸變透明效果結束X和Y 的座標。</p>
+<p> </p>
+<p>原圖</p>
+<p>無任何濾鏡效果，</p>
+<p>接下來的濾鏡效果，僅有IE瀏覽器才看的到喔!</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>統一形狀 rn{FILTER：ALPHA(opacity=70)}</p>
+<p>Opacity=70,Style=0
+Style=0 為預設值可不寫</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>線形</p>
+<p>{FILTER：ALPHA(opacity=70,Style=1)}</p>
+<p>Opacity=70,Style=1</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>放射狀</p>
+<p>{FILTER：ALPHA(opacity=70,Style=2)}</p>
+<p>Opacity=70,Style=2</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>方形</p>
+<p>{FILTER：ALPHA(opacity=70,Style=2)}</p>
+<p>Opacity=70,Style=2</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>到這裡，應該大致了解其用法了，接下來做一些補充，</p>
+<p>雖然其他瀏覽器不支援濾鏡效果，但是還是有其各家支援的透明參數，</p>
+<p>簡單條列各瀏覽器透明度參數寫法如下：</p>
+<p>FireFox、Safari跟Opera：
+opacity: 數值;  (數值為0~1)</p>
+<p>古老的FireFox寫法：
+-moz-opacity: 數值; (數值為0~1)</p>
+<p>古老的Safari寫法：
+-khtml-opacity:數值; (數值為0~1)</p>
+<p>使用範例:</p>
+<p>{filter:alpha(opacity=50);opacity:0.5;</p>
+<p>-moz-opacity:0.5;-khtml-opacity: 0.5;</p>
+<p> </p>
+<p>這張圖可以用其他瀏覽器看</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>其他應用技巧</p>
+<p>兩個以上的濾鏡效果</p>
+<p>各個濾鏡可以混合使用
+只要在各濾鏡間加上空白鍵區隔就行了
+例如這張圖用了Alpha Gray Invert三個濾鏡
+{FILTER:Alpha(Opacity=80,Style=3) Invert Gray;}</p>
+<p>由於是為了呈現效果&hellip;所以看起來跟鬼一 樣~&quot;~</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>:hover 的搭配運用</p>
+<p>效果如右圖，請將游標移向右圖</p>
+<p>#Cooked_rice img{filter:alpha(opacity=50); opacity:0.5; -moz-opacity:0.5;}
+#Cooked_rice:hover p img{filter:alpha(opacity=100); opacity:1; -moz-opacity:1;}</p>
+<p> </p>
+<p> </p>
+<p>到這應該差不多了，假如有錯誤的地方，歡迎指正喔=^_^=</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

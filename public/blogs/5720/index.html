@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>base64編碼解碼的實現(C語言) — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">base64編碼解碼的實現(C語言)</h1>
+        <div class="blog-meta">
+            <span>✍️ Powered</span>
+            <span>📅 2008-06-11</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：Powered</p>
+<p><strong>發文</strong>：2008-06-11</p>
+<p><strong>瀏覽</strong>：130 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p>#include &lt;stdio.h&gt;
+#include &lt;string.h&gt;
+#include &lt;malloc.h&gt;</p>
+<p>char*  ch64=&ldquo;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/&rdquo;;</p>
+<p>unsigned char *encode(unsigned char *src,int srclen)
+{
+int n,buflen,i,j;
+int pading=0;
+unsigned char *buf;
+static unsigned char *dst;</p>
+<p>buf=src;
+buflen=n=srclen;
+if(n%3!=0)  /* pad with &lsquo;=&rsquo; by using a temp buffer <em>/
+{
+  pading=1;
+  buflen=n+3-n%3;
+  buf=malloc(buflen+1);
+  memset(buf,0,buflen+1);
+  memcpy(buf,src,n);
+  for(i=0;i&lt;3-n%3;i++)
+   buf[n+i]=&rsquo;=&rsquo;;
+}
+dst=malloc(buflen</em>4/3+1);
+memset(dst,0,buflen<em>4/3+1);
+for(i=0,j=0;i&lt;buflen;i+=3,j+=4)
+{
+  dst[j]=(buf&amp;0xFC)&gt;&gt;2;
+  dst[j+1]=((buf&amp;0x03)&lt;&lt;4) + ((buf[i+1]&amp;0xF0)&gt;&gt;4);
+  dst[j+2]=((buf[i+1]&amp;0x0F)&lt;&lt;2) + ((buf[i+2]&amp;0xC0)&gt;&gt;6);
+  dst[j+3]=buf[i+2]&amp;0x3F;
+}
+for(i=0;i&lt;buflen</em>4/3;i++) /* map 6 bit value to base64 ASCII character */
+  dst=ch64[dst];
+if(pading)
+  free(buf);
+return dst;
+}</p>
+<p>unsigned char *decode(unsigned char *src)
+{
+int n,i,j;
+unsigned char *p;
+static unsigned char *dst;</p>
+<p>n=strlen(src);
+for(i=0;i&lt;n;i++) /* map base64 ASCII character to 6 bit value <em>/
+{
+  p=strchr(ch64,src);
+  if(!p)
+   break;
+  src=p-ch64;
+}
+dst=malloc(n</em>3/4+1);
+memset(dst,0,n*3/4+1);
+for(i=0,j=0;i&lt;n;i+=4,j+=3)
+{
+  dst[j]=(src&lt;&lt;2) + ((src[i+1]&amp;0x30)&gt;&gt;4);
+  dst[j+1]=((src[i+1]&amp;0x0F)&lt;&lt;4) + ((src[i+2]&amp;0x3C)&gt;&gt;2);
+  dst[j+2]=((src[i+2]&amp;0x03)&lt;&lt;6) + src[i+3];
+}
+return dst;
+}</p>
+<p>void main()
+{
+// char <em>src=&ldquo;zhangwu張武&rdquo;;
+char src[]={&lsquo;1&rsquo;,&lsquo;2&rsquo;,&lsquo;3&rsquo;,0,&lsquo;a&rsquo;,&lsquo;b&rsquo;,&rsquo;</em>&rsquo;,0,&lsquo;A&rsquo;,&lsquo;B&rsquo;,&rsquo;$&rsquo;};
+unsigned char *dst1;
+unsigned char *dst2;
+unsigned int i;</p>
+<p>dst1=encode(src,11); /* the second parameter must accord with the first one */
+printf(&quot;%s\n&quot;,dst1);
+dst2=decode(dst1);
+for(i=0;i&lt;_msize(dst2);i++)
+  printf(&quot;%c&quot;,dst2);</p>
+<p>free(dst1);
+free(dst2);
+}</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

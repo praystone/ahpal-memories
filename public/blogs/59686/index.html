@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>該死~火狐變笨~ie變聰明了! — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">該死~火狐變笨~ie變聰明了!</h1>
+        <div class="blog-meta">
+            <span>✍️ galer</span>
+            <span>📅 2011-07-18</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：galer</p>
+<p><strong>發文</strong>：2011-07-18</p>
+<p><strong>瀏覽</strong>：10 次 ｜ <strong>回應</strong>：16 則</p>
+<hr>
+<p>我跟你說<del>我本來是打算用這樣的路徑</del>來跑我們的程式~</p>
+<p>                                                         圖a
+你看到紅色的箭頭<del>就是我要走的路徑</del>
+那些藍色的點點點點<del>那個就是指我無限延伸的位址</del>
+結果很不可思議的事情發生了~
+你記不記得我們之前說的<del>火狐很聰明</del>都會自己找路徑<del>然後很快就走到指定的位置了</del>
+結果沒想到<del>這次火狐耍笨</del>耍的有夠徹底<del>他根本就是一路都迷失方向</del>
+於是我開始回想我們之前遇到的問題<del>想說不對阿</del>火狐不可能這麼呆~
+結果<del>我直接把上圖</del>左邊的css路徑先用簡單的看看<del>如下圖</del></p>
+<p>                                                          圖b
+我先把所有代碼都刪除<del>直接指定路徑</del>603為真的<del>rich假的</del>
+結果超誇張的<del>一樣讀取不了</del>我甚至改成連至php都不行<del>最後我把rich那行也刪掉</del>竟然還是不行~!!
+結果<del>終於被我找到原因</del>htaccess影響到了<del>我之前連css 都阻擋</del>所以火狐全被檔下來了!
+我更改了內碼<del>就可行了</del>但火狐依然無法如圖a所示<del>無法之後再轉一次php</del>!!
+你有沒有注意到一件事<del>我怎從頭到尾都沒提ie的事情</del>
+因為&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.ie他竟然完全沒上當~!!
+真的<del>不騙你</del>不管我之後把程式搞得多亂<del>火狐一直上當</del>惟獨ie不上當~!
+我用一種說法<del>你就很清楚了</del>
+htaccess &lt;&mdash;流氓
+火狐 &lt;&mdash;欺善怕惡的家伙
+IE &lt;&mdash;很直<del>很呆</del>不考慮後果的傢伙!</p>
+<p>有一天<del>火狐跑去PHP的家裡</del>要找CSS<del>結果</del>兇神惡煞的htaccess跟他說<del>他不在</del>
+於是<del>火狐看到htaccess那麼兇</del>連找都沒找<del>就回家了</del>!!
+但是<del>很直很呆的IE剛好在火狐離開不久後</del>也來找他的好朋友CSS了~
+當然的<del>htaccess很不耐煩的跟他說</del>&ldquo;煩不煩阿<del>他不在</del>快滾回家去<del>小心我扁你喔!&quot;</del>
+結果<del>IE因為很直</del>就看到那裏有好幾道門<del>也不理會htaccess就直接去開每一間的門</del>
+最後終於讓IE如願以償<del>找到CSS了</del>htaccess這位老兄<del>只好再去門口繼續圍堵火狐了</del>
+放IE自己在家裡玩的不亦樂乎!!</p>
+<p>所以呢<del>我只好改變擺法了</del>如下圖:</p>
+<p>                                            圖c
+(我圖畫錯<del>我中間的css跟最後的css都各有3個呢</del>不過你看得懂就好)</p>
+<p>我少了一層php的擺設<del>那麼</del>自然的<del>我的css裡面的語法</del>鐵定要讓人感到頭暈才行!
+我有說明跟圖示<del>都在這裡面</del>趕緊下載去看吧!!</p>
+<p>點我下載機密檔案
+第一個連不到的話點這裡</p>
+<p>今天freeweb好像不是很穩~你試試看哪個比較好下載!</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

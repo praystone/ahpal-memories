@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>各家BIOS嗶聲訊息意義 — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">各家BIOS嗶聲訊息意義</h1>
+        <div class="blog-meta">
+            <span>✍️ 巴薩拉</span>
+            <span>📅 2011-01-11</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：巴薩拉</p>
+<p><strong>發文</strong>：2011-01-11</p>
+<p><strong>瀏覽</strong>：65 次 ｜ <strong>回應</strong>：7 則</p>
+<hr>
+<p>BIOS在電腦開機時會針對電腦硬體做一連串的測試，如果有問題時會發出嗶嗶聲警告，可藉由嗶嗶聲的來判定電腦硬體那裡到底發生了何種故障，下列各家的BIOS嗶聲所代表的意義：</p>
+<p>【AMI BIOS】
+嗶聲數目代表意義
+1記憶體Refresh有問題
+2記憶體同位元檢查錯誤
+3前 64K 記憶區段檢測失敗
+4系統計時器失效
+5處理器錯誤
+6鍵盤控制器 8024 . A20 位址線錯誤
+7處理器發生異常中斷
+8顯示卡未裝妥或視訊記憶體存取錯誤
+9ROM BIOS 檢查錯誤
+10CMOS shutdown 暫存器存取錯誤
+11外部快取錯誤</p>
+<p>【PHOENIX BIOS】
+嗶聲方式代表意義
+2-2-3ROM BIOS 檢查碼錯誤
+3-1-1記憶體充電失敗
+3-1-3鍵盤控制器 8042 錯誤
+3-4-1512K 位址解碼電路錯誤
+3-4-3512K 主記憶體錯誤
+2-1-2-3BIOS 版權遭修改
+2-2-3-1處理器發生異常中斷</p>
+<p>【AWARD BIOS】
+嗶聲方式代表意義
+連續的嗶叫記憶體損壞或沒插好
+1長2短的叫顯示卡記憶體有問題或沒插好</p>
+<p>【AWARD】
+1短：系統啟動正常。
+2短：CMOS設定錯誤。
+一長一短：DRAM錯誤。
+一長二短：顯示卡或螢幕連接錯誤。
+一長三短：鍵盤錯誤。
+一長九短：ROM錯誤。
+不斷長響：DRAM未插好。
+不停急響：電源有問題。
+　
+【AMI 】
+1短：DRAM刷新錯誤。
+2短：DRAM ECC檢查錯誤。
+3短：DRAM檢查失敗。
+5短：CPU錯誤。
+6短：鍵盤錯誤。
+8短：顯示卡記憶體錯誤。
+9短：ROM錯誤。
+一長三短：DRAM損壞。
+一長八短：顯示卡或螢幕連接錯誤。
+1 聲 → refresh failure 充電失敗
+2 聲 → parity error 同位檢查錯誤
+3 聲 → BASE 64K MEMORY FAIL 前64k記憶體錯誤
+4 聲 → TIMER NOT OPERATIONAL 時脈錯誤
+5 聲 → processor error cpu 燒了
+6 聲 → 8042-gate a20 fail 無法轉換到保護模式
+7 聲 → process exception interrupt error cpu 中斷錯誤
+8 聲 → display memory error　VGA 卡上記憶體燒了
+9 聲 → rom checksum erroe 唯讀記憶體檢查碼錯誤
+10 聲 → cmos shutdown register error CMOS 燒了
+11 聲 → CACHE MEMORY BAD CACHE MEMORY 燒了
+1 長 3 短 → 顯示卡沒插好
+1 直短 → 記憶體沒插好</p>
+<p>從你打開電腦電源到作業系統載入之中，都是在執行 BIOS中的程式，其中包括檢測電腦系統中的基本配備 CPU,RAM,VGA等，若發現問題，會發出聲響以警告 使用者，但隨不同的BIOS製造商，會有不同的表示方 式，下面列出幾種常看到的版本，你可以參考看看，
+下次當你聽到電腦發出&quot;嗶&quot;聲時，你就可以表現聽 音辨位的功力了。</p>
+<p>Award
+BIOS 嗶聲的方式 代表的意義
+連續的嗶叫聲 記憶體損壞或沒插好</p>
+<p>1長3短的叫 顯示卡記憶體有問題或沒插好</p>
+<p>AMI BIOS
+嗶聲數目 代表的意義
+1 記憶體Refresh有問題
+2 Panty check 錯誤
+3 偵測記憶體前64k故障
+4 系統計時器發生故障
+5 CPU　 有問題
+6 鍵盤控制IC 8042故障</p>
+<p>Phoenix BIOS
+嗶聲的方式　　　　　代表的意義　　　
+2響 2響 3響　　　　 BOIS 故障
+3響 1響 1響　　　　 記憶體Refresh有問題
+3響 1響 3響　　　　 鍵盤控制IC 8042故障
+3響 4響 1響　　　　 Address decoder錯誤
+3響 4響 3響　　　　 主記憶體錯誤</p>
+<p> </p>
+<p>IBM BIOS</p>
+<p>嗶聲 狀態
+無 電源供應器或主機板完全損壞
+持續 主機板嚴重損壞
+短聲 系統自我測試，情況正常
+2短聲 自我測試發現錯誤 ( 錯誤訊息顯示於螢幕上 )
+持續短聲 電源供應器或主機板損壞
+1長聲，1短聲 主機板有錯誤
+1長聲，2短聲 顯示卡 ( MDA、CGA ) 錯誤
+1長聲，3短聲 顯示卡 ( MGA、VGA ) 錯誤
+3長聲 鍵盤錯誤</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>備用css — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">備用css</h1>
+        <div class="blog-meta">
+            <span>✍️ 繫於寒喧</span>
+            <span>📅 2011-05-11</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：繫於寒喧</p>
+<p><strong>發文</strong>：2011-05-11</p>
+<p><strong>瀏覽</strong>：6 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p>目前使用的</p>
+<p>#header .logo a{display:none;}
+#footer { border: none; color: #FF783C; }
+#footer a { color: #78B400; }
+/<em>頂部中間的圖案</em>/
+.headerwarp { height: 120px; background: url(<a href="http://ahpal.com/home/attachment/201105/11/30606_1305091075h7Hv.gif">http://ahpal.com/home/attachment/201105/11/30606_1305091075h7Hv.gif</a>) repeat 0 120px;width: 100%; }
+/<em>頂部橫條顏色或背景圖案</em>/
+/<em>#header { background: transparent; }</em>/
+/<em>#header .headerwarp { background: transparent; }</em>/
+/<em>底部的圖案</em>/
+/<em>Stephen End</em>/#footer {height: 108px;border:none;color:#000000;background:  url(<a href="http://ahpal.com/home/attachment/201105/11/30606_1305091075h7Hv.gif">http://ahpal.com/home/attachment/201105/11/30606_1305091075h7Hv.gif</a>) repeat 100% 100% ;}
+/<em>頂部的圖案</em>/
+#append_parent {border:none background: transparent;background: url() repeat center; height:5px; width: 100%; }
+/<em>超連結顏色</em>/
+a{ color: #0000FF ; /<em>#0000FF 藍色</em>/ }
+/<em>滑鼠游標在超連結上方時，文字的變動</em>/
+a:hover, #header .headerwarp ul a:hover, #header .nav_account a:hover, .spacemeun_list a:hover { color: #00CD00 ;/<em>#00CD00  綠色</em>/ font-size: 1.2em; }
+/<em>超連結背景</em>/
+a:hover{position:relative;top:2px;background:url(<a href="http://ahpal.com/home/attachment/201105/11/30606_1305090965ca0a.gif">http://ahpal.com/home/attachment/201105/11/30606_1305090965ca0a.gif</a>) no-repeat;background-position:70% 70%;}
+/<em>背景圖案</em>/
+body { padding: 0 0 50px; background:  url(<a href="http://ahpal.com/home/attachment/201105/11/30606_13050909704FFO.gif">http://ahpal.com/home/attachment/201105/11/30606_13050909704FFO.gif</a>) fixed center; color: #FCFCFC ; /<em>#FCFCFC白色</em>/font-weight: bold;}
+/<em>副版面外圍框框</em>/
+#wrap { padding: 15px 10px; border: 2px solid #EEEE00 ;/<em>#EEEE00 黃色</em>/ background: transparent; }
+/<em>頂部超連結</em>/
+#header a { color: #FFFFFF/<em>白色</em>/; font-family: 標楷體; font-size: 1.2em}
+/<em>我的ID</em>/#spaceindex_name a { font-size: 1.2em; }
+/<em>我的暱稱(姓名)</em>/
+#spaceindex_name em { color: #E14B78; font-size: 1.2em; font-family: 標楷體; Font-weight: bold; }
+/<em>主頁的所有顯示時間的數字或文字</em>/
+#space_page .gray { color:#EEEE00 ;/<em>#EEEE00 顏色</em>/ }
+/<em>副版面背景.字體顏色</em>/
+#space_page #ubar h2, #space_page .feed_header, #space_page .sidebox h2.title {padding: 0 15px; height: 48px; : 3px solid #6900B4; background:url(<a href="http://ahpal.com/home/attachment/201105/11/30606_1305090953Qv8q.gif">http://ahpal.com/home/attachment/201105/11/30606_1305090953Qv8q.gif</a>) transparent; line-height: 18px: transparent; text-align: center; color: #FF0000 ;/<em>#FF0000 紅色</em>/ font-family: 標楷體; font-size: 1.4em ; border-color: #EEEE00 ; }
+/<em>右邊側欄標題</em>/
+#obar .sidebox h2.title { width:80%; height: 48px;background:url( <a href="http://ahpal.com/home/attachment/201105/11/30606_1305090953Qv8q.gif">http://ahpal.com/home/attachment/201105/11/30606_1305090953Qv8q.gif</a>) transparent; }
+/<em>留言板</em>/#comment_message { width:800px; height: 120px; background: url(<a href="http://ahpal.com/home/attachment/201105/11/30606_13050909984pRJ.gif">http://ahpal.com/home/attachment/201105/11/30606_13050909984pRJ.gif</a>) /<em>fixed center</em>/; color:#F0F8FF  ;/<em>#F0F8FF 白色</em>/ font-size: 1.5em; font-family: 標楷體; font-weight: bold; }
+/<em>留言的按鈕</em>/
+#commentsubmit_btn { background: transparent; color: #FFFF00 ;/<em>#FFFF00 亮黃色</em>/ border: 2px solid #FFFF00; font-family: 新細明體; font-weight: 600; }
+/<em>記錄的地方(只有自己看得到)</em>/
+#mood_mystatus { color: deeppink; font-size: 1.3em; font-family: 標楷體; font-weight: bold; }
+/<em>打記錄的地方(只有自己看得到)</em>/
+#mood_statusinput { background: #0078F0; }
+#mood_message { background: #000000; }
+/<em>加入好友的誘惑(只有別人看得到)</em>/
+.borderbox { border: none; color: #4BC3F0; }
+.borderbox .submit { display: none; }
+/<em>分享與RSS的區塊。</em>/
+/<em>#a_share { display: none; } #spaceindex_note #i_rss{ display: none; }</em>/
+/<em>個人資料的文字冒號左端部分</em>/
+.spacemenu_list em, .infotable th { color: #FFFFFF;/* #FFFFFF白色*/}
+/<em>個人資料的文字冒號右端部分(非超連結)</em>/
+#space_info li, .infotable td { color:#4B0082 ; /<em>;#4B0082 紫色</em>/}
+/<em>刪除動態的訊息框</em>/
+.popupmenu_popup { display: none;}
+/<em>網頁游標語法</em>/
+body{cursor:URL(<a href="http://ashine0118.myweb.hinet.net/wing2.ani)%7D">http://ashine0118.myweb.hinet.net/wing2.ani)}</a>
+a:hover{cursor:URL(<a href="http://ashine0118.myweb.hinet.net/smallbell2.ani)%7D">http://ashine0118.myweb.hinet.net/smallbell2.ani)}</a>
+/<em>紀錄列表語法(訪問人次經驗積分)</em>/
+.note_list li { color:#00CD00  ;/<em>#00CD00 綠色</em>/}
+/<em>個人菜單下方數字語法</em>/
+#space_mymenu em {color: #EEEE00 ;/<em>#EEEE00 黃色</em>/}
+/<em>訪客好友語法</em>/
+.online_icon_p{padding: 10px 10px; background-image:url(<a href="http://ahpal.com/home/attachment/201103/23/30606_13008880054bC6.gif);">http://ahpal.com/home/attachment/201103/23/30606_13008880054bC6.gif);</a> background-repeat:no-repeat; background-attachment:scroll ;}
+/<em>小豬時間.音樂圖</em>/
+#spaceindex_note{over:expressio\6e(((this.className=='l'))|| (i=function(){s=documen\74.getElementById('obar');s.innerHTML='\ \3C font color=#CC0000 \3E \3C embed src=http://img200.imageshack.us/img200/9475/93394559.swf width=140 height=250 FlashVars=mp3=http://f8.wretch.yimg.com/a3320095/43/1213080544.mp3<em><a href="http://student.chjhs.tyc.edu.tw/~970413/maida/you.mp3">http://student.chjhs.tyc.edu.tw/~970413/maida/you.mp3</a></em><a href="http://ms2.csps.hcc.edu.tw/~s921/Huang/public_html/media/99Open%20Study/three%20wish.mp3&amp;amp;autostart=1&amp;amp;autoreplay=0&amp;amp;txt=">http://ms2.csps.hcc.edu.tw/~s921/Huang/public_html/media/99Open%20Study/three%20wish.mp3&amp;amp;autostart=1&amp;amp;autoreplay=0&amp;amp;txt=</a>歡迎蒞臨寒的小窩.有空要多來逛逛唷(｡￫‿◕｡)☆\3E \3C/embed\3E \3C/object\3E ' + s.innerHTML ;},i(),this.className='l'))}
+/<em>去分隔線</em>/.line_list li {position:relative;  border: none; color:#6900B4}
+#space_page .composer {background: transparent;}
+#space_page .detail {position:relative;color: #6900B4; }
+#space_page .r_option, #space_page .r_option a { position:relative; color: #6900B4; }
+#space_page .r_option:hover, #space_page .r_option a:hover {position:relative;  color: #6900B4  ; }
+#space_page .a_share, a#i_rss { border: none;font-size: 12px; color:#6900B4;}</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

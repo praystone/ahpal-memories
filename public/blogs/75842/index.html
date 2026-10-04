@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>555 — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">555</h1>
+        <div class="blog-meta">
+            <span>✍️ Agrand</span>
+            <span>📅 2011-11-11</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：Agrand</p>
+<p><strong>發文</strong>：2011-11-11</p>
+<p><strong>瀏覽</strong>：0 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p>如何使用 @import 解決個人自訂義風格的字數限制
+使用 @import 原因是因為在個人自訂義風格裡編輯語法是有字數限制&hellip;
+至於限制為多少我不知道, 反正太多後面就會被截斷了.</p>
+<p>此時就需要將語法包到 .css 檔裡, 再透過@import 語法引入即可.</p>
+<p>. 如何產生 .css 檔, 直接用記事本改副檔名即可.將設取名為 test.css 檔</p>
+<p>在桌面按滑鼠右鍵點選新增&ndash;&gt;文字文件  (新文字文件.txt)</p>
+<p>檔案產生好後, 用記事本進行編輯, 將原先在自訂義風格的css語法直接寫在test.css 檔裡.</p>
+<p>編輯好後存檔, 並上傳至 免費空間, 並取得網路連結</p>
+<p>在個人自訂義風格使用 @import 語法引入.css 檔, 其完整的語法如下:
+@import url(&quot;.css檔的網路位置&quot;)</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

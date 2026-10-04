@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>日誌裝潢教學 — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">日誌裝潢教學</h1>
+        <div class="blog-meta">
+            <span>✍️ 愛麥兜</span>
+            <span>📅 2011-12-17</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：愛麥兜</p>
+<p><strong>發文</strong>：2011-12-17</p>
+<p><strong>瀏覽</strong>：0 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p>以下CSS是整個日誌的結構</p>
+<p>基本上是所有的圖片位置全都不顯示透明化了</p>
+<p>只有藍色網址位置是整個背景圖顯示</p>
+<p>(這是螞蟻下面css網址提供的背景圖)</p>
+<p>&lt;STYLE type=text/css&gt;
+BODY{background-image : url(<a href="http://devoted-protect.myweb.hinet.net/CSS/0555.jpg);background-">http://devoted-protect.myweb.hinet.net/CSS/0555.jpg);background-</a> repeat:repeat;background-attachment : fixed;background-position :50% 50%;}#membernotemenu_menu li img { display: none;  }#comment_message {background: transparent;color:black;}.comments_list .quote { background: transparent;} #header { background: transparent; }#header .headerwarp { background: transparent; }</p>
+<p> </p>
+<p>以下請兩者選其一 不可兩者都要</p>
+<p>====================================================</p>
+<p>#header .logo a {background :none ; }    &lt;====這一列是家園LOGO小圖不顯示</p>
+<p>====================================================</p>
+<p>#header .logo a { margin-left:30px; width: 82px; height: 34px; background: url(<a href="http://www.yes98.net/home/attachment/201004/15/480_12713599909a7a.gif">http://www.yes98.net/home/attachment/201004/15/480_12713599909a7a.gif</a>) no-repeat left center; overflow: hidden; display: block; }    &lt;====這一列是家園LOGO小圖顯示      這是螞蟻所提供的小圖</p>
+<p>====================================================</p>
+<p> </p>
+<p>各位親愛的朋友下面的CSS也別忘了要放進去 不然會卡日誌的唷</p>
+<p>#header ul.menu { background: transparent; } #header ul.menu a { color:black; }#header .nav_account { background: transparent; } #header .nav_account a { color:black; }#mainarea { background : transparent }#main { background : transparent }#app_sidebar { background : transparent } #bottom { background : transparent }#mainarea a , #mainarea span { background: transparent;}#mainarea li , #mainarea li a { background: transparent;}#main .title { background : transparent ;color:black;} #space_mymenu em{ border: none;color:black ; }a,a:link,a:visited{color:black;}a:hover{color:black;position:relative;top:4px;background:url() repeat-x bottom; }#ad_contenttop { display : none  }#ad_contentbottom { display : none }.avatar48 { background : transparent }input,textarea{background : transparent;}&lt;/STYLE&gt;</p>
+<p>當你把你日誌所有的東西全都完成後 最後就是將螞蟻所題供的css語法貼在下列圖片教學之處</p>
+<p>打勾之後的結果如下:</p>
+<p> </p>
+<p>家園積分 3000以上 才能使用日誌裝潢唷</p>
+<p>小螞蟻祝大家都有美美的日誌裝潢</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

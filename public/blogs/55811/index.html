@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D1117">
+<title>＊CSS＊ 在主頁設置youtube影片（新版） — AHPAL 回憶館</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+    <header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="logo">📚 AHPAL 回憶館</a>
+        <nav class="nav-links">
+            <a href="/">首頁</a><a href="/members/">會員</a><a href="/blogs/">日誌</a><a href="https://www.ahpal.com/">回到主站</a>
+        </nav>
+    </div>
+</header>
+    <main class="main-wrapper">
+        <div class="main-content">
+            
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">＊CSS＊ 在主頁設置youtube影片（新版）</h1>
+        <div class="blog-meta">
+            <span>✍️ 夜風雪</span>
+            <span>📅 2011-06-24</span>
+        </div>
+    </header>
+    <div class="blog-content"><p><strong>作者</strong>：夜風雪</p>
+<p><strong>發文</strong>：2011-06-24</p>
+<p><strong>瀏覽</strong>：0 次 ｜ <strong>回應</strong>：0 則</p>
+<hr>
+<p>＊CSS＊ 在主頁設置youtube影片（新版）熱152已有 840 次閱讀  2011-05-29 15:12   標籤:  youtube  style  css  教學  主頁  風格  影片 </p>
+<p>由於YOUTUBE在近期換了分享鏈，</p>
+<p>所以蠻多想放影片在主頁或日誌的人會有些不知所措，</p>
+<p>其實那只是換湯不換藥，一切還是跟以前的一樣，</p>
+<p>甚至更簡單喔！</p>
+<p>新版的我認為字數較少，可以節省空間</p>
+<p>所以推薦大家改用新版囉～</p>
+<hr>
+<p>舊版的位置可以直接拉到下方去看，以下先依照新版的方式：</p>
+<p>步驟1           </p>
+<p>首先按分享&ndash;&gt;嵌入&ndash;&gt;把程式碼擷取下來！</p>
+<hr>
+<p>步驟2    </p>
+<p>擷取下來的程式碼</p>
+<p>&lt;iframe width=&ldquo;560&rdquo; height=&ldquo;349&rdquo; src=&ldquo;<a href="http://www.youtube.com/embed/qPMH6y4AzGM%22">http://www.youtube.com/embed/qPMH6y4AzGM&quot;</a> frameborder=&ldquo;0&rdquo; allowfullscreen&gt;&lt;/iframe&gt;</p>
+<p>先把&quot;去掉             (p.s.注意不要刪到空格)</p>
+<p>然後allowfullscreen也去掉</p>
+<p>就變成 </p>
+<p>&lt;iframe width=560 height=349 src=http://www.youtube.com/embed/qPMH6y4AzGM frameborder=0 &gt;&lt;/iframe&gt;</p>
+<hr>
+<p>步驟3         </p>
+<p>修改過後程式碼，再去掉&lt;&gt;後，分成兩段</p>
+<p>第一段</p>
+<p>iframe width=560 height=349 src=http://www.youtube.com/embed/qPMH6y4AzGM frameborder=0 </p>
+<p>第二段</p>
+<p>/iframe    (p.s.注意斜線不要去掉)</p>
+<p>依照下面標示的位置放進去</p>
+<p>body{over:expressio\6e(((this.className=='l'))||(i=function(){s=documen\74.getElementById('位置');s.innerHTML='\3C 從這開始放第一段  \3E \3C這裡是第二段\3E' + s.innerHTML ;},i(),this.className='l'))}</p>
+<p>註：其實 &lt; 跟 &gt; 即是上面css語法中的 \3C 跟 \3E</p>
+<hr>
+<p>步驟4</p>
+<p>最後在填入位置就成下面這樣！</p>
+<p>body{over:expressio\6e(((this.className=='l'))||(i=function(){s=documen\74.getElementById('位置');s.innerHTML='\3C iframe width=560 height=349 src=http://www.youtube.com/embed/qPMH6y4AzGM frameborder=0  \3E \3C/iframe\3E' + s.innerHTML ;},i(),this.className='l'))}</p>
+<p>位置參考：</p>
+<p>spaceindex_note(姓名下方)           obar(右欄)</p>
+<p>ubar(左欄)                          header(頁面最上面)</p>
+<p>space_mymenu(個人菜單的上面)        footer(頁面最下面)</p>
+<p>space_info(個人資料的上面)          comment(留言板上方)</p>
+<p>i_rss(訂閱2字的下面)                content(ID名稱上方,頂部選單下方)</p>
+<hr>
+<p>步驟5  給想要錦上添花的人</p>
+<p>若是想要讓影片可以自動播放，或是重複播放等等，</p>
+<p>只要在影片的網址後面先加上一個問號</p>
+<p>接著挑選想要的參數，參數與參數中間則用＆分開</p>
+<p>1是開啟 0是關閉  </p>
+<p>【加載相關影片】</p>
+<p>&amp;rel=1  默認值</p>
+<p>&amp;rel=0 </p>
+<p>【自動播放】</p>
+<p>&amp;autoplay=1 &amp;autoplay=0  默認值</p>
+<p>【重覆播放】&amp;loop=1 &amp;loop=0 默認值</p>
+<p>更多參數值，請參考 Youtube 播放控制 相關語法</p>
+<p>例如 要自動播放+重複播放</p>
+<p>body{over:expressio\6e(((this.className=='l'))||(i=function(){s=documen\74.getElementById('header');s.innerHTML='\3C iframe width=560 height=349 src=http://www.youtube.com/embed/qPMH6y4AzGM?&amp;autoplay=1&amp;loop=1 frameborder=0  \3E \3C/iframe\3E' + s.innerHTML ;},i(),this.className='l'))}</p>
+<hr>
+<p>舊版的原始碼，就在下面的地方</p>
+</div>
+</article>
+
+        </div>
+    </main>
+    <footer class="site-footer">
+    <div class="footer-inner">
+        <p class="footer-copy">© 2026 雅寶社區 · 頂客論壇 (AHPAL.COM)</p>
+    </div>
+</footer>
+    <button id="back-to-top">⬆</button>
+    <script>
+        (function() {
+            var btn = document.getElementById('back-to-top');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 400) btn.classList.add('visible');
+                else btn.classList.remove('visible');
+            });
+            btn.addEventListener('click', function() { window.scrollTo({top:0,behavior:'smooth'}); });
+        })();
+    </script>
+</body>
+</html>

@@ -1,7 +1,4 @@
 # Hugo
-public/
-public-test/
-public-test-metrics/
 resources/
 .hugo_build.lock
 

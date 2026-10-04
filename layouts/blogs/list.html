@@ -1,18 +1,38 @@
 {{ define "main" }}
-{{ $stats := hugo.Data.member_stats }}
-{{ $totals := $stats._totals }}
+{{ $allBlogs := hugo.Data.blogs }}
+{{ $pageSize := 50 }}
+{{ $pageNum := 1 }}
+{{ if .Params.page }}{{ $pageNum = .Params.page }}{{ end }}
+{{ $totalPages := div (add (len $allBlogs) (sub $pageSize 1)) $pageSize }}
+{{ $start := mul (sub $pageNum 1) $pageSize }}
+{{ $end := add $start $pageSize }}
+
 <div class="content-card">
     <h1>📝 日誌</h1>
-    <p class="hero-desc">{{ $totals.blogs }} 篇日誌，6 年的生命故事。</p>
-    <ul class="blog-list">
-        {{ range (.Paginator.Pages.ByParam "dateline").Reverse }}
-            <li class="blog-list-item">
-                <a href="{{ .RelPermalink }}">
-                    <span class="blog-title">{{ .Title }}</span>
-                    <span class="blog-author">{{ .Params.author }} ｜ {{ .Params.dateline }}</span>
-                </a>
-            </li>
+    <p class="hero-desc">{{ len $allBlogs }} 篇日誌，6 年的生命故事。</p>
+
+    {{ range $idx, $blog := $allBlogs }}
+        {{ if and (ge $idx $start) (lt $idx $end) }}
+        <article class="blog-entry">
+            <header>
+                <h2 class="blog-entry-title">{{ $blog.title }}</h2>
+                <div class="blog-entry-meta">
+                    ✍️ {{ $blog.author }} ｜ 📅 {{ $blog.dateline }} ｜ 👁️ {{ $blog.viewnum }} ｜ 💬 {{ $blog.replynum }}
+                </div>
+            </header>
+            <div class="blog-entry-body">{{ $blog.body | safeHTML }}</div>
+        </article>
         {{ end }}
-    </ul>
+    {{ end }}
+
+    <nav class="pagination">
+        {{ if gt $pageNum 1 }}
+            <a href="{{ if eq $pageNum 2 }}/blogs/{{ else }}/blogs/page/{{ sub $pageNum 1 }}/{{ end }}">← 上一頁</a>
+        {{ end }}
+        <span>第 {{ $pageNum }} / {{ $totalPages }} 頁</span>
+        {{ if lt $pageNum $totalPages }}
+            <a href="/blogs/page/{{ add $pageNum 1 }}/">下一頁 →</a>
+        {{ end }}
+    </nav>
 </div>
 {{ end }}

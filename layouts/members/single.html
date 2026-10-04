@@ -9,16 +9,14 @@
         </div>
     </header>
     {{ $uid := .Params.uid }}
-    {{ $blogs := where $.Site.RegularPages "Params.uid" $uid }}
-    {{ if $blogs }}
-        <h2 class="section-title">📝 日誌（{{ len $blogs }} 篇）</h2>
+    {{ $myBlogs := where hugo.Data.blogs "uid" $uid }}
+    {{ if $myBlogs }}
+        <h2 class="section-title">📝 日誌（{{ len $myBlogs }} 篇）</h2>
         <ul class="blog-list">
-            {{ range ($blogs.ByParam "dateline").Reverse }}
+            {{ range $myBlogs }}
                 <li class="blog-list-item">
-                    <a href="{{ .RelPermalink }}">
-                        <span class="blog-title">{{ .Title }}</span>
-                        <span class="blog-author">{{ .Params.dateline }}</span>
-                    </a>
+                    <span class="blog-title">{{ .title }}</span>
+                    <span class="blog-author">{{ .dateline }}</span>
                 </li>
             {{ end }}
         </ul>

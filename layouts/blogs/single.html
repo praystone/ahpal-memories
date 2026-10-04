@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="content-card">
+    <header class="blog-header">
+        <h1 class="blog-title">{{ .Title }}</h1>
+        <div class="blog-meta">
+            {{ if .Params.author }}<span>✍️ {{ .Params.author }}</span>{{ end }}
+            {{ if .Params.dateline }}<span>📅 {{ .Params.dateline }}</span>{{ end }}
+        </div>
+    </header>
+    <div class="blog-content">{{ .Content }}</div>
+</article>
+{{ end }}

@@ -1,0 +1,16 @@
+﻿{{ define "main" }}
+<div class="content-card">
+    <h1>📷 相簿</h1>
+    <p class="hero-desc" style="font-size:15px;">
+        176,339 張圖片，6,208 本相簿。
+    </p>
+
+    <div class="card-grid">
+        {{ range .Pages.ByTitle }}
+            <a href="{{ .RelPermalink }}" class="card">
+                <div class="card-title">{{ .Title }}</div>
+            </a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

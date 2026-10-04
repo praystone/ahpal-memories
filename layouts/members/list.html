@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ $stats := hugo.Data.member_stats }}
+{{ $totals := $stats._totals }}
+<div class="content-card">
+    <h1>👥 會員</h1>
+    <p class="hero-desc">{{ $totals.members }} 位會員，共同寫下 {{ $totals.blogs }} 篇日誌。</p>
+    <div class="card-grid">
+        {{ range .Pages.ByTitle }}
+            {{ $uid := .Params.uid }}
+            {{ $stat := index $stats.members (printf "%d" $uid) }}
+            <a href="{{ .RelPermalink }}" class="card">
+                <div class="card-title">{{ .Title }}</div>
+                <div class="card-meta">{{ if $stat }}{{ $stat.blog_count }} 篇日誌{{ else }}0 篇日誌{{ end }}</div>
+            </a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

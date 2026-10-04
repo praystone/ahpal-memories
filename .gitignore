@@ -1,0 +1,20 @@
+# Hugo
+public/
+public-test/
+public-test-metrics/
+resources/
+.hugo_build.lock
+
+# 系統
+.DS_Store
+Thumbs.db
+
+# 備份
+*.bak
+_backup-*/
+_albums-backup/
+_*
+
+# 暫存
+*.tmp
+*.log

@@ -1,0 +1,38 @@
+baseURL = 'https://memories.ahpal.com/'
+locale = 'zh-tw'
+title = 'AHPAL 回憶館'
+
+disableKinds = ['RSS', 'taxonomy', 'term']
+
+[pagination]
+  pagerSize = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = '頂客論壇 · 雅寶社區 20 年共同回憶'
+  author = 'AHPAL'
+  theme_color = '#0D1117'
+  accent_gold = '#D4AF37'
+  accent_cyan = '#58A6FF'
+
+[menu]
+  [[menu.main]]
+    name = '首頁'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = '會員'
+    url = '/members/'
+    weight = 20
+  [[menu.main]]
+    name = '日誌'
+    url = '/blogs/'
+    weight = 30
+  [[menu.main]]
+    name = '回到主站'
+    url = 'https://www.ahpal.com/'
+    weight = 50

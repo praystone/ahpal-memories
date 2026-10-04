@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ $stats := hugo.Data.member_stats }}
+{{ $totals := $stats._totals }}
+<div class="content-card">
+    <h1>📝 日誌</h1>
+    <p class="hero-desc">{{ $totals.blogs }} 篇日誌，6 年的生命故事。</p>
+    <ul class="blog-list">
+        {{ range (.Paginator.Pages.ByParam "dateline").Reverse }}
+            <li class="blog-list-item">
+                <a href="{{ .RelPermalink }}">
+                    <span class="blog-title">{{ .Title }}</span>
+                    <span class="blog-author">{{ .Params.author }} ｜ {{ .Params.dateline }}</span>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

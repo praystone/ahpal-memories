@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article class="content-card">
+    <header class="member-header">
+        <h1 class="member-name">{{ .Title }}</h1>
+        <div class="member-meta">
+            {{ if .Params.uid }}<span>UID: {{ .Params.uid }}</span>{{ end }}
+            {{ if .Params.dateline }}<span>註冊：{{ .Params.dateline }}</span>{{ end }}
+            {{ if .Params.friendnum }}<span>好友：{{ .Params.friendnum }} 位</span>{{ end }}
+        </div>
+    </header>
+    {{ $uid := .Params.uid }}
+    {{ $blogs := where $.Site.RegularPages "Params.uid" $uid }}
+    {{ if $blogs }}
+        <h2 class="section-title">📝 日誌（{{ len $blogs }} 篇）</h2>
+        <ul class="blog-list">
+            {{ range ($blogs.ByParam "dateline").Reverse }}
+                <li class="blog-list-item">
+                    <a href="{{ .RelPermalink }}">
+                        <span class="blog-title">{{ .Title }}</span>
+                        <span class="blog-author">{{ .Params.dateline }}</span>
+                    </a>
+                </li>
+            {{ end }}
+        </ul>
+    {{ end }}
+</article>
+{{ end }}

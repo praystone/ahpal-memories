@@ -30,7 +30,7 @@
         {{ end }}
         {{ if $fields.birthyear }}
             <h2 class="section-title">🎂 生日</h2>
-            <p>{{ $fields.birthyear }}-{{ printf "%02.0f" $fields.birthmonth }}-{{ printf "%02.0f" $fields.birthday }}</p>
+            <p>{{ $fields.birthyear }}-{{ printf "%02d" $fields.birthmonth }}-{{ printf "%02d" $fields.birthday }}</p>
         {{ end }}
     {{ end }}
 

@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ $stats := hugo.Data.member_stats }}
+{{ $totals := $stats._totals }}
+<div class="content-card">
+    <h1 class="hero-title">📚 AHPAL 回憶館</h1>
+    <p class="hero-desc">頂客論壇 · 雅寶社區 20 年共同回憶</p>
+    <div class="stats-grid">
+        <div class="stat-card"><div class="stat-num">{{ $totals.members }}</div><div class="stat-label">位會員</div></div>
+        <div class="stat-card"><div class="stat-num">{{ $totals.blogs }}</div><div class="stat-label">篇日誌</div></div>
+    </div>
+</div>
+{{ end }}

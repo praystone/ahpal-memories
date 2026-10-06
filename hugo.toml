@@ -25,6 +25,10 @@ disableKinds = ['RSS', 'taxonomy', 'term']
     url = '/'
     weight = 10
   [[menu.main]]
+    name = 'BBS'
+    url = '/bbs/'
+    weight = 15
+  [[menu.main]]
     name = '會員'
     url = '/members/'
     weight = 20

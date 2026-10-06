@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "滷水拌鴨"
 tid: 15333
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265484060
 layout: "bbs-single"
 ---
 

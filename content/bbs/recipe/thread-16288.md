@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黨蔘黃耆燉雞湯"
 tid: 16288
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265745094
 layout: "bbs-single"
 ---
 

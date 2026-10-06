@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "剝皮辣椒雞湯1"
 tid: 15577
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265492652
 layout: "bbs-single"
 ---
 

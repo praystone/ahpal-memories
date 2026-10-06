@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "這些小妙方，一定要學"
 tid: 18896
 fid: 72
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1267936180
 layout: "bbs-single"
 ---
 

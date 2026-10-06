@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座絕對癡心情歌"
 tid: 5261
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1246976713
 layout: "bbs-single"
 ---
 
-<!-- 主題 5261，帖子動態載入 -->
+<!-- 主題 5261 -->

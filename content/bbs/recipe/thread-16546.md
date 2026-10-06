@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "酸辣耳片"
 tid: 16546
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265780971
 layout: "bbs-single"
 ---
 

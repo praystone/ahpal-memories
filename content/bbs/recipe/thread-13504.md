@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "韓式風味蛋包"
 tid: 13504
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264874724
 layout: "bbs-single"
 ---
 

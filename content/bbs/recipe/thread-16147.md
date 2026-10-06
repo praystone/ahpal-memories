@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炸豆皮捲"
 tid: 16147
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265694746
 layout: "bbs-single"
 ---
 

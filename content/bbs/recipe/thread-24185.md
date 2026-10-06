@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蘋果山藥湯品"
 tid: 24185
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326868701
 layout: "bbs-single"
 ---
 

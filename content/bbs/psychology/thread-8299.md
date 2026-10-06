@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測測你的善良程度"
 tid: 8299
 fid: 52
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1261289155
 layout: "bbs-single"
 ---
 

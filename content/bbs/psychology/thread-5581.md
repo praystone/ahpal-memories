@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "人格測驗"
 tid: 5581
 fid: 52
-author: "0"
-dateline: 0
+author: "ddssaaffgghh"
+dateline: 1248415745
 layout: "bbs-single"
 ---
 

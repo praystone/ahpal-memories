@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "火腿雞絲炒麵"
 tid: 14166
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265005535
 layout: "bbs-single"
 ---
 

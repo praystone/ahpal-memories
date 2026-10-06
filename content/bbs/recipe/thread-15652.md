@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鑲豆腐(2)"
 tid: 15652
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265528019
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "法式爐烤香料春雞"
 tid: 18374
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253165
 layout: "bbs-single"
 ---
 

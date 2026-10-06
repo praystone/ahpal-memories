@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "乾扁四季豆(2)"
 tid: 14225
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265047487
 layout: "bbs-single"
 ---
 

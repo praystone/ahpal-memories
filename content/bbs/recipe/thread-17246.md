@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "百合蓮子湯(1)"
 tid: 17246
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265870424
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "『禁慾』對夫妻雙方健康都有害"
 tid: 24294
 fid: 68
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1328585190
 layout: "bbs-single"
 ---
 

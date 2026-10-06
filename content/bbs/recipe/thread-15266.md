@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "培根高麗菜掛包"
 tid: 15266
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265436938
 layout: "bbs-single"
 ---
 

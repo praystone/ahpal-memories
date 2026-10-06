@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "墨魚燉飯"
 tid: 18338
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234912
 layout: "bbs-single"
 ---
 

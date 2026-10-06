@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雙菇酸辣濃湯"
 tid: 13018
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264706041
 layout: "bbs-single"
 ---
 

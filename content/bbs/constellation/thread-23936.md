@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[分享] 十二星座的愛情金句"
 tid: 23936
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325154037
 layout: "bbs-single"
 ---
 
-<!-- 主題 23936，帖子動態載入 -->
+<!-- 主題 23936 -->

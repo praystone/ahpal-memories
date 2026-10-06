@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座說再見"
 tid: 18890
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1267930107
 layout: "bbs-single"
 ---
 
-<!-- 主題 18890，帖子動態載入 -->
+<!-- 主題 18890 -->

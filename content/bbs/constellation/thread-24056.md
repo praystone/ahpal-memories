@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "什麼星座的男人分手後還會讓人繼續傷心難過"
 tid: 24056
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325656508
 layout: "bbs-single"
 ---
 
-<!-- 主題 24056，帖子動態載入 -->
+<!-- 主題 24056 -->

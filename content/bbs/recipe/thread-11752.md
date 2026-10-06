@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "起司洋蔥"
 tid: 11752
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264359237
 layout: "bbs-single"
 ---
 

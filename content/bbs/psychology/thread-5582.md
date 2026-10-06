@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "愛情攻勢心理測驗"
 tid: 5582
 fid: 52
-author: "0"
-dateline: 0
+author: "ddssaaffgghh"
+dateline: 1248415782
 layout: "bbs-single"
 ---
 

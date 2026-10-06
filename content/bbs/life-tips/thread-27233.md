@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "咖啡渣、茶葉渣哪個除臭比較有效？"
 tid: 27233
 fid: 72
-author: "0"
-dateline: 0
+author: "stuvw107"
+dateline: 1422006529
 layout: "bbs-single"
 ---
 

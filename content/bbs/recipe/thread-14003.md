@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蕃茄薯仔燉牛腱湯"
 tid: 14003
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264964537
 layout: "bbs-single"
 ---
 

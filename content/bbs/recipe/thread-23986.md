@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "咖哩豬肉炒飯"
 tid: 23986
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325488762
 layout: "bbs-single"
 ---
 

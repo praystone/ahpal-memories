@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "固精秘功"
 tid: 849
 fid: 32
-author: "0"
-dateline: 0
+author: "Powered"
+dateline: 1213153149
 layout: "bbs-single"
 ---
 

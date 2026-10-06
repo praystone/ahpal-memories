@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "『嘿咻』和精液的8大傳聞"
 tid: 23801
 fid: 68
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1323411709
 layout: "bbs-single"
 ---
 

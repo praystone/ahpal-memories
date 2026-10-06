@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "搶救乾燥肌 先學會洗澡"
 tid: 12095
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264404837
 layout: "bbs-single"
 ---
 

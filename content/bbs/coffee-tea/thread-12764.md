@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芒果青蘋果汁"
 tid: 12764
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264617984
 layout: "bbs-single"
 ---
 

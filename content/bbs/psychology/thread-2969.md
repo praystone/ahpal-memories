@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的天使光環是什麼顏色？"
 tid: 2969
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235494011
 layout: "bbs-single"
 ---
 

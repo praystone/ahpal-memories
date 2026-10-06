@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "漂浮冰咖啡"
 tid: 18595
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266257700
 layout: "bbs-single"
 ---
 

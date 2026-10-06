@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹魚茄子煲"
 tid: 20007
 fid: 59
-author: "0"
-dateline: 0
+author: "火流星"
+dateline: 1280556900
 layout: "bbs-single"
 ---
 

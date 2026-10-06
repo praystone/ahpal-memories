@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "１２星座誰的結婚意願最強"
 tid: 24013
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325560509
 layout: "bbs-single"
 ---
 
-<!-- 主題 24013，帖子動態載入 -->
+<!-- 主題 24013 -->

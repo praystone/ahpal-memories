@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "生肖的意義"
 tid: 8738
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1262331716
 layout: "bbs-single"
 ---
 

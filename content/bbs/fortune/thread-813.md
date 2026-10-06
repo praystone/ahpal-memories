@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "解夢大全"
 tid: 813
 fid: 51
-author: "0"
-dateline: 0
+author: "Powered"
+dateline: 1212837193
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座互動關係"
 tid: 20655
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1289003353
 layout: "bbs-single"
 ---
 
-<!-- 主題 20655，帖子動態載入 -->
+<!-- 主題 20655 -->

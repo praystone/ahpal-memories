@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "乳香小排燒木耳"
 tid: 12340
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264450314
 layout: "bbs-single"
 ---
 

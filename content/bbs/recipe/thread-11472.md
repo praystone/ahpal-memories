@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "海帶芽素肉湯"
 tid: 11472
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264275936
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你很避署嗎？"
 tid: 5602
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1248702575
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "處女星座的男人"
 tid: 1501
 fid: 50
-author: "0"
-dateline: 0
+author: "Meister"
+dateline: 1222618240
 layout: "bbs-single"
 ---
 
-<!-- 主題 1501，帖子動態載入 -->
+<!-- 主題 1501 -->

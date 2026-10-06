@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座的戀愛觀與個性"
 tid: 2155
 fid: 50
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1230534172
 layout: "bbs-single"
 ---
 
-<!-- 主題 2155，帖子動態載入 -->
+<!-- 主題 2155 -->

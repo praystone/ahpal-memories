@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黃金糕"
 tid: 22605
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308528897
 layout: "bbs-single"
 ---
 

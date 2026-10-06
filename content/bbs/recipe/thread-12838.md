@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "菠蘿乳酪雪條"
 tid: 12838
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264659131
 layout: "bbs-single"
 ---
 

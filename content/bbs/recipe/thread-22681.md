@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "日式牛腩咖哩"
 tid: 22681
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308642214
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "五行淺說"
 tid: 6670
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1253275933
 layout: "bbs-single"
 ---
 

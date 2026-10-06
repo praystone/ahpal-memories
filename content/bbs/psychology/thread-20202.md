@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紀念品與你的心理狀態"
 tid: 20202
 fid: 52
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1282355980
 layout: "bbs-single"
 ---
 

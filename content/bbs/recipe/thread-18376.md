@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "原味煎鮭魚"
 tid: 18376
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253191
 layout: "bbs-single"
 ---
 

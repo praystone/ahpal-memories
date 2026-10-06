@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅豆抹茶煎餅"
 tid: 23870
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325057393
 layout: "bbs-single"
 ---
 

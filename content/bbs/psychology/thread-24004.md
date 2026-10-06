@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "未來一個月你會被什麼擊倒？"
 tid: 24004
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325559230
 layout: "bbs-single"
 ---
 

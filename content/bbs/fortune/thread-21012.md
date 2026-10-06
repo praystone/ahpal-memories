@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "●近期占卜法"
 tid: 21012
 fid: 51
-author: "0"
-dateline: 0
+author: "zxing7"
+dateline: 1294128007
 layout: "bbs-single"
 ---
 

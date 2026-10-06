@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹽巴18招"
 tid: 22735
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308704306
 layout: "bbs-single"
 ---
 

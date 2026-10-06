@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[中式]糯米椒炒雞丁（6人份）"
 tid: 4371
 fid: 59
-author: "0"
-dateline: 0
+author: "titititi"
+dateline: 1242729622
 layout: "bbs-single"
 ---
 

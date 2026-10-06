@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鳳舞貴族"
 tid: 17021
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265864561
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "檸檬醬拿破崙"
 tid: 12812
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264657277
 layout: "bbs-single"
 ---
 

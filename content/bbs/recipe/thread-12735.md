@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芹菜炒豬肝"
 tid: 12735
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264569814
 layout: "bbs-single"
 ---
 

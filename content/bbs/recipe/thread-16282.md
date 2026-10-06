@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "茄汁鐵板豬排"
 tid: 16282
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265744989
 layout: "bbs-single"
 ---
 

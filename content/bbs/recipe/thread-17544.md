@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "新吉士鱸魚"
 tid: 17544
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265955589
 layout: "bbs-single"
 ---
 

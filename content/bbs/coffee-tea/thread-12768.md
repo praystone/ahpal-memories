@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "檸檬薄荷飲"
 tid: 12768
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264618075
 layout: "bbs-single"
 ---
 

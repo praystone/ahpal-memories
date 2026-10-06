@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "什麼星座最拿不定主意？"
 tid: 5895
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251724574
 layout: "bbs-single"
 ---
 
-<!-- 主題 5895，帖子動態載入 -->
+<!-- 主題 5895 -->

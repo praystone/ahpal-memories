@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蔥爆肉片"
 tid: 17700
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266005395
 layout: "bbs-single"
 ---
 

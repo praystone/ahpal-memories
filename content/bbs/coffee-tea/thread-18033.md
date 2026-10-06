@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蜜薑感冒飲"
 tid: 18033
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266083744
 layout: "bbs-single"
 ---
 

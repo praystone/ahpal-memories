@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "美人必殺料理"
 tid: 22760
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308798273
 layout: "bbs-single"
 ---
 

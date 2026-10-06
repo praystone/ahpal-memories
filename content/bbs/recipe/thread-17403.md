@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鮮魚湯餃"
 tid: 17403
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920055
 layout: "bbs-single"
 ---
 

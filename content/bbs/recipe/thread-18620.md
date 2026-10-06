@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蜂蜜芥末醬(4)"
 tid: 18620
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266259535
 layout: "bbs-single"
 ---
 

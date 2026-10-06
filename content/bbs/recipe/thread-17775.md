@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬油風味奶油炒烏龍"
 tid: 17775
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006788
 layout: "bbs-single"
 ---
 

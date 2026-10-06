@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蠔汁百花釀黃金蛋"
 tid: 12633
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264533402
 layout: "bbs-single"
 ---
 

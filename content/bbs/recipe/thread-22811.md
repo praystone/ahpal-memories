@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "泰國辣炒通心麵"
 tid: 22811
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1309269088
 layout: "bbs-single"
 ---
 

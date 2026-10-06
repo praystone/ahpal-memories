@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "菊花杞子茶"
 tid: 12752
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264617026
 layout: "bbs-single"
 ---
 

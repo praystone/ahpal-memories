@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "１２星座的曖昧尺度"
 tid: 18891
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1267930967
 layout: "bbs-single"
 ---
 
-<!-- 主題 18891，帖子動態載入 -->
+<!-- 主題 18891 -->

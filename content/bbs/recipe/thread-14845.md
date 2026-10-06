@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "三杯雞(12)"
 tid: 14845
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265263582
 layout: "bbs-single"
 ---
 

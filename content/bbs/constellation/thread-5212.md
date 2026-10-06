@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座的人各在哪方面拖拖拉拉，逃避現實？"
 tid: 5212
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1246801310
 layout: "bbs-single"
 ---
 
-<!-- 主題 5212，帖子動態載入 -->
+<!-- 主題 5212 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "兩性園地版規(在此張貼圖文者必讀)"
 tid: 19308
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1271059767
 layout: "bbs-single"
 ---
 

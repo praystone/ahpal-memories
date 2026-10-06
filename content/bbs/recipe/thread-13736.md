@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹蛋苦瓜(9)"
 tid: 13736
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264923711
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "漂白水可以這樣用"
 tid: 12294
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264445427
 layout: "bbs-single"
 ---
 

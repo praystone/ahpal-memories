@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座男生令女生倒胃口的原因"
 tid: 5887
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251724251
 layout: "bbs-single"
 ---
 
-<!-- 主題 5887，帖子動態載入 -->
+<!-- 主題 5887 -->

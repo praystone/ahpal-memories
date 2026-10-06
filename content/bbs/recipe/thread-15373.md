@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "東山鴨頭滷汁"
 tid: 15373
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265484991
 layout: "bbs-single"
 ---
 

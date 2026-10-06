@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "睇到暗戀既人和其他人接吻.."
 tid: 5576
 fid: 52
-author: "0"
-dateline: 0
+author: "ddssaaffgghh"
+dateline: 1248415594
 layout: "bbs-single"
 ---
 

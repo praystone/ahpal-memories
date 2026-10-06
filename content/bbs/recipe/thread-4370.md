@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[中式]繽紛鮮魷（6人份）"
 tid: 4370
 fid: 59
-author: "0"
-dateline: 0
+author: "titititi"
+dateline: 1242729567
 layout: "bbs-single"
 ---
 

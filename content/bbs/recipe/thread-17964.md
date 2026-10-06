@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "竹節鴿盅"
 tid: 17964
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266082542
 layout: "bbs-single"
 ---
 

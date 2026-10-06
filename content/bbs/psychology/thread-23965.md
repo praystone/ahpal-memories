@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "惹他生氣了你該怎麼挽救？"
 tid: 23965
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325481891
 layout: "bbs-single"
 ---
 

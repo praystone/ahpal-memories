@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "與甜點最相配的——銅鍋"
 tid: 13034
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264709913
 layout: "bbs-single"
 ---
 

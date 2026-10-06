@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座美女性感程度排行榜"
 tid: 23950
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325154997
 layout: "bbs-single"
 ---
 
-<!-- 主題 23950，帖子動態載入 -->
+<!-- 主題 23950 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "摩卡奇諾–雕花"
 tid: 10648
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264101321
 layout: "bbs-single"
 ---
 

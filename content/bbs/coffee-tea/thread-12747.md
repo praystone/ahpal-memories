@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鵪鶉蛋八寶茶"
 tid: 12747
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264570246
 layout: "bbs-single"
 ---
 

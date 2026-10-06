@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炒素雞米"
 tid: 13933
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264962790
 layout: "bbs-single"
 ---
 

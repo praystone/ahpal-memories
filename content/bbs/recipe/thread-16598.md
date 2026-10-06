@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "八寶養生飯"
 tid: 16598
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265782657
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "肉粒蛋白"
 tid: 12416
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452996
 layout: "bbs-single"
 ---
 

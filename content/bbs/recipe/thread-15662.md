@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹漬蛤仔"
 tid: 15662
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265528276
 layout: "bbs-single"
 ---
 

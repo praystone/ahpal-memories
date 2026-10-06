@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻辣湯頭"
 tid: 15696
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265529038
 layout: "bbs-single"
 ---
 

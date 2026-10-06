@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "生菜蝦鬆(1)"
 tid: 17297
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265917683
 layout: "bbs-single"
 ---
 

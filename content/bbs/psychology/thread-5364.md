@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "喝啤酒 看你是否該結婚"
 tid: 5364
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247568663
 layout: "bbs-single"
 ---
 

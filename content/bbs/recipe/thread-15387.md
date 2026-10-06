@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "海菜小魚羹"
 tid: 15387
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265485448
 layout: "bbs-single"
 ---
 

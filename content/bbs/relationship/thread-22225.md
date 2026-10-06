@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "女生最想泡的12種男生"
 tid: 22225
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305379684
 layout: "bbs-single"
 ---
 

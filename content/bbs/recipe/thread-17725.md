@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "魚香臭豆腐"
 tid: 17725
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006023
 layout: "bbs-single"
 ---
 

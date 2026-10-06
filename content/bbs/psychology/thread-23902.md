@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[分享] 從玻璃碎裂度看你的愛情復原度"
 tid: 23902
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325120325
 layout: "bbs-single"
 ---
 

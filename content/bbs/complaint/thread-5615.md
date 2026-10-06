@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "我嚴重提出抗議"
 tid: 5615
 fid: 3
-author: "0"
-dateline: 0
+author: "sala"
+dateline: 1248865897
 layout: "bbs-single"
 ---
 

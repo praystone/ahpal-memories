@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "你最易令誰一見鍾情"
 tid: 8724
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1262330917
 layout: "bbs-single"
 ---
 
-<!-- 主題 8724，帖子動態載入 -->
+<!-- 主題 8724 -->

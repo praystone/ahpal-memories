@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[分享] 小心什麼星座的人會讓你發瘋"
 tid: 23896
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325118374
 layout: "bbs-single"
 ---
 
-<!-- 主題 23896，帖子動態載入 -->
+<!-- 主題 23896 -->

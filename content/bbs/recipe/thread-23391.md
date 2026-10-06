@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蔬菜蛋餅"
 tid: 23391
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315980178
 layout: "bbs-single"
 ---
 

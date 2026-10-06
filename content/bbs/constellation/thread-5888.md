@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座的愛情情報站"
 tid: 5888
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251724288
 layout: "bbs-single"
 ---
 
-<!-- 主題 5888，帖子動態載入 -->
+<!-- 主題 5888 -->

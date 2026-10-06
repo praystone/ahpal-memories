@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "男人愈體貼，女人愈服貼，對嗎?"
 tid: 22390
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306621251
 layout: "bbs-single"
 ---
 

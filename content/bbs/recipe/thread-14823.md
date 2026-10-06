@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "野菇燴義大利麵"
 tid: 14823
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265263136
 layout: "bbs-single"
 ---
 

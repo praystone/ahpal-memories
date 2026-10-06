@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "軟炸蘑菇"
 tid: 18051
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084393
 layout: "bbs-single"
 ---
 

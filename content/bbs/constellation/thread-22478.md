@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座的生氣方式"
 tid: 22478
 fid: 50
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307201732
 layout: "bbs-single"
 ---
 
-<!-- 主題 22478，帖子動態載入 -->
+<!-- 主題 22478 -->

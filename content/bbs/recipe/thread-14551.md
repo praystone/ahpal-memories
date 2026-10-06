@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "什錦菇湯"
 tid: 14551
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265140330
 layout: "bbs-single"
 ---
 

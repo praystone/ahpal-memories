@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬炒麵腸"
 tid: 13660
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264883304
 layout: "bbs-single"
 ---
 

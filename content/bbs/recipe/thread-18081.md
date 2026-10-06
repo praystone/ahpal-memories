@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蛤蜊絲瓜(1)"
 tid: 18081
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084814
 layout: "bbs-single"
 ---
 

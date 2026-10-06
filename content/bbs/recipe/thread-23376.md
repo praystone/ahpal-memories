@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "彩椒炒豆鼓"
 tid: 23376
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315881032
 layout: "bbs-single"
 ---
 

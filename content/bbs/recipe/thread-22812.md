@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "綜合海鮮煎餅"
 tid: 22812
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1309269361
 layout: "bbs-single"
 ---
 

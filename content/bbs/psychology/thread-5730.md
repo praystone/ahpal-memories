@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "送花道出內心話"
 tid: 5730
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250674743
 layout: "bbs-single"
 ---
 

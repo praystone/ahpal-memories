@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "白斬雞"
 tid: 22405
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306748349
 layout: "bbs-single"
 ---
 

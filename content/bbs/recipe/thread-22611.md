@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "甘蔗粥"
 tid: 22611
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308530000
 layout: "bbs-single"
 ---
 

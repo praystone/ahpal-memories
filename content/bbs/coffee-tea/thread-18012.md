@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "清肺止咳涼茶"
 tid: 18012
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266083422
 layout: "bbs-single"
 ---
 

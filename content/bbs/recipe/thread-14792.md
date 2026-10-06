@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雪菜百頁"
 tid: 14792
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265230360
 layout: "bbs-single"
 ---
 

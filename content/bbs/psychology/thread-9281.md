@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "公開！如何才能招桃花？"
 tid: 9281
 fid: 52
-author: "0"
-dateline: 0
+author: "claire165"
+dateline: 1263044403
 layout: "bbs-single"
 ---
 

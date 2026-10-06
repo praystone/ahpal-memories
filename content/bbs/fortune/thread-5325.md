@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "懺悔與負責任"
 tid: 5325
 fid: 51
-author: "0"
-dateline: 0
+author: "卯梅"
+dateline: 1247344714
 layout: "bbs-single"
 ---
 

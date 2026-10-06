@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹魚雞粒飯糰"
 tid: 14614
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265178413
 layout: "bbs-single"
 ---
 

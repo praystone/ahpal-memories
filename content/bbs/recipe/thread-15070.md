@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "甜椒雞柳"
 tid: 15070
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265312080
 layout: "bbs-single"
 ---
 

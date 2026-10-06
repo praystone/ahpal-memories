@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你運用金錢的方式"
 tid: 18883
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1267798524
 layout: "bbs-single"
 ---
 

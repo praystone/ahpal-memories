@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鳳梨冰棒"
 tid: 14491
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265139011
 layout: "bbs-single"
 ---
 

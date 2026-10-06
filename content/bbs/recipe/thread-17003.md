@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜味鮮蚵"
 tid: 17003
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265864251
 layout: "bbs-single"
 ---
 

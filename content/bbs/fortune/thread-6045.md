@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紫微斗數的真諦"
 tid: 6045
 fid: 51
-author: "0"
-dateline: 0
+author: "chj"
+dateline: 1251953673
 layout: "bbs-single"
 ---
 

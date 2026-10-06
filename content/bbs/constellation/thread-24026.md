@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "１２星座誰最愛獨來獨往？"
 tid: 24026
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325653786
 layout: "bbs-single"
 ---
 
-<!-- 主題 24026，帖子動態載入 -->
+<!-- 主題 24026 -->

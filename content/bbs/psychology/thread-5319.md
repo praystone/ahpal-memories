@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的自信來自於哪裡?"
 tid: 5319
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247323696
 layout: "bbs-single"
 ---
 

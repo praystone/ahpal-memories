@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "閨蜜 我只要無毒型的"
 tid: 20100
 fid: 68
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1281237858
 layout: "bbs-single"
 ---
 

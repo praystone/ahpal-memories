@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "番茄醬蝦仁炒脆肉瓜"
 tid: 12618
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264532832
 layout: "bbs-single"
 ---
 

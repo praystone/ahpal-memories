@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測測你的安靜指數多少?"
 tid: 2983
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235496543
 layout: "bbs-single"
 ---
 

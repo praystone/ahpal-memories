@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "筍片鳳爪湯"
 tid: 17010
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265864393
 layout: "bbs-single"
 ---
 

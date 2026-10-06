@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "足用香粉 不再怕脫鞋"
 tid: 13297
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264788545
 layout: "bbs-single"
 ---
 

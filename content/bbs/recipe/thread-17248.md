@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "銀耳紅棗"
 tid: 17248
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265870457
 layout: "bbs-single"
 ---
 

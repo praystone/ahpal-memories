@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "沙薑走地雞"
 tid: 12400
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452357
 layout: "bbs-single"
 ---
 

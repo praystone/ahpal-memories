@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬爆肉"
 tid: 17658
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266004054
 layout: "bbs-single"
 ---
 

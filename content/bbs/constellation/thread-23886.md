@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座脆弱的時候"
 tid: 23886
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325075463
 layout: "bbs-single"
 ---
 
-<!-- 主題 23886，帖子動態載入 -->
+<!-- 主題 23886 -->

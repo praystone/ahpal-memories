@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "康寶藍"
 tid: 14936
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265308808
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅燒蹄膀"
 tid: 17991
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266083009
 layout: "bbs-single"
 ---
 

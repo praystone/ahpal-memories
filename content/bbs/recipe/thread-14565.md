@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香菇蒸雞"
 tid: 14565
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265140591
 layout: "bbs-single"
 ---
 

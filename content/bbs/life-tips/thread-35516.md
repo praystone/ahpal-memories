@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "網頁設計小心得"
 tid: 35516
 fid: 72
-author: "0"
-dateline: 0
+author: "dikawow132"
+dateline: 1595320702
 layout: "bbs-single"
 ---
 

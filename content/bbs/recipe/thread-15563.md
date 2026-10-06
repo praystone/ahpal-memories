@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "照燒烤玉米"
 tid: 15563
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265492475
 layout: "bbs-single"
 ---
 

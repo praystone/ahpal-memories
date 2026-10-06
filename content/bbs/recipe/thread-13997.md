@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "檸檬薄荷淋醬"
 tid: 13997
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264964415
 layout: "bbs-single"
 ---
 

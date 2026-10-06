@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黃金洋蔥牛肉醬"
 tid: 13338
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264791776
 layout: "bbs-single"
 ---
 

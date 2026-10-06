@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "人際關係如何?"
 tid: 5580
 fid: 52
-author: "0"
-dateline: 0
+author: "ddssaaffgghh"
+dateline: 1248415713
 layout: "bbs-single"
 ---
 

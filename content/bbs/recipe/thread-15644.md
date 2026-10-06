@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "洋蔥拌鮪魚(1)"
 tid: 15644
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265527806
 layout: "bbs-single"
 ---
 

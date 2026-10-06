@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "最會在老婆面前裝乖的老公星座？"
 tid: 3641
 fid: 50
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1238309002
 layout: "bbs-single"
 ---
 
-<!-- 主題 3641，帖子動態載入 -->
+<!-- 主題 3641 -->

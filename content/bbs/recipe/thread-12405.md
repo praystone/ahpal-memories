@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "油蜆蚧雞"
 tid: 12405
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452506
 layout: "bbs-single"
 ---
 

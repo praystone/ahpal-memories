@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "女人要知道的十件事"
 tid: 20637
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1288658758
 layout: "bbs-single"
 ---
 

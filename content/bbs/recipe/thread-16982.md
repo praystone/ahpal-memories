@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "豆醬炒鮮蚵"
 tid: 16982
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265863927
 layout: "bbs-single"
 ---
 

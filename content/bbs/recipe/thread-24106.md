@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "皮蛋炒青椒"
 tid: 24106
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326159791
 layout: "bbs-single"
 ---
 

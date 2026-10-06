@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "別以為這樣就可以避孕！"
 tid: 19961
 fid: 32
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1280293109
 layout: "bbs-single"
 ---
 

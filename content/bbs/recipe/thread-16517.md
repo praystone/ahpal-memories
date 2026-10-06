@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蔥油墨魚片"
 tid: 16517
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265780291
 layout: "bbs-single"
 ---
 

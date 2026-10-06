@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "很不錯的茶譜哦!"
 tid: 21850
 fid: 74
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1302662946
 layout: "bbs-single"
 ---
 

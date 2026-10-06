@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "地瓜土司餃"
 tid: 18410
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253815
 layout: "bbs-single"
 ---
 

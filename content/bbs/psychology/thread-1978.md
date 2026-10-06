@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "網路成隱自評量表20項"
 tid: 1978
 fid: 52
-author: "0"
-dateline: 0
+author: "~芯~"
+dateline: 1228959468
 layout: "bbs-single"
 ---
 

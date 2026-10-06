@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "當他不愛你的時候...."
 tid: 22380
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306620347
 layout: "bbs-single"
 ---
 

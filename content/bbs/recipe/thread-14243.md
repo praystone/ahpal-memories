@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅燒鰻魚飯"
 tid: 14243
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265047812
 layout: "bbs-single"
 ---
 

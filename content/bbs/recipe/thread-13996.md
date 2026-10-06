@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芋頭鴨煲"
 tid: 13996
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264964398
 layout: "bbs-single"
 ---
 

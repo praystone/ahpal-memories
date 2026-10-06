@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "玫瑰艾力蕾亞"
 tid: 18226
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266232218
 layout: "bbs-single"
 ---
 

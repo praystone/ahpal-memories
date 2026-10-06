@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測驗大家心目中最喜愛哪一類型的異性"
 tid: 5579
 fid: 52
-author: "0"
-dateline: 0
+author: "ddssaaffgghh"
+dateline: 1248415688
 layout: "bbs-single"
 ---
 

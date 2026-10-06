@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "塔香豬排"
 tid: 13617
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264882046
 layout: "bbs-single"
 ---
 

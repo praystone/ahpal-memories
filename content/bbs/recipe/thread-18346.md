@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鮭魚奶油燉飯"
 tid: 18346
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266235046
 layout: "bbs-single"
 ---
 

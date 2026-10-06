@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "泡菜涼麵"
 tid: 13374
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264793071
 layout: "bbs-single"
 ---
 

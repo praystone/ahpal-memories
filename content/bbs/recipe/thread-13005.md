@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "客炒拌粄條"
 tid: 13005
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264705560
 layout: "bbs-single"
 ---
 

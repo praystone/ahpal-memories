@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鵝肝雞肉麵"
 tid: 18526
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256557
 layout: "bbs-single"
 ---
 

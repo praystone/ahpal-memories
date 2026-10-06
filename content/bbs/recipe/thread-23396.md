@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "魚香茄子"
 tid: 23396
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315980985
 layout: "bbs-single"
 ---
 

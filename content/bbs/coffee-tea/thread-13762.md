@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紫屋魔戀"
 tid: 13762
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264924291
 layout: "bbs-single"
 ---
 

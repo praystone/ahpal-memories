@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "沙茶羊肉燴飯"
 tid: 17196
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265869190
 layout: "bbs-single"
 ---
 

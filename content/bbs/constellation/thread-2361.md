@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "消費券來囉！哪三個星座先花光？"
 tid: 2361
 fid: 50
-author: "0"
-dateline: 0
+author: "~芯~"
+dateline: 1231846666
 layout: "bbs-single"
 ---
 
-<!-- 主題 2361，帖子動態載入 -->
+<!-- 主題 2361 -->

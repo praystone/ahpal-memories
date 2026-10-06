@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "山藥牛小排"
 tid: 24107
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326159826
 layout: "bbs-single"
 ---
 

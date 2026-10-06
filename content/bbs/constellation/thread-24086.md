@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二月亮星座的心靈成長"
 tid: 24086
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326157133
 layout: "bbs-single"
 ---
 
-<!-- 主題 24086，帖子動態載入 -->
+<!-- 主題 24086 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炸醬炒高麗菜"
 tid: 14548
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265140281
 layout: "bbs-single"
 ---
 

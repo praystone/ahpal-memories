@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "藥膳養生雞湯"
 tid: 23395
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315980855
 layout: "bbs-single"
 ---
 

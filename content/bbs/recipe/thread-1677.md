@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "花雕雞"
 tid: 1677
 fid: 59
-author: "0"
-dateline: 0
+author: "卯梅"
+dateline: 1224294847
 layout: "bbs-single"
 ---
 

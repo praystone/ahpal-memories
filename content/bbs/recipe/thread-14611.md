@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬燒洋蔥肉卷"
 tid: 14611
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265178367
 layout: "bbs-single"
 ---
 

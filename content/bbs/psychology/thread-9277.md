@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "未來一個月我能逢凶化吉嗎？"
 tid: 9277
 fid: 52
-author: "0"
-dateline: 0
+author: "claire165"
+dateline: 1263044084
 layout: "bbs-single"
 ---
 

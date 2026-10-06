@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香氛占卜 測魅力指數"
 tid: 2033
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1229518295
 layout: "bbs-single"
 ---
 

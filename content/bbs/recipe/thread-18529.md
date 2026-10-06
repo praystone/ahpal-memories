@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "義式香蒜蛤蜊麵"
 tid: 18529
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256604
 layout: "bbs-single"
 ---
 

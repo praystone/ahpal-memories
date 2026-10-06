@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "酸菜豬肚湯(1)"
 tid: 14115
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265001611
 layout: "bbs-single"
 ---
 

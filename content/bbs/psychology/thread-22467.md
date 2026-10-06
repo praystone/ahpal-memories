@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "從氣球顏色看忌妒指數 ？"
 tid: 22467
 fid: 52
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307188554
 layout: "bbs-single"
 ---
 

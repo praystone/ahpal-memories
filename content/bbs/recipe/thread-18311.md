@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "火腿馬鈴薯大亨堡"
 tid: 18311
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234312
 layout: "bbs-single"
 ---
 

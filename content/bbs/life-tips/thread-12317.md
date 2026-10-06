@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "指甲油挑選小技巧"
 tid: 12317
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264446603
 layout: "bbs-single"
 ---
 

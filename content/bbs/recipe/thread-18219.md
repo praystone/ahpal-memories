@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "風草莓瑞士卷"
 tid: 18219
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266231343
 layout: "bbs-single"
 ---
 

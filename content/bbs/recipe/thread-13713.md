@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "百果素燒鰻"
 tid: 13713
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264920465
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香腸豆仁飯"
 tid: 14106
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264968608
 layout: "bbs-single"
 ---
 

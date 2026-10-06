@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鐵板素火腿"
 tid: 11429
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264274170
 layout: "bbs-single"
 ---
 

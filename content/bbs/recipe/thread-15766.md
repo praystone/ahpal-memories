@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "玉米蔬菜煎餅"
 tid: 15766
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265579404
 layout: "bbs-single"
 ---
 

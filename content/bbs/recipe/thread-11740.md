@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "烤味噌魚"
 tid: 11740
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264358661
 layout: "bbs-single"
 ---
 

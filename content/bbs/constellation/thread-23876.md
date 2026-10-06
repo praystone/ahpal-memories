@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[星座]十二星座的最佳赚錢的年紀~你(妳)錯過了嗎"
 tid: 23876
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325073048
 layout: "bbs-single"
 ---
 
-<!-- 主題 23876，帖子動態載入 -->
+<!-- 主題 23876 -->

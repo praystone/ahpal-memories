@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座拒絕告白的表現方式"
 tid: 19292
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1270923778
 layout: "bbs-single"
 ---
 
-<!-- 主題 19292，帖子動態載入 -->
+<!-- 主題 19292 -->

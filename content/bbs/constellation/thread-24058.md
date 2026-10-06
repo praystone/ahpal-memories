@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座最佳情人配一配"
 tid: 24058
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325656618
 layout: "bbs-single"
 ---
 
-<!-- 主題 24058，帖子動態載入 -->
+<!-- 主題 24058 -->

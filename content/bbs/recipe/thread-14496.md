@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "嗆辣炒蟹腳"
 tid: 14496
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265139268
 layout: "bbs-single"
 ---
 

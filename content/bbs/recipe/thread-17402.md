@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "荸薺羊肉水餃"
 tid: 17402
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920042
 layout: "bbs-single"
 ---
 

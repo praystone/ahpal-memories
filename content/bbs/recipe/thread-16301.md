@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "荸薺甘蔗燉魚"
 tid: 16301
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265745294
 layout: "bbs-single"
 ---
 

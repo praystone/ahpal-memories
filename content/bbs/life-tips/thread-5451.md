@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "自我檢測30秒 趕走指甲灰色地帶"
 tid: 5451
 fid: 72
-author: "0"
-dateline: 0
+author: "louie"
+dateline: 1247821551
 layout: "bbs-single"
 ---
 

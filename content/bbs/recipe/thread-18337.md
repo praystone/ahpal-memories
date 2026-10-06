@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紐奧良烤雞堡"
 tid: 18337
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234893
 layout: "bbs-single"
 ---
 

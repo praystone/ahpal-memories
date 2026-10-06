@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蛋黃花枝卷"
 tid: 17515
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265950060
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "宮保雞排"
 tid: 13714
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264920510
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜蓉辣椒醬"
 tid: 23380
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315891315
 layout: "bbs-single"
 ---
 

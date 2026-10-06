@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你是地雷很多的人嗎？"
 tid: 5603
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1248702829
 layout: "bbs-single"
 ---
 

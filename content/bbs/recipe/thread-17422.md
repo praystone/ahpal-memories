@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅蘿蔔皮"
 tid: 17422
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920375
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "月桂醃野菇"
 tid: 16782
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265832195
 layout: "bbs-single"
 ---
 

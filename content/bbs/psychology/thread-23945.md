@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你愛黏對方的指數"
 tid: 23945
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325154664
 layout: "bbs-single"
 ---
 

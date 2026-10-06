@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "甜椒炸雞肉串"
 tid: 15306
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265482647
 layout: "bbs-single"
 ---
 

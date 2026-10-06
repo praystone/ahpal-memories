@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "螺肉香菇飯"
 tid: 14194
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265046567
 layout: "bbs-single"
 ---
 

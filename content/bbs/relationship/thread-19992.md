@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "男人心中 女人誘人身材7標准"
 tid: 19992
 fid: 68
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1280481442
 layout: "bbs-single"
 ---
 

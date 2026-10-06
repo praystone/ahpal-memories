@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蜊肉燴絲瓜"
 tid: 17554
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265955757
 layout: "bbs-single"
 ---
 

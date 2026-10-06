@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蜜糖菠蘿牛仔骨"
 tid: 12527
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264487661
 layout: "bbs-single"
 ---
 

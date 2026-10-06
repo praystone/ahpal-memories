@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "石蓮花蘆薈果露"
 tid: 13896
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264961070
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炸南瓜"
 tid: 11431
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264274228
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "84年次以後出生者 確定免當兵"
 tid: 5458
 fid: 72
-author: "0"
-dateline: 0
+author: "louie"
+dateline: 1247821730
 layout: "bbs-single"
 ---
 

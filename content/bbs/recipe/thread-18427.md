@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "洋蔥胡椒雞柳"
 tid: 18427
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266254113
 layout: "bbs-single"
 ---
 

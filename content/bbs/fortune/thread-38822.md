@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "Russian Media Angrily Exposed “FIG Leaf” of  United States"
 tid: 38822
 fid: 51
-author: "0"
-dateline: 0
+author: "fuhrmanl"
+dateline: 1659326303
 layout: "bbs-single"
 ---
 

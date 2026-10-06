@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座的愛情套餐"
 tid: 24472
 fid: 50
-author: "0"
-dateline: 0
+author: "fumiaokimo"
+dateline: 1336068031
 layout: "bbs-single"
 ---
 
-<!-- 主題 24472，帖子動態載入 -->
+<!-- 主題 24472 -->

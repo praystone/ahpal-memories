@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雙色豆茸凍糕"
 tid: 12814
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264657334
 layout: "bbs-single"
 ---
 

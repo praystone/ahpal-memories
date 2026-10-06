@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹蛋黃炒茄花"
 tid: 11739
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264358603
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌小黃瓜"
 tid: 23397
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315981142
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香辣蒜苔絲"
 tid: 15961
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265655034
 layout: "bbs-single"
 ---
 

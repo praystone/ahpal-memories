@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座孽緣"
 tid: 21063
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1295414878
 layout: "bbs-single"
 ---
 
-<!-- 主題 21063，帖子動態載入 -->
+<!-- 主題 21063 -->

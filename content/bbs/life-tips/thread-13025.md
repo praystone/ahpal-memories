@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "檢舉 蛋殼別丟棄"
 tid: 13025
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264708510
 layout: "bbs-single"
 ---
 

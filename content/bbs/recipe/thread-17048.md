@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香椿雞塊"
 tid: 17048
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265865432
 layout: "bbs-single"
 ---
 

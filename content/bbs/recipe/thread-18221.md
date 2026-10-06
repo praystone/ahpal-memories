@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蜂蜜芥末豬排"
 tid: 18221
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266231368
 layout: "bbs-single"
 ---
 

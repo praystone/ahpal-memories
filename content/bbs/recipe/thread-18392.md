@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "土司漢堡"
 tid: 18392
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253446
 layout: "bbs-single"
 ---
 

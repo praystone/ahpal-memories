@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "大蒜醃肉"
 tid: 24072
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326086454
 layout: "bbs-single"
 ---
 

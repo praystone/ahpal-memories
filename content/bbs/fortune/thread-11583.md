@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "公寓大樓風水小解"
 tid: 11583
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1264309841
 layout: "bbs-single"
 ---
 

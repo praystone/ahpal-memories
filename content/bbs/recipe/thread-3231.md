@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "XO醬作法"
 tid: 3231
 fid: 59
-author: "0"
-dateline: 0
+author: "卯梅"
+dateline: 1236490457
 layout: "bbs-single"
 ---
 

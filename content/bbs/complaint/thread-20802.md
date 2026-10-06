@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "關於會員"
 tid: 20802
 fid: 3
-author: "0"
-dateline: 0
+author: "loveonly915"
+dateline: 1291395968
 layout: "bbs-single"
 ---
 

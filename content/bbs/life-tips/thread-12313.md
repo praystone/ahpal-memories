@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "別瞎逛街小心病害侵襲"
 tid: 12313
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264446435
 layout: "bbs-single"
 ---
 

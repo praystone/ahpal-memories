@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "咖哩淋醬"
 tid: 14037
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264967168
 layout: "bbs-single"
 ---
 

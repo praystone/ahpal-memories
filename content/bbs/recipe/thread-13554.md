@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣炒小魚乾"
 tid: 13554
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264880322
 layout: "bbs-single"
 ---
 

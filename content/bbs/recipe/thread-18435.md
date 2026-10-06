@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "義式奶酪(1)"
 tid: 18435
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266254883
 layout: "bbs-single"
 ---
 

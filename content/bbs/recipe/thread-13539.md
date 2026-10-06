@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "什錦冷菜"
 tid: 13539
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264879902
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蝦乾海帶飯"
 tid: 13970
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264963547
 layout: "bbs-single"
 ---
 

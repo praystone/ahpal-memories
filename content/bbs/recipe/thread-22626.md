@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "泰式涼拌牛肉捲"
 tid: 22626
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308624300
 layout: "bbs-single"
 ---
 

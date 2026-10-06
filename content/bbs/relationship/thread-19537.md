@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "好男人？壞男人！？"
 tid: 19537
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1274249614
 layout: "bbs-single"
 ---
 

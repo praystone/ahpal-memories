@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[分享] 超強告白簡訊12則 (必看)"
 tid: 23907
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325120889
 layout: "bbs-single"
 ---
 

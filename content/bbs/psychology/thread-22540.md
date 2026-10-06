@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "夠不夠浪漫? 測一下"
 tid: 22540
 fid: 52
-author: "0"
-dateline: 0
+author: "Angela.."
+dateline: 1307942413
 layout: "bbs-single"
 ---
 

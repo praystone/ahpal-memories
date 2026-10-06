@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "吃西餐也可看出性格"
 tid: 5731
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250674881
 layout: "bbs-single"
 ---
 

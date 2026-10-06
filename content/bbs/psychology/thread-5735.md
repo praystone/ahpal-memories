@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "愛情自私指數曝光"
 tid: 5735
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250675683
 layout: "bbs-single"
 ---
 

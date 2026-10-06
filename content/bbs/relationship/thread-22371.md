@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "愛要量力而為"
 tid: 22371
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306557493
 layout: "bbs-single"
 ---
 

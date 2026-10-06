@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "簡單自製廣東炒麵"
 tid: 22257
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305418264
 layout: "bbs-single"
 ---
 

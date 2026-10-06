@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "談戀愛嘴最甜的前五名星座"
 tid: 1545
 fid: 50
-author: "0"
-dateline: 0
+author: "江河"
+dateline: 1222688388
 layout: "bbs-single"
 ---
 
-<!-- 主題 1545，帖子動態載入 -->
+<!-- 主題 1545 -->

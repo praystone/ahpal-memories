@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "熱炒大蝦"
 tid: 15216
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265431628
 layout: "bbs-single"
 ---
 

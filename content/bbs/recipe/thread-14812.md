@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌干絲(3)"
 tid: 14812
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265262697
 layout: "bbs-single"
 ---
 

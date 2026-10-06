@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "印度咖哩火鍋"
 tid: 23988
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325489047
 layout: "bbs-single"
 ---
 

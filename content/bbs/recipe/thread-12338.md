@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "煙肉蔬菜蛋餅"
 tid: 12338
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264450237
 layout: "bbs-single"
 ---
 

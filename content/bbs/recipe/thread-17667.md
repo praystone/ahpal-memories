@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "塔香茄子肉片"
 tid: 17667
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266004810
 layout: "bbs-single"
 ---
 

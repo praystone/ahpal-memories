@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "桑寄生蓮子茶"
 tid: 12761
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264617545
 layout: "bbs-single"
 ---
 

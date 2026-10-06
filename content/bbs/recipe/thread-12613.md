@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "牛油黃金蝦"
 tid: 12613
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264532713
 layout: "bbs-single"
 ---
 

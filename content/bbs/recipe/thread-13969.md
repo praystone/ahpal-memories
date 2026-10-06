@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蘑菇滷肉飯"
 tid: 13969
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264963532
 layout: "bbs-single"
 ---
 

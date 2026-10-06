@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鼻塞 打噴嚏 發燒不一定是感冒"
 tid: 20596
 fid: 72
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1287581919
 layout: "bbs-single"
 ---
 

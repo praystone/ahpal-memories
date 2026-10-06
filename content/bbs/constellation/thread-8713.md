@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "會勾引好友另一半的星座 ==''"
 tid: 8713
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1262330550
 layout: "bbs-single"
 ---
 
-<!-- 主題 8713，帖子動態載入 -->
+<!-- 主題 8713 -->

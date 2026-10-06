@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "瓜仔雞湯"
 tid: 22728
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308702185
 layout: "bbs-single"
 ---
 

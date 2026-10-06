@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜片牛仔肉"
 tid: 17450
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920776
 layout: "bbs-single"
 ---
 

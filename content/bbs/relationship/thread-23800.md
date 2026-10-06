@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "傷害我~你會心疼嗎"
 tid: 23800
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1323398983
 layout: "bbs-single"
 ---
 

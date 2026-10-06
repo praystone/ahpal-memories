@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜味雞排"
 tid: 14870
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265264268
 layout: "bbs-single"
 ---
 

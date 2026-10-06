@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "清除湯渣的妙招"
 tid: 22247
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305394865
 layout: "bbs-single"
 ---
 

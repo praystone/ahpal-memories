@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "煎釀日式炸豆腐"
 tid: 12711
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264536589
 layout: "bbs-single"
 ---
 

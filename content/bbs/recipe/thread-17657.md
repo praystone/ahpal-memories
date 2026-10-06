@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "馬鈴薯燒肉"
 tid: 17657
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266004043
 layout: "bbs-single"
 ---
 

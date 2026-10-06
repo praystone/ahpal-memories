@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測你的智商"
 tid: 24361
 fid: 52
-author: "0"
-dateline: 0
+author: "kiopp"
+dateline: 1331404315
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "咖哩燒小排"
 tid: 17575
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265956171
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "開運小秘方"
 tid: 6041
 fid: 51
-author: "0"
-dateline: 0
+author: "chj"
+dateline: 1251949947
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你現在的擔憂焦慮程度"
 tid: 19886
 fid: 52
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1279871419
 layout: "bbs-single"
 ---
 

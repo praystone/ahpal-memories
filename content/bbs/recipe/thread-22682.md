@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣炒羊肉片"
 tid: 22682
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308642316
 layout: "bbs-single"
 ---
 

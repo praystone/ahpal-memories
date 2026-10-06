@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "糖醋山藥"
 tid: 14955
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265309207
 layout: "bbs-single"
 ---
 

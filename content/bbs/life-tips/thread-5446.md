@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "洗髮功效 民眾最注重修護柔順及抗屑"
 tid: 5446
 fid: 72
-author: "0"
-dateline: 0
+author: "louie"
+dateline: 1247821426
 layout: "bbs-single"
 ---
 

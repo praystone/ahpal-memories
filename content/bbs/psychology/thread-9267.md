@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你會選那個當作你永遠的飲用品？"
 tid: 9267
 fid: 52
-author: "0"
-dateline: 0
+author: "claire165"
+dateline: 1263043217
 layout: "bbs-single"
 ---
 

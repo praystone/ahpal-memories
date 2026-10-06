@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "人緣測試"
 tid: 3093
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235762187
 layout: "bbs-single"
 ---
 

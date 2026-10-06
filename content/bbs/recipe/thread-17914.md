@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "夏威夷炒飯"
 tid: 17914
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266081693
 layout: "bbs-single"
 ---
 

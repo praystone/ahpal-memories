@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "薑汁地瓜湯"
 tid: 15487
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265489104
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蘭花茄子"
 tid: 17925
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266081857
 layout: "bbs-single"
 ---
 

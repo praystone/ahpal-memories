@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座老爸"
 tid: 22456
 fid: 50
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307103150
 layout: "bbs-single"
 ---
 
-<!-- 主題 22456，帖子動態載入 -->
+<!-- 主題 22456 -->

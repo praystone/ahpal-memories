@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "疤痕比針孔還小！微創植髮對抗禿頭有辦「髮」"
 tid: 35059
 fid: 72
-author: "0"
-dateline: 0
+author: "marcopolo168168"
+dateline: 1590737048
 layout: "bbs-single"
 ---
 

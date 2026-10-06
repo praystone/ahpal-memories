@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "星座測驗!!!"
 tid: 3705
 fid: 50
-author: "0"
-dateline: 0
+author: "jojo999"
+dateline: 1238608421
 layout: "bbs-single"
 ---
 
-<!-- 主題 3705，帖子動態載入 -->
+<!-- 主題 3705 -->

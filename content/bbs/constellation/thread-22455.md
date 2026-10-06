@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12 星座女生的愛情亮紅燈的事"
 tid: 22455
 fid: 50
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307102947
 layout: "bbs-single"
 ---
 
-<!-- 主題 22455，帖子動態載入 -->
+<!-- 主題 22455 -->

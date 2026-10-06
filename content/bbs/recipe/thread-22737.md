@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "全牛料理各部位介紹"
 tid: 22737
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308709291
 layout: "bbs-single"
 ---
 

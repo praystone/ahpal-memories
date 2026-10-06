@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "嫁給12星座男人的心理準備"
 tid: 5541
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1248017277
 layout: "bbs-single"
 ---
 
-<!-- 主題 5541，帖子動態載入 -->
+<!-- 主題 5541 -->

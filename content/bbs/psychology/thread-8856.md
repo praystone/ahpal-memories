@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "評量你的敏感度"
 tid: 8856
 fid: 52
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1262507503
 layout: "bbs-single"
 ---
 

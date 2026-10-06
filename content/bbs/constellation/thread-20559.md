@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座灌水時的心態"
 tid: 20559
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1286962280
 layout: "bbs-single"
 ---
 
-<!-- 主題 20559，帖子動態載入 -->
+<!-- 主題 20559 -->

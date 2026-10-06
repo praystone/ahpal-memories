@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "石頭火鍋(2)"
 tid: 16285
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265745058
 layout: "bbs-single"
 ---
 

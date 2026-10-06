@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "~酸辣羹~"
 tid: 24076
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326086619
 layout: "bbs-single"
 ---
 

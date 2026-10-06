@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "頒發忠誠勳章"
 tid: 21292
 fid: 2
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1298377640
 layout: "bbs-single"
 ---
 

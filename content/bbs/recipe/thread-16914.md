@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌辣魚片"
 tid: 16914
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265834830
 layout: "bbs-single"
 ---
 

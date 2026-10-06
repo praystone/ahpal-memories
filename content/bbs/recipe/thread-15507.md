@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炸芋球"
 tid: 15507
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265490515
 layout: "bbs-single"
 ---
 

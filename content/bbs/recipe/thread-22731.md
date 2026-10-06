@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "歐風醃糖蒜雞腿排"
 tid: 22731
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308702833
 layout: "bbs-single"
 ---
 

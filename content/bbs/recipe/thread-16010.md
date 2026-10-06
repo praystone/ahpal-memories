@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "高麗菜酸"
 tid: 16010
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265655845
 layout: "bbs-single"
 ---
 

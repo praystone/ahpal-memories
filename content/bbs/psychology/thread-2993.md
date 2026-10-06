@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你在異性眼中可親指數多高"
 tid: 2993
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235498242
 layout: "bbs-single"
 ---
 

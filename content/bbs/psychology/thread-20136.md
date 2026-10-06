@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "注音算命"
 tid: 20136
 fid: 52
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1281840089
 layout: "bbs-single"
 ---
 

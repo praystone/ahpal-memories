@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "奶油野菇寬麵"
 tid: 18478
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266255691
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "有baby後的12星座男生爸爸"
 tid: 19405
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1272088899
 layout: "bbs-single"
 ---
 
-<!-- 主題 19405，帖子動態載入 -->
+<!-- 主題 19405 -->

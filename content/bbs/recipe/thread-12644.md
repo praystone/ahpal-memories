@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香辣菠蘿蝦"
 tid: 12644
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264533915
 layout: "bbs-single"
 ---
 

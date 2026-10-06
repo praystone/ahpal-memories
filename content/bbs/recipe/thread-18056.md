@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蚵嗲(4)"
 tid: 18056
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084462
 layout: "bbs-single"
 ---
 

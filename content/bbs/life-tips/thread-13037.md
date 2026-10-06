@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "然抗菌飲品 對抗感冒"
 tid: 13037
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264709978
 layout: "bbs-single"
 ---
 

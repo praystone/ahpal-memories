@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣子雞鍋"
 tid: 18116
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266085349
 layout: "bbs-single"
 ---
 

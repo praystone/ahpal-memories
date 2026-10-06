@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "星座花語"
 tid: 11050
 fid: 50
-author: "0"
-dateline: 0
+author: "claire165"
+dateline: 1264165014
 layout: "bbs-single"
 ---
 
-<!-- 主題 11050，帖子動態載入 -->
+<!-- 主題 11050 -->

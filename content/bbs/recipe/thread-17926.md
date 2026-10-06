@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "釀翡翠椒"
 tid: 17926
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266081870
 layout: "bbs-single"
 ---
 

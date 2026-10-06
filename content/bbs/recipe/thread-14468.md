@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "酥炸水晶魚"
 tid: 14468
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265138234
 layout: "bbs-single"
 ---
 

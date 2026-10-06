@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "台灣離島應該設賭場嗎？"
 tid: 2501
 fid: 6
-author: "0"
-dateline: 0
+author: "31017310"
+dateline: 1232090123
 layout: "bbs-single"
 ---
 

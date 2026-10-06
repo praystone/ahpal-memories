@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "油條鮮蚵"
 tid: 15415
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265487082
 layout: "bbs-single"
 ---
 

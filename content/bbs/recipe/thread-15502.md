@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "味噌碎肉煎地瓜排"
 tid: 15502
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265490477
 layout: "bbs-single"
 ---
 

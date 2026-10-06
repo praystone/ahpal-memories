@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "金蔥鮑魚粒炒飯"
 tid: 17431
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920500
 layout: "bbs-single"
 ---
 

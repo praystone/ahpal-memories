@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "降 低 膽 固 醇－食 療 篇"
 tid: 5029
 fid: 72
-author: "0"
-dateline: 0
+author: "裕明"
+dateline: 1245517415
 layout: "bbs-single"
 ---
 

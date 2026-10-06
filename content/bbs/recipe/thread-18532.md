@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "傳統烤千層麵"
 tid: 18532
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256638
 layout: "bbs-single"
 ---
 

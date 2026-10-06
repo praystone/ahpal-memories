@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "你最容易電到哪一個星座"
 tid: 2162
 fid: 50
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1230534670
 layout: "bbs-single"
 ---
 
-<!-- 主題 2162，帖子動態載入 -->
+<!-- 主題 2162 -->

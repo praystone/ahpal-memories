@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "沒碰到過的東西，事前、事後無論如何絕不碰、不接觸？？"
 tid: 6439
 fid: 72
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1252669121
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蕃茄什錦鍋"
 tid: 18112
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266085263
 layout: "bbs-single"
 ---
 

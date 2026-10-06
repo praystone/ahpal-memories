@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "椒鹽豆干"
 tid: 16365
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265746260
 layout: "bbs-single"
 ---
 

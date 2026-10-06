@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "筍絲蹄膀"
 tid: 15125
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265313444
 layout: "bbs-single"
 ---
 

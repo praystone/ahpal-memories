@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蔬菜牛肉卷"
 tid: 18324
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234600
 layout: "bbs-single"
 ---
 

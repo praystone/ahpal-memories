@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "咖哩茄汁燴鮮蝦"
 tid: 16807
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265832548
 layout: "bbs-single"
 ---
 

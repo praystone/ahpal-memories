@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座大財主潛質"
 tid: 18178
 fid: 50
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1266129248
 layout: "bbs-single"
 ---
 
-<!-- 主題 18178，帖子動態載入 -->
+<!-- 主題 18178 -->

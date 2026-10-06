@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "左宗棠雞(5)"
 tid: 16219
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265743855
 layout: "bbs-single"
 ---
 

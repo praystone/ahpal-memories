@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座開會百態"
 tid: 19888
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1279871721
 layout: "bbs-single"
 ---
 
-<!-- 主題 19888，帖子動態載入 -->
+<!-- 主題 19888 -->

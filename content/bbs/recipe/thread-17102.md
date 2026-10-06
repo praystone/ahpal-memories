@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蛋酥滷白菜"
 tid: 17102
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265866584
 layout: "bbs-single"
 ---
 

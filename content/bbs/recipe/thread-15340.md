@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "百頁豆腐"
 tid: 15340
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265484254
 layout: "bbs-single"
 ---
 

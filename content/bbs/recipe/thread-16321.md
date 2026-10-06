@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "沙茶洋蔥甜不辣"
 tid: 16321
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265745576
 layout: "bbs-single"
 ---
 

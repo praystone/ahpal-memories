@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣味鮮魚堡"
 tid: 18322
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234566
 layout: "bbs-single"
 ---
 

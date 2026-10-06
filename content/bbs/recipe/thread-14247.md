@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣油醬料"
 tid: 14247
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265047919
 layout: "bbs-single"
 ---
 

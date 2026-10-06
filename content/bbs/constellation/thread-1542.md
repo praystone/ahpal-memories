@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座中的極品"
 tid: 1542
 fid: 50
-author: "0"
-dateline: 0
+author: "江河"
+dateline: 1222688122
 layout: "bbs-single"
 ---
 
-<!-- 主題 1542，帖子動態載入 -->
+<!-- 主題 1542 -->

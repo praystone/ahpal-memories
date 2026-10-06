@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "腐乳炸雞"
 tid: 17311
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265917937
 layout: "bbs-single"
 ---
 

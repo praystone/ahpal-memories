@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "青醬羊肉義大利寬麵"
 tid: 18539
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256754
 layout: "bbs-single"
 ---
 

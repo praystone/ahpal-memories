@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "走霉運 金虎年365天都犯小人的星座"
 tid: 20119
 fid: 50
-author: "0"
-dateline: 0
+author: "☆情人☆"
+dateline: 1281352629
 layout: "bbs-single"
 ---
 
-<!-- 主題 20119，帖子動態載入 -->
+<!-- 主題 20119 -->

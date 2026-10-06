@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "肉乾什錦菇飯"
 tid: 14073
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264967820
 layout: "bbs-single"
 ---
 

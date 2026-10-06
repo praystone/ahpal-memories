@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "草莓冰淇淋"
 tid: 18655
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266261161
 layout: "bbs-single"
 ---
 

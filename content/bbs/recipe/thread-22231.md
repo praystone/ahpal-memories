@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "養生地瓜餐吃法"
 tid: 22231
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305390094
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "本站免責聲明及版權聲明"
 tid: 16
 fid: 3
-author: "0"
-dateline: 0
+author: "kevin"
+dateline: 1185120384
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "生薑絲拌雞絲"
 tid: 14310
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265050714
 layout: "bbs-single"
 ---
 

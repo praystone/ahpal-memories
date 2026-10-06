@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "舊衣物 廚房好幫手"
 tid: 13036
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264709958
 layout: "bbs-single"
 ---
 

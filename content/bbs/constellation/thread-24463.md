@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "欺負12星座的下場與死法"
 tid: 24463
 fid: 50
-author: "0"
-dateline: 0
+author: "fumiaokimo"
+dateline: 1336036704
 layout: "bbs-single"
 ---
 
-<!-- 主題 24463，帖子動態載入 -->
+<!-- 主題 24463 -->

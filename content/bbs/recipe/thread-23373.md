@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香辣中卷"
 tid: 23373
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315880163
 layout: "bbs-single"
 ---
 

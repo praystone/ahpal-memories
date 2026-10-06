@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "義式麵疙瘩"
 tid: 18525
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256541
 layout: "bbs-single"
 ---
 

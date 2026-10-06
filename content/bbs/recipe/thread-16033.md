@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鳳梨豆醬"
 tid: 16033
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265690606
 layout: "bbs-single"
 ---
 

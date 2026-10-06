@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "竹筍炒飯"
 tid: 23398
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315981307
 layout: "bbs-single"
 ---
 

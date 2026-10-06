@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "滷汁燉鮮筍"
 tid: 15442
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265487911
 layout: "bbs-single"
 ---
 

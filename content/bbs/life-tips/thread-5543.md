@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "牙膏的妙用 進階版XD"
 tid: 5543
 fid: 72
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1248017470
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "薄荷炒鮑菇"
 tid: 16811
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265832590
 layout: "bbs-single"
 ---
 

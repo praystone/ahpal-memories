@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "秀髮清洗的迷思"
 tid: 13299
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264788830
 layout: "bbs-single"
 ---
 

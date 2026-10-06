@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "斗六賣飯票八折促銷美食"
 tid: 25132
 fid: 59
-author: "0"
-dateline: 0
+author: "misspeach"
+dateline: 1374491093
 layout: "bbs-single"
 ---
 

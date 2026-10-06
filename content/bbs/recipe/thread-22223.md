@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "做菜技巧７１招"
 tid: 22223
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305378805
 layout: "bbs-single"
 ---
 

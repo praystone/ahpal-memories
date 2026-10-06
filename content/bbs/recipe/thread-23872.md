@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣椰醬脆皮餃"
 tid: 23872
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325057747
 layout: "bbs-single"
 ---
 

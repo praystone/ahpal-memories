@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "基礎高湯"
 tid: 15142
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265313901
 layout: "bbs-single"
 ---
 

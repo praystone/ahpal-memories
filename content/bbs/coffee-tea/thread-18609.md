@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "肯亞AA東非肯尼亞"
 tid: 18609
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266259368
 layout: "bbs-single"
 ---
 

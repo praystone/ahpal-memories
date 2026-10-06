@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹菜魚頭湯"
 tid: 24077
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326086657
 layout: "bbs-single"
 ---
 

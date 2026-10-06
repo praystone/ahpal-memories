@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "開運小偏方：增強中獎運"
 tid: 8734
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1262331570
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黃金鮪魚沙拉堡"
 tid: 18330
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234681
 layout: "bbs-single"
 ---
 

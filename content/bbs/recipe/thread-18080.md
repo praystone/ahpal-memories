@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "烤泡菜臭豆腐"
 tid: 18080
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084804
 layout: "bbs-single"
 ---
 

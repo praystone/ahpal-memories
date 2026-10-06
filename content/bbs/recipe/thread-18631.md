@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "楓葉薄燒"
 tid: 18631
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266259692
 layout: "bbs-single"
 ---
 

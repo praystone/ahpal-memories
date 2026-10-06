@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座定情物語"
 tid: 22453
 fid: 50
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307102586
 layout: "bbs-single"
 ---
 
-<!-- 主題 22453，帖子動態載入 -->
+<!-- 主題 22453 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "印尼沙嗲炒麵"
 tid: 22810
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1309268796
 layout: "bbs-single"
 ---
 

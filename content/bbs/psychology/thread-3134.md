@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "洗澡看性格，看你是不是個愛現一族"
 tid: 3134
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235937426
 layout: "bbs-single"
 ---
 

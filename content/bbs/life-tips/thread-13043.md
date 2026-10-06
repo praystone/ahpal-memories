@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "健康家居的十八個細節"
 tid: 13043
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264710491
 layout: "bbs-single"
 ---
 

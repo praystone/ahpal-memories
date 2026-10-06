@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "海鮮煎餅("
 tid: 13436
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264833282
 layout: "bbs-single"
 ---
 

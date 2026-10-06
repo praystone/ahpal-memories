@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻辣腸旺臭豆腐"
 tid: 15765
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265579393
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "川燙漂涼 更保鮮"
 tid: 13301
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264788887
 layout: "bbs-single"
 ---
 

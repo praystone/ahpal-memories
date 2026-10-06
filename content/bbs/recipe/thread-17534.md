@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "豆包炒豆芽"
 tid: 17534
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265950765
 layout: "bbs-single"
 ---
 

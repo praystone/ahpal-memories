@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座的考試命運"
 tid: 22004
 fid: 50
-author: "0"
-dateline: 0
+author: "johnnyanthea"
+dateline: 1303721189
 layout: "bbs-single"
 ---
 
-<!-- 主題 22004，帖子動態載入 -->
+<!-- 主題 22004 -->

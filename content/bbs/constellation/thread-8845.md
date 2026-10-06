@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座黑色星期五趨吉避凶法"
 tid: 8845
 fid: 50
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1262507076
 layout: "bbs-single"
 ---
 
-<!-- 主題 8845，帖子動態載入 -->
+<!-- 主題 8845 -->

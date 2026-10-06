@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "特色香爆明蝦"
 tid: 12636
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264533662
 layout: "bbs-single"
 ---
 

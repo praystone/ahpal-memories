@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "陽宅開運廚房吉凶篇"
 tid: 9838
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1263734418
 layout: "bbs-single"
 ---
 

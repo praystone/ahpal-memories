@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬汁吳郭魚"
 tid: 17587
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266002725
 layout: "bbs-single"
 ---
 

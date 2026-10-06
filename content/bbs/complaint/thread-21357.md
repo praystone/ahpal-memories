@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[已解決]短消息不能用ㄟ"
 tid: 21357
 fid: 3
-author: "0"
-dateline: 0
+author: "Abel"
+dateline: 1299222947
 layout: "bbs-single"
 ---
 

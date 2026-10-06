@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "幼稚指數"
 tid: 24100
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326158149
 layout: "bbs-single"
 ---
 

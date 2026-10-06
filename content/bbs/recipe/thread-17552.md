@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雙鮮涼拌豆芽"
 tid: 17552
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265955720
 layout: "bbs-single"
 ---
 

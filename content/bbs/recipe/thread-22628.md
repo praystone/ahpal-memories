@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "薄皮減脂炸嫩雞腿"
 tid: 22628
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308624533
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻辣鐵板雞丁"
 tid: 16276
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265744889
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "與脫衣服有關的夢"
 tid: 9265
 fid: 52
-author: "0"
-dateline: 0
+author: "claire165"
+dateline: 1263042936
 layout: "bbs-single"
 ---
 

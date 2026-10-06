@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣味豬肉拌飯"
 tid: 13453
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264835625
 layout: "bbs-single"
 ---
 

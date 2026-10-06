@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌大頭菜(3)"
 tid: 15647
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265527878
 layout: "bbs-single"
 ---
 

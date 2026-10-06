@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座之IQ高低"
 tid: 5202
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1246721098
 layout: "bbs-single"
 ---
 
-<!-- 主題 5202，帖子動態載入 -->
+<!-- 主題 5202 -->

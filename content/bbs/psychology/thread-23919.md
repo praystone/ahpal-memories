@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[心測]嘴賤的程度.."
 tid: 23919
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325137744
 layout: "bbs-single"
 ---
 

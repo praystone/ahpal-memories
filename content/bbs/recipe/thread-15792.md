@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芝麻拌香茄"
 tid: 15792
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265579892
 layout: "bbs-single"
 ---
 

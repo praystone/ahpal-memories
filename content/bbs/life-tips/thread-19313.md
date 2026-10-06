@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "梳頭有大學問"
 tid: 19313
 fid: 72
-author: "0"
-dateline: 0
+author: "亞莉"
+dateline: 1271143440
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "如何安慰失戀的12星座"
 tid: 5756
 fid: 50
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250682393
 layout: "bbs-single"
 ---
 
-<!-- 主題 5756，帖子動態載入 -->
+<!-- 主題 5756 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "西芹鵝肉片"
 tid: 17529
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265950422
 layout: "bbs-single"
 ---
 

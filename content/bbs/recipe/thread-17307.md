@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醉雞(3)"
 tid: 17307
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265917873
 layout: "bbs-single"
 ---
 

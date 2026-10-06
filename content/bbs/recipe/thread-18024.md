@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "奇異果可麗餅"
 tid: 18024
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266083601
 layout: "bbs-single"
 ---
 

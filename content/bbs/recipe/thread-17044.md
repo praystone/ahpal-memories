@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "熱狗土司"
 tid: 17044
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265865335
 layout: "bbs-single"
 ---
 

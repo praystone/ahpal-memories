@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "每週工作1小時 也不算失業"
 tid: 5457
 fid: 72
-author: "0"
-dateline: 0
+author: "louie"
+dateline: 1247821703
 layout: "bbs-single"
 ---
 

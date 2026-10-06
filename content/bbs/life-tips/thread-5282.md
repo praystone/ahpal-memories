@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "穿鞋會腳臭應該如何解決"
 tid: 5282
 fid: 72
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247066926
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "站內禁止廣告規範綱要"
 tid: 14
 fid: 2
-author: "0"
-dateline: 0
+author: "kevin"
+dateline: 1185120261
 layout: "bbs-single"
 ---
 

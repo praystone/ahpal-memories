@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "關門"
 tid: 2303
 fid: 72
-author: "0"
-dateline: 0
+author: "~芯~"
+dateline: 1231597499
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "烤豬排"
 tid: 18091
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084949
 layout: "bbs-single"
 ---
 

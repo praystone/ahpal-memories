@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "挖出你的自信死穴？"
 tid: 5818
 fid: 52
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251640170
 layout: "bbs-single"
 ---
 

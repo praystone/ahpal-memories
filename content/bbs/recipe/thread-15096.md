@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香芹蠔汁"
 tid: 15096
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265312730
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬鳳梨脆筍排骨湯"
 tid: 16961
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265835511
 layout: "bbs-single"
 ---
 

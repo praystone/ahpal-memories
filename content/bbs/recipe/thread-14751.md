@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "XO醬佐西芹帶子"
 tid: 14751
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265223407
 layout: "bbs-single"
 ---
 

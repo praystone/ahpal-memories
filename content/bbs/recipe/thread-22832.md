@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雙味咖哩海鮮餅"
 tid: 22832
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1309490862
 layout: "bbs-single"
 ---
 

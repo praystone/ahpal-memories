@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "別再誤會獅子座了"
 tid: 5439
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247819897
 layout: "bbs-single"
 ---
 
-<!-- 主題 5439，帖子動態載入 -->
+<!-- 主題 5439 -->

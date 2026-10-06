@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芝麻醬(1)"
 tid: 17141
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265867573
 layout: "bbs-single"
 ---
 

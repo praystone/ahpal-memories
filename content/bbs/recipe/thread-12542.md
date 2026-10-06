@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "栗子燜羊肉"
 tid: 12542
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264488556
 layout: "bbs-single"
 ---
 

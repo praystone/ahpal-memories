@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "改良式麻糬"
 tid: 15820
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265580231
 layout: "bbs-single"
 ---
 

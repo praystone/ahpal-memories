@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻醬水餃"
 tid: 14345
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265051536
 layout: "bbs-single"
 ---
 

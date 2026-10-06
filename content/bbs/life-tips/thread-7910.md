@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "網址後面的意思？"
 tid: 7910
 fid: 72
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1260106417
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測試你的愛情“愚蠢”指數"
 tid: 5825
 fid: 52
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251640686
 layout: "bbs-single"
 ---
 

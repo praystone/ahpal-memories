@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "油飯(5)"
 tid: 15397
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265486395
 layout: "bbs-single"
 ---
 

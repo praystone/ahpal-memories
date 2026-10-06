@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "冷場王星座排名"
 tid: 5645
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1249050895
 layout: "bbs-single"
 ---
 
-<!-- 主題 5645，帖子動態載入 -->
+<!-- 主題 5645 -->

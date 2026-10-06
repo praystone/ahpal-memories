@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蕃茄起司炸雞"
 tid: 15346
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265484363
 layout: "bbs-single"
 ---
 

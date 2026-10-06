@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "丁香紅棗茶"
 tid: 24186
 fid: 74
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326868811
 layout: "bbs-single"
 ---
 

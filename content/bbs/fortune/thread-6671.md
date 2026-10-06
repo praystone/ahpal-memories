@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "１２宮位大介紹"
 tid: 6671
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1253275965
 layout: "bbs-single"
 ---
 

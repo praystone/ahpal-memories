@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "銀芽炒豆干"
 tid: 16337
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265745811
 layout: "bbs-single"
 ---
 

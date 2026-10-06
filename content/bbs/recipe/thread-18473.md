@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "南瓜鮮蝦麵"
 tid: 18473
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266255603
 layout: "bbs-single"
 ---
 

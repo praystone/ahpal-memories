@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "緊握拳頭30 秒，即可測知自己的健康狀況"
 tid: 5028
 fid: 72
-author: "0"
-dateline: 0
+author: "cash01732"
+dateline: 1245517145
 layout: "bbs-single"
 ---
 

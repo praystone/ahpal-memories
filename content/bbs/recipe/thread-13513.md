@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "高麗人參雞湯"
 tid: 13513
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264876711
 layout: "bbs-single"
 ---
 

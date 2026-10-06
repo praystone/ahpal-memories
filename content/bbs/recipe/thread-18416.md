@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "培根千層捲"
 tid: 18416
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253910
 layout: "bbs-single"
 ---
 

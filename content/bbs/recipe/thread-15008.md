@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒙古風味鍋"
 tid: 15008
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265310322
 layout: "bbs-single"
 ---
 

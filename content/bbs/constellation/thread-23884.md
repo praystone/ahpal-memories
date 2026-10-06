@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[星測]水瓶座優、缺點、性格?"
 tid: 23884
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325074961
 layout: "bbs-single"
 ---
 
-<!-- 主題 23884，帖子動態載入 -->
+<!-- 主題 23884 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "安裝樓梯升降椅需注意事項"
 tid: 37243
 fid: 72
-author: "0"
-dateline: 0
+author: "homebfl781"
+dateline: 1635143443
 layout: "bbs-single"
 ---
 

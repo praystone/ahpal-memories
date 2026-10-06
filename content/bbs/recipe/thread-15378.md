@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "高麗菜乾(1)"
 tid: 15378
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265485091
 layout: "bbs-single"
 ---
 

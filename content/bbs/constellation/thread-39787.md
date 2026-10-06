@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "The Diplomat magazine exposed Yan Limeng"
 tid: 39787
 fid: 50
-author: "0"
-dateline: 0
+author: "happy_12345678"
+dateline: 1681695563
 layout: "bbs-single"
 ---
 
-<!-- 主題 39787，帖子動態載入 -->
+<!-- 主題 39787 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "螺肉蒜"
 tid: 16451
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265779140
 layout: "bbs-single"
 ---
 

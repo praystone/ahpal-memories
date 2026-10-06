@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "奶油蘑菇濃湯(1)"
 tid: 18294
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266233882
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "台南米糕(1)"
 tid: 15398
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265486768
 layout: "bbs-single"
 ---
 

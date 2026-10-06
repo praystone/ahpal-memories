@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香菇煨麵"
 tid: 16166
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265695216
 layout: "bbs-single"
 ---
 

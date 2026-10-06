@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "客廳風水10大禁忌"
 tid: 6224
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1252208315
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座之新娘物語"
 tid: 18168
 fid: 50
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1266128919
 layout: "bbs-single"
 ---
 
-<!-- 主題 18168，帖子動態載入 -->
+<!-- 主題 18168 -->

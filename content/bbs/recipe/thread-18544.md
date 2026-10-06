@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鯷魚洋蔥麵"
 tid: 18544
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256917
 layout: "bbs-single"
 ---
 

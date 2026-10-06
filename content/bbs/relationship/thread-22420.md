@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "情人相處五大智慧"
 tid: 22420
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306811447
 layout: "bbs-single"
 ---
 

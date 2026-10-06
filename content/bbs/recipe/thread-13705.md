@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黃瓜拌雞排】"
 tid: 13705
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264920316
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "奇異果薏仁沙拉"
 tid: 22603
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308528616
 layout: "bbs-single"
 ---
 

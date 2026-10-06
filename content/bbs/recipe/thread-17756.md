@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "榨菜毛豆干丁"
 tid: 17756
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006495
 layout: "bbs-single"
 ---
 

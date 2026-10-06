@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "酸菜鴨肉絲"
 tid: 17980
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266082832
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香烤雞翅"
 tid: 18089
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084922
 layout: "bbs-single"
 ---
 

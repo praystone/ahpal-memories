@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "看12星座男面對女友撒嬌"
 tid: 5752
 fid: 50
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250680729
 layout: "bbs-single"
 ---
 
-<!-- 主題 5752，帖子動態載入 -->
+<!-- 主題 5752 -->

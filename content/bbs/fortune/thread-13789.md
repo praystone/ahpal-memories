@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "夏季養生開運法"
 tid: 13789
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1264940352
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的愛情神經超大條？"
 tid: 22469
 fid: 52
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307188708
 layout: "bbs-single"
 ---
 

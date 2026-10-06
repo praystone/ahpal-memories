@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "清蒸絲瓜"
 tid: 14966
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265309390
 layout: "bbs-single"
 ---
 

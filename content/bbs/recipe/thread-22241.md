@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "簡易做燒仙草/布丁"
 tid: 22241
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305393548
 layout: "bbs-single"
 ---
 

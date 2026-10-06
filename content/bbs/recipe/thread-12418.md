@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "苦瓜炒雞球"
 tid: 12418
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264453245
 layout: "bbs-single"
 ---
 

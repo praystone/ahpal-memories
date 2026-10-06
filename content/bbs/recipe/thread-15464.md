@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "荸薺茅根雞湯"
 tid: 15464
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265488550
 layout: "bbs-single"
 ---
 

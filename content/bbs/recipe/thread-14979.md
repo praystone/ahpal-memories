@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "酸薑皮蛋(1)"
 tid: 14979
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265309675
 layout: "bbs-single"
 ---
 

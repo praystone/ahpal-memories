@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "冬瓜薏仁海帶湯"
 tid: 15081
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265312457
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "清炒瓢瓜"
 tid: 14960
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265309278
 layout: "bbs-single"
 ---
 

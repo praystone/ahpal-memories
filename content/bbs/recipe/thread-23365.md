@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅糟"
 tid: 23365
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315813631
 layout: "bbs-single"
 ---
 

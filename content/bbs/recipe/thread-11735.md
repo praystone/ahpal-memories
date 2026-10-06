@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣白菜豆腐湯－－冬日裡的暖意"
 tid: 11735
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264354854
 layout: "bbs-single"
 ---
 

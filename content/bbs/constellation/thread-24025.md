@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座酒後性格大剖析"
 tid: 24025
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325653729
 layout: "bbs-single"
 ---
 
-<!-- 主題 24025，帖子動態載入 -->
+<!-- 主題 24025 -->

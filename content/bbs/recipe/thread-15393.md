@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "親子厚蛋燒"
 tid: 15393
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265485674
 layout: "bbs-single"
 ---
 

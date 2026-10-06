@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "霜淇淋摩卡"
 tid: 18585
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266257520
 layout: "bbs-single"
 ---
 

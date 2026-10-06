@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你有從小人物變大人物的本事嗎"
 tid: 5349
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247488678
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鴛鴦戲水(1)"
 tid: 17456
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920856
 layout: "bbs-single"
 ---
 

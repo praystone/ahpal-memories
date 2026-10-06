@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座女生的專屬小毛病"
 tid: 23877
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325073245
 layout: "bbs-single"
 ---
 
-<!-- 主題 23877，帖子動態載入 -->
+<!-- 主題 23877 -->

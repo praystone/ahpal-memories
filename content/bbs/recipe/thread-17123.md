@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "培根沙拉捲"
 tid: 17123
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265867307
 layout: "bbs-single"
 ---
 

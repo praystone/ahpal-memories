@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "凱撒沙拉(1)"
 tid: 18384
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253314
 layout: "bbs-single"
 ---
 

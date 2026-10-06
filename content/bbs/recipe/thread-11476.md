@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻醬三絲"
 tid: 11476
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264276015
 layout: "bbs-single"
 ---
 

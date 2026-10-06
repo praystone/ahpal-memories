@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "南瓜濃湯(1)"
 tid: 18646
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266261029
 layout: "bbs-single"
 ---
 

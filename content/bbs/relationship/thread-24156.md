@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "排尿有力不代表『性能力』就強"
 tid: 24156
 fid: 68
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1326679286
 layout: "bbs-single"
 ---
 

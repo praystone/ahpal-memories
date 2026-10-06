@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅湯羊排煲"
 tid: 12605
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264532314
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "拍照測你的桃花劫數"
 tid: 23946
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325154726
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹酥香菇"
 tid: 18052
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084411
 layout: "bbs-single"
 ---
 

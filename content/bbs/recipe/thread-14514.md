@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "大甲芋頭冰"
 tid: 14514
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265139627
 layout: "bbs-single"
 ---
 

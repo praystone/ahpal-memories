@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蘋果辣牛柳粒"
 tid: 12522
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264487534
 layout: "bbs-single"
 ---
 

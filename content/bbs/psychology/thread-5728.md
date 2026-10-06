@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "從顏色看個性"
 tid: 5728
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250674466
 layout: "bbs-single"
 ---
 

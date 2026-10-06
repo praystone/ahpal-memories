@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "薑絲羊肉片湯"
 tid: 16575
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265782138
 layout: "bbs-single"
 ---
 

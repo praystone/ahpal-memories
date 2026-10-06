@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[分享] 十二星座的異性緣份 (詳細版)"
 tid: 23894
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325118063
 layout: "bbs-single"
 ---
 
-<!-- 主題 23894，帖子動態載入 -->
+<!-- 主題 23894 -->

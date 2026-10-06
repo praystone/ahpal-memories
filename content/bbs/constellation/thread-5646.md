@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "星星物語☆☆異性緣"
 tid: 5646
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1249050975
 layout: "bbs-single"
 ---
 
-<!-- 主題 5646，帖子動態載入 -->
+<!-- 主題 5646 -->

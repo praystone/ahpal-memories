@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "瑞士燜鹹薯牛腩"
 tid: 12510
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264486813
 layout: "bbs-single"
 ---
 

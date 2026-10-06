@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "甘蔗鍋"
 tid: 14325
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265051026
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "越老越讓人喜歡的星座女人"
 tid: 21423
 fid: 50
-author: "0"
-dateline: 0
+author: "Angela.."
+dateline: 1299661740
 layout: "bbs-single"
 ---
 
-<!-- 主題 21423，帖子動態載入 -->
+<!-- 主題 21423 -->

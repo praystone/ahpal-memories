@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "甘於伺候公主女友的星座男？"
 tid: 5893
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251724514
 layout: "bbs-single"
 ---
 
-<!-- 主題 5893，帖子動態載入 -->
+<!-- 主題 5893 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬淋魚片"
 tid: 14228
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265047538
 layout: "bbs-single"
 ---
 

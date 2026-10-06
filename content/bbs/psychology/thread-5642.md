@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的髮型是中分、旁分、還是？"
 tid: 5642
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1249050491
 layout: "bbs-single"
 ---
 

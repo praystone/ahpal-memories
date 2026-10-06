@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "漢堡肉排蓋飯"
 tid: 18278
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266233628
 layout: "bbs-single"
 ---
 

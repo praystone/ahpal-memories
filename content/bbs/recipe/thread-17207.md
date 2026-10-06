@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "沙茶炒蝦"
 tid: 17207
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265869434
 layout: "bbs-single"
 ---
 

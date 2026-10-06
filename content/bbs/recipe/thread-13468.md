@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鯛魚拌飯"
 tid: 13468
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264873775
 layout: "bbs-single"
 ---
 

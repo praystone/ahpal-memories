@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "建議..有關短消息"
 tid: 7101
 fid: 3
-author: "0"
-dateline: 0
+author: "夢星辰"
+dateline: 1256176821
 layout: "bbs-single"
 ---
 

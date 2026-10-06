@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座愛情愚忠度排行"
 tid: 19403
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1272088617
 layout: "bbs-single"
 ---
 
-<!-- 主題 19403，帖子動態載入 -->
+<!-- 主題 19403 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣豆拌臭豆腐(兩人份)"
 tid: 11428
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264274143
 layout: "bbs-single"
 ---
 

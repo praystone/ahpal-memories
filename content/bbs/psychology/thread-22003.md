@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "有了心上人，你該怎麼進攻"
 tid: 22003
 fid: 52
-author: "0"
-dateline: 0
+author: "johnnyanthea"
+dateline: 1303720936
 layout: "bbs-single"
 ---
 

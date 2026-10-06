@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "2012年終於美夢成真的星座"
 tid: 24010
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325560310
 layout: "bbs-single"
 ---
 
-<!-- 主題 24010，帖子動態載入 -->
+<!-- 主題 24010 -->

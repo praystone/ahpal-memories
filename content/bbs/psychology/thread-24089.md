@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測你對愛情的掌控力"
 tid: 24089
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326157319
 layout: "bbs-single"
 ---
 

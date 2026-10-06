@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蠔油美生菜"
 tid: 16531
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265780595
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "橙香鹵牛"
 tid: 12524
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264487593
 layout: "bbs-single"
 ---
 

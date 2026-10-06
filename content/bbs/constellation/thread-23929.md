@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "星座吃醋心理大公開"
 tid: 23929
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325143098
 layout: "bbs-single"
 ---
 
-<!-- 主題 23929，帖子動態載入 -->
+<!-- 主題 23929 -->

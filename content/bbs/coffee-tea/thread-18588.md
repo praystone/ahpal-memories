@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "草莓拿鐵"
 tid: 18588
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266257579
 layout: "bbs-single"
 ---
 

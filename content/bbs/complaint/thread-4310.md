@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "請問有關註冊問題"
 tid: 4310
 fid: 3
-author: "0"
-dateline: 0
+author: "edmondchan888"
+dateline: 1241920207
 layout: "bbs-single"
 ---
 

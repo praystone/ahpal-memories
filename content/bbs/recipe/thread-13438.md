@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "燒肉醬油醃"
 tid: 13438
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264833311
 layout: "bbs-single"
 ---
 

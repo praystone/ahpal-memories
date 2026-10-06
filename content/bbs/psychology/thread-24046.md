@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "看看你吸引異性的指數！超級准！！"
 tid: 24046
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325655359
 layout: "bbs-single"
 ---
 

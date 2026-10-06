@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你愛她嗎？"
 tid: 1369
 fid: 52
-author: "0"
-dateline: 0
+author: "botty1225"
+dateline: 1220038837
 layout: "bbs-single"
 ---
 

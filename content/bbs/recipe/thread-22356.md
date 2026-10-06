@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅棗綠豆燉排骨"
 tid: 22356
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306555313
 layout: "bbs-single"
 ---
 

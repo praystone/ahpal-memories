@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻婆凍豆腐"
 tid: 23415
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1316066704
 layout: "bbs-single"
 ---
 

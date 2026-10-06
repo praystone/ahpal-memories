@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黃金腸頭"
 tid: 16896
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265834463
 layout: "bbs-single"
 ---
 

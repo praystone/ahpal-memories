@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蕈菇炒牛肉絲"
 tid: 13887
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264960905
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蜜汁豬排捲餅"
 tid: 17145
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265867628
 layout: "bbs-single"
 ---
 

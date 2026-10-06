@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蛤蜊山芹菜義大利麵"
 tid: 18469
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266255546
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "冰盅九孔"
 tid: 17068
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265865842
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蕃茄鮪魚飯"
 tid: 14051
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264967392
 layout: "bbs-single"
 ---
 

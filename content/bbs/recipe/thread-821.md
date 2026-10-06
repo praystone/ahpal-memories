@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "宮保雞丁『食譜密技』"
 tid: 821
 fid: 59
-author: "0"
-dateline: 0
+author: "Powered"
+dateline: 1212888689
 layout: "bbs-single"
 ---
 

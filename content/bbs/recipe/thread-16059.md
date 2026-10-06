@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅糟獅子頭"
 tid: 16059
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265692301
 layout: "bbs-single"
 ---
 

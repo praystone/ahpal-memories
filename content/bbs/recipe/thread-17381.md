@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "金錢菇扒生菜"
 tid: 17381
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265919388
 layout: "bbs-single"
 ---
 

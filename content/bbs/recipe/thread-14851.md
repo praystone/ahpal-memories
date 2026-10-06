@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "新疆風雞排"
 tid: 14851
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265263761
 layout: "bbs-single"
 ---
 

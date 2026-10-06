@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "石鍋拌飯"
 tid: 13571
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264880875
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "豆角炒蛋"
 tid: 12700
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264536056
 layout: "bbs-single"
 ---
 

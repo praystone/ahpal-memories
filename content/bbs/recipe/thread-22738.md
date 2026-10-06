@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "3種常用藥膳雞肉比較"
 tid: 22738
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308709446
 layout: "bbs-single"
 ---
 

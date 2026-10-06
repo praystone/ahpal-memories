@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座誰最容易成為愛情的奴隸"
 tid: 24028
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325653887
 layout: "bbs-single"
 ---
 
-<!-- 主題 24028，帖子動態載入 -->
+<!-- 主題 24028 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "哄女性秘笈（絕對私密，女生禁入）"
 tid: 22882
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1310461839
 layout: "bbs-single"
 ---
 

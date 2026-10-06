@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雜錦XO壽司"
 tid: 11564
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264309502
 layout: "bbs-single"
 ---
 

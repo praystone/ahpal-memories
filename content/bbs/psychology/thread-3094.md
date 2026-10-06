@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測試你是否陰氣過重"
 tid: 3094
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235762361
 layout: "bbs-single"
 ---
 

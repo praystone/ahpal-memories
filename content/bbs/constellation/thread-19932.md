@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座不能上網日"
 tid: 19932
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1280116467
 layout: "bbs-single"
 ---
 
-<!-- 主題 19932，帖子動態載入 -->
+<!-- 主題 19932 -->

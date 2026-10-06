@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座愛情苦命又賠錢的星女排行"
 tid: 19404
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1272088749
 layout: "bbs-single"
 ---
 
-<!-- 主題 19404，帖子動態載入 -->
+<!-- 主題 19404 -->

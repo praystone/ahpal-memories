@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的主動程度?"
 tid: 23980
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325488003
 layout: "bbs-single"
 ---
 

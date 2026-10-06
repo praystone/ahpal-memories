@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "台式傳統麻糬"
 tid: 15807
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265580094
 layout: "bbs-single"
 ---
 

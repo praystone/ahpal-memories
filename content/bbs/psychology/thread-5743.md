@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "月份色彩學"
 tid: 5743
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250678120
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "綠豆芽拌菜"
 tid: 13485
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264874246
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鮪魚鍋貼"
 tid: 16236
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265744086
 layout: "bbs-single"
 ---
 

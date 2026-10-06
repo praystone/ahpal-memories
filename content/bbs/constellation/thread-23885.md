@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[星測]天蠍男分析!"
 tid: 23885
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325075096
 layout: "bbs-single"
 ---
 
-<!-- 主題 23885，帖子動態載入 -->
+<!-- 主題 23885 -->

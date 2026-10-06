@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座的妳，嫁窮人的機率…"
 tid: 24082
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326156955
 layout: "bbs-single"
 ---
 
-<!-- 主題 24082，帖子動態載入 -->
+<!-- 主題 24082 -->

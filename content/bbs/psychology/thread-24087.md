@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的魅力所在"
 tid: 24087
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326157196
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "竹笙海王羹（白玉銀珠）"
 tid: 12367
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264451376
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "台式泡菜1"
 tid: 15700
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265529102
 layout: "bbs-single"
 ---
 

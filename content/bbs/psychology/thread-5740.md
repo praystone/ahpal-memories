@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "戒指妳帶在哪一個手指上？"
 tid: 5740
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250676973
 layout: "bbs-single"
 ---
 

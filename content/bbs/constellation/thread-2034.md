@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座幸運許願法"
 tid: 2034
 fid: 50
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1229518459
 layout: "bbs-single"
 ---
 
-<!-- 主題 2034，帖子動態載入 -->
+<!-- 主題 2034 -->

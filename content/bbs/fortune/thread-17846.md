@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "裝修風水小指南"
 tid: 17846
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1266045878
 layout: "bbs-single"
 ---
 

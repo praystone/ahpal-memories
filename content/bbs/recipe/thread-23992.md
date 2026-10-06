@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蘇梅東坡肉"
 tid: 23992
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325552668
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜豆意大利雲吞"
 tid: 11566
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264309528
 layout: "bbs-single"
 ---
 

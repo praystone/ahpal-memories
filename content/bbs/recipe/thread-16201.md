@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "三色雞丁"
 tid: 16201
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265742378
 layout: "bbs-single"
 ---
 

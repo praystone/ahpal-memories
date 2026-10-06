@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "大腸豬肝連米粉"
 tid: 16181
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265695507
 layout: "bbs-single"
 ---
 

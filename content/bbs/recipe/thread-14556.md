@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "什錦泡土司邊"
 tid: 14556
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265140417
 layout: "bbs-single"
 ---
 

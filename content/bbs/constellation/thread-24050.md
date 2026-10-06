@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座mm“面試”大忌諱！"
 tid: 24050
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325656145
 layout: "bbs-single"
 ---
 
-<!-- 主題 24050，帖子動態載入 -->
+<!-- 主題 24050 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "白醬馬鈴薯"
 tid: 15549
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265492296
 layout: "bbs-single"
 ---
 

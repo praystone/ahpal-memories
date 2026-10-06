@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌秋葵"
 tid: 14976
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265309590
 layout: "bbs-single"
 ---
 

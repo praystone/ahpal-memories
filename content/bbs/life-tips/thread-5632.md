@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你領滿6個月的勞保失業金嗎 那你可能虧大了"
 tid: 5632
 fid: 72
-author: "0"
-dateline: 0
+author: "裕明"
+dateline: 1248996542
 layout: "bbs-single"
 ---
 

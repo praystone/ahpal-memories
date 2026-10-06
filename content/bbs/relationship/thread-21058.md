@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "兩性上下面觀"
 tid: 21058
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1295311462
 layout: "bbs-single"
 ---
 

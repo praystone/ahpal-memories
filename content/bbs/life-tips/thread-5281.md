@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "讓家中的小強全部消失！！"
 tid: 5281
 fid: 72
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247066828
 layout: "bbs-single"
 ---
 

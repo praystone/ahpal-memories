@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "另一半喜歡你(妳)的程度"
 tid: 4372
 fid: 52
-author: "0"
-dateline: 0
+author: "mark9801"
+dateline: 1242729928
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "一台電腦掛24H所需要的電費大約多少？"
 tid: 6867
 fid: 72
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1253601454
 layout: "bbs-single"
 ---
 

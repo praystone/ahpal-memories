@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "四種血型解決淋浴拉門的選擇障礙"
 tid: 36425
 fid: 50
-author: "0"
-dateline: 0
+author: "alesstongwe"
+dateline: 1616120475
 layout: "bbs-single"
 ---
 
-<!-- 主題 36425，帖子動態載入 -->
+<!-- 主題 36425 -->

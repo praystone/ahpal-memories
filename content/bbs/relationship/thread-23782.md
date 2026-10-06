@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "男人 小心“憋”出生殖疾病"
 tid: 23782
 fid: 68
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1322795826
 layout: "bbs-single"
 ---
 

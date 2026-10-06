@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炒三鮮(1)"
 tid: 14524
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265139891
 layout: "bbs-single"
 ---
 

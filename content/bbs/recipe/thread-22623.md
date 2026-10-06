@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "滷大腸"
 tid: 22623
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308618796
 layout: "bbs-single"
 ---
 

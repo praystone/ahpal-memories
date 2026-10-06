@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹冬瓜豆醬蒸魚"
 tid: 17568
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265956004
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "先滷後炸大雞腿"
 tid: 16570
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265782059
 layout: "bbs-single"
 ---
 

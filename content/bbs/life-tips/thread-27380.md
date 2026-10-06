@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "熬夜可能會變笨"
 tid: 27380
 fid: 72
-author: "0"
-dateline: 0
+author: "Tatum0526"
+dateline: 1426574944
 layout: "bbs-single"
 ---
 

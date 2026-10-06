@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座同居注意事項"
 tid: 24094
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326157691
 layout: "bbs-single"
 ---
 
-<!-- 主題 24094，帖子動態載入 -->
+<!-- 主題 24094 -->

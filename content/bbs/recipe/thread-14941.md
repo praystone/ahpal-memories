@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅燒烤麩(1)"
 tid: 14941
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265308920
 layout: "bbs-single"
 ---
 

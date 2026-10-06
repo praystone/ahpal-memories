@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "『什麼樣星座的另一半非得要你兇才會聽話？』"
 tid: 5831
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251641055
 layout: "bbs-single"
 ---
 
-<!-- 主題 5831，帖子動態載入 -->
+<!-- 主題 5831 -->

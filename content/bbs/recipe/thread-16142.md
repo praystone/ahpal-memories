@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蠔油牛肉片"
 tid: 16142
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265694629
 layout: "bbs-single"
 ---
 

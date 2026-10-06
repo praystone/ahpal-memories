@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "京都排骨(5)"
 tid: 17353
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265918992
 layout: "bbs-single"
 ---
 

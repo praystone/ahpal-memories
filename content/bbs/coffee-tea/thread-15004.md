@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黑色風暴"
 tid: 15004
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265310226
 layout: "bbs-single"
 ---
 

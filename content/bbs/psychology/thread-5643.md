@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "點菜看你性格"
 tid: 5643
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1249050609
 layout: "bbs-single"
 ---
 

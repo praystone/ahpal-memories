@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的心靈黑洞是什麼"
 tid: 24007
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325559397
 layout: "bbs-single"
 ---
 

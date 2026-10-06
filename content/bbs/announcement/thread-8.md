@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "請勿隨意公開自己的信箱，會有垃圾信件的風險！"
 tid: 8
 fid: 2
-author: "0"
-dateline: 0
+author: "kevin"
+dateline: 1185117965
 layout: "bbs-single"
 ---
 

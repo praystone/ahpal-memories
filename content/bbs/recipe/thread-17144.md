@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "傳統肉燥"
 tid: 17144
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265867614
 layout: "bbs-single"
 ---
 

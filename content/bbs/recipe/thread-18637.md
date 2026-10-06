@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "南瓜力斯"
 tid: 18637
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266260900
 layout: "bbs-single"
 ---
 

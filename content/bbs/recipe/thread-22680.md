@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芋頭燒排骨"
 tid: 22680
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308642123
 layout: "bbs-single"
 ---
 

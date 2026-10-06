@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌豆干絲"
 tid: 23413
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1316065441
 layout: "bbs-single"
 ---
 

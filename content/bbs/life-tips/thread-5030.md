@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "睡眠九原則 不再怕失眠"
 tid: 5030
 fid: 72
-author: "0"
-dateline: 0
+author: "cash01732"
+dateline: 1245517667
 layout: "bbs-single"
 ---
 

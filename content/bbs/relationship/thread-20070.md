@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "100年不變的100句溫柔浪漫語"
 tid: 20070
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1281055942
 layout: "bbs-single"
 ---
 

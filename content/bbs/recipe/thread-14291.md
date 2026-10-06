@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "薑汁味噌醬"
 tid: 14291
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265049787
 layout: "bbs-single"
 ---
 

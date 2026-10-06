@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌海蜇皮"
 tid: 23996
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325552824
 layout: "bbs-single"
 ---
 

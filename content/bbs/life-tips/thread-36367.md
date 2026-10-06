@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "北商大攜手台緬協會和台越協會設「新南向人才培育中心」"
 tid: 36367
 fid: 72
-author: "0"
-dateline: 0
+author: "marcopolo168168"
+dateline: 1612414609
 layout: "bbs-single"
 ---
 

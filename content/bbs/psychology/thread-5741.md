@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "尋找真正的情投意合者"
 tid: 5741
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250677516
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香炸雞扒"
 tid: 22734
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308703351
 layout: "bbs-single"
 ---
 

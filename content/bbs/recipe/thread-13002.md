@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "台式炒麵"
 tid: 13002
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264705503
 layout: "bbs-single"
 ---
 

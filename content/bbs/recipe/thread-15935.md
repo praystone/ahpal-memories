@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "薑汁拌蝦丁"
 tid: 15935
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265649447
 layout: "bbs-single"
 ---
 

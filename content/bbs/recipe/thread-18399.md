@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "茴香辣味雞肉醬"
 tid: 18399
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253598
 layout: "bbs-single"
 ---
 

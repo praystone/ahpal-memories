@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅莓慕絲"
 tid: 12807
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264657001
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "山葵雞翅"
 tid: 16780
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265832162
 layout: "bbs-single"
 ---
 

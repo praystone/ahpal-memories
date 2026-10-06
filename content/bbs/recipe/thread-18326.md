@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香蔥薯條"
 tid: 18326
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234629
 layout: "bbs-single"
 ---
 

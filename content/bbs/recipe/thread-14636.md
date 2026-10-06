@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "咖哩炒白花椰菜"
 tid: 14636
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265179373
 layout: "bbs-single"
 ---
 

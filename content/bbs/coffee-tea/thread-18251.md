@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "美生菜蘋果酪梨汁"
 tid: 18251
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266233015
 layout: "bbs-single"
 ---
 

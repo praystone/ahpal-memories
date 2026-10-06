@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "拌冷麵醬"
 tid: 13445
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264833423
 layout: "bbs-single"
 ---
 

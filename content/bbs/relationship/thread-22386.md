@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "愛，情，責任，幸福"
 tid: 22386
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306620942
 layout: "bbs-single"
 ---
 

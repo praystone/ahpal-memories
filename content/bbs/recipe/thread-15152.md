@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "八寶辣醬包"
 tid: 15152
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265314094
 layout: "bbs-single"
 ---
 

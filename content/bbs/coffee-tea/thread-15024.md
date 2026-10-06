@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "如膠似漆"
 tid: 15024
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265310917
 layout: "bbs-single"
 ---
 

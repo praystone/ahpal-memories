@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座愛情的付出與回報"
 tid: 5605
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1248703297
 layout: "bbs-single"
 ---
 
-<!-- 主題 5605，帖子動態載入 -->
+<!-- 主題 5605 -->

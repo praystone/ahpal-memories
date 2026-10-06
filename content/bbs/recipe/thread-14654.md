@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "XO醬白菜夾"
 tid: 14654
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265221143
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座到底那個最難溝通呢"
 tid: 22476
 fid: 50
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307201570
 layout: "bbs-single"
 ---
 
-<!-- 主題 22476，帖子動態載入 -->
+<!-- 主題 22476 -->

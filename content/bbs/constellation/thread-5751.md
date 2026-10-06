@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座異性緣排行榜"
 tid: 5751
 fid: 50
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250680359
 layout: "bbs-single"
 ---
 
-<!-- 主題 5751，帖子動態載入 -->
+<!-- 主題 5751 -->

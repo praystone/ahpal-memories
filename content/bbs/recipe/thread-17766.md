@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "地瓜粥(1)"
 tid: 17766
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006643
 layout: "bbs-single"
 ---
 

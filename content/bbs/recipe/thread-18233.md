@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜味香烤圓茄"
 tid: 18233
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266232358
 layout: "bbs-single"
 ---
 

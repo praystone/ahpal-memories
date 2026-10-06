@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蛋黃金瓜"
 tid: 12715
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264536708
 layout: "bbs-single"
 ---
 

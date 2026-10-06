@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "竹筍香菇粥"
 tid: 17009
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265864372
 layout: "bbs-single"
 ---
 

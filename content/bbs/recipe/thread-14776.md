@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蔥爆牛肉(9)"
 tid: 14776
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265229070
 layout: "bbs-single"
 ---
 

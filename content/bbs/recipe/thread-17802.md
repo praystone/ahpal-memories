@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "章魚炒飯"
 tid: 17802
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266007151
 layout: "bbs-single"
 ---
 

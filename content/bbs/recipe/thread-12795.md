@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鹹香湯匙糕"
 tid: 12795
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264656463
 layout: "bbs-single"
 ---
 

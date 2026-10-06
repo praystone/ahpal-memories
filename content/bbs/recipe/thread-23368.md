@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻辣百頁"
 tid: 23368
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1315814157
 layout: "bbs-single"
 ---
 

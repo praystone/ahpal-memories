@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "三絲炸春捲"
 tid: 22814
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1309269930
 layout: "bbs-single"
 ---
 

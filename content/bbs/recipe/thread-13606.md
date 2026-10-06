@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "什錦燕麥炒飯"
 tid: 13606
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264881828
 layout: "bbs-single"
 ---
 

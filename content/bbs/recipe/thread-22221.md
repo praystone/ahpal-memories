@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "72招做飯幫你做大廚"
 tid: 22221
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305377960
 layout: "bbs-single"
 ---
 

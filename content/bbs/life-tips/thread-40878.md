@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "電視台報導電子騷擾 Mind contral"
 tid: 40878
 fid: 72
-author: "0"
-dateline: 0
+author: "jshh"
+dateline: 1725424751
 layout: "bbs-single"
 ---
 

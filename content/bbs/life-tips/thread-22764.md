@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "擦掉電視螢幕上的灰塵"
 tid: 22764
 fid: 72
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1308812134
 layout: "bbs-single"
 ---
 

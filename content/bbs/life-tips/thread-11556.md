@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "原來冤枉了蜘蛛這麼多年"
 tid: 11556
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264309187
 layout: "bbs-single"
 ---
 

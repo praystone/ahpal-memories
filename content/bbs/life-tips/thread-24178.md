@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "食物的陷阱——天然食材篇"
 tid: 24178
 fid: 72
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326868223
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蘭花淋汁"
 tid: 14044
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264967287
 layout: "bbs-single"
 ---
 

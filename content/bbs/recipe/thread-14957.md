@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "百花素九孔"
 tid: 14957
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265309232
 layout: "bbs-single"
 ---
 

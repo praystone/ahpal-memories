@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雙白湯"
 tid: 18017
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266083506
 layout: "bbs-single"
 ---
 

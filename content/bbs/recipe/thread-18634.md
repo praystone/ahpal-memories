@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香蕉船"
 tid: 18634
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266259729
 layout: "bbs-single"
 ---
 

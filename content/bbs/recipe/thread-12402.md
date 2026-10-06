@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芫荽雞"
 tid: 12402
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452431
 layout: "bbs-single"
 ---
 

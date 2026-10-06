@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "費爾醫生（Dr. Phil）的測驗"
 tid: 20858
 fid: 52
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1291885268
 layout: "bbs-single"
 ---
 

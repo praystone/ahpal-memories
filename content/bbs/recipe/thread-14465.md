@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鳳梨雞肉燥"
 tid: 14465
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265138148
 layout: "bbs-single"
 ---
 

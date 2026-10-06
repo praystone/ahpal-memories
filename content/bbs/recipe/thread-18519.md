@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鮮蝦干貝墨魚麵"
 tid: 18519
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256437
 layout: "bbs-single"
 ---
 

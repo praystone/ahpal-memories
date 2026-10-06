@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座-個性房間品味"
 tid: 23998
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325558683
 layout: "bbs-single"
 ---
 
-<!-- 主題 23998，帖子動態載入 -->
+<!-- 主題 23998 -->

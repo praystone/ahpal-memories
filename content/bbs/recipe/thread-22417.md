@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "干貝大翅"
 tid: 22417
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306808468
 layout: "bbs-single"
 ---
 

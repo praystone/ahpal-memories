@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "熬粥秘笈6招"
 tid: 22736
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308706086
 layout: "bbs-single"
 ---
 

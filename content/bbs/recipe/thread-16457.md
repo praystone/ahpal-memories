@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜苗炒黃金豆干"
 tid: 16457
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265779279
 layout: "bbs-single"
 ---
 

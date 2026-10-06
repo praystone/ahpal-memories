@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "漢堡排"
 tid: 18327
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234639
 layout: "bbs-single"
 ---
 

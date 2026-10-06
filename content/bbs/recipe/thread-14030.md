@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "文昌油雞"
 tid: 14030
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264965012
 layout: "bbs-single"
 ---
 

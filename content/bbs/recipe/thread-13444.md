@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "韓式辣椒醬"
 tid: 13444
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264833408
 layout: "bbs-single"
 ---
 

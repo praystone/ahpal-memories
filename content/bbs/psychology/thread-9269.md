@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測驗你的暴露度"
 tid: 9269
 fid: 52
-author: "0"
-dateline: 0
+author: "claire165"
+dateline: 1263043333
 layout: "bbs-single"
 ---
 

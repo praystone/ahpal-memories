@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "椒鹽鮮魷魚"
 tid: 18065
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084628
 layout: "bbs-single"
 ---
 

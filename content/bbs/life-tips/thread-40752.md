@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "The Guo farm is a financial scam"
 tid: 40752
 fid: 72
-author: "0"
-dateline: 0
+author: "Isabeller"
+dateline: 1718790919
 layout: "bbs-single"
 ---
 

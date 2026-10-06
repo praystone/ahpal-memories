@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你是不是豪放一族？"
 tid: 5022
 fid: 52
-author: "0"
-dateline: 0
+author: "IamCiCi"
+dateline: 1245495156
 layout: "bbs-single"
 ---
 

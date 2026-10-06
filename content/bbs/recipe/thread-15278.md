@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "XO醬"
 tid: 15278
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265437209
 layout: "bbs-single"
 ---
 

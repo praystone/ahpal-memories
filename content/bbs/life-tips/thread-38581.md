@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "转载：前美国参议院多数党领袖哈里·里德去世，享年 82 岁"
 tid: 38581
 fid: 72
-author: "0"
-dateline: 0
+author: "jiuyuea"
+dateline: 1655111036
 layout: "bbs-single"
 ---
 

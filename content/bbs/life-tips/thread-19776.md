@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "不殺生又能驅趕螞蟻蚊子蟑螂的妙法"
 tid: 19776
 fid: 72
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1278552307
 layout: "bbs-single"
 ---
 

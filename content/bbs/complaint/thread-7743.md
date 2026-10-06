@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "這個   洗板  太強嚕"
 tid: 7743
 fid: 3
-author: "0"
-dateline: 0
+author: "rectovovo"
+dateline: 1259077556
 layout: "bbs-single"
 ---
 

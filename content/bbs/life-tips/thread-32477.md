@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "多人繼承分割遺產不當　家族爭產對簿公堂"
 tid: 32477
 fid: 72
-author: "0"
-dateline: 0
+author: "pupuy"
+dateline: 1516795605
 layout: "bbs-single"
 ---
 

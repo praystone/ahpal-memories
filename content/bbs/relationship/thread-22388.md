@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "傻瓜的十秒鐘"
 tid: 22388
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306621111
 layout: "bbs-single"
 ---
 

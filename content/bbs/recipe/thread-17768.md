@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "樹子排骨燒豆干"
 tid: 17768
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006682
 layout: "bbs-single"
 ---
 

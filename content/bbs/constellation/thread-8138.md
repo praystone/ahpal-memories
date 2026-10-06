@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座男喜歡的女人身材類型"
 tid: 8138
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1260886734
 layout: "bbs-single"
 ---
 
-<!-- 主題 8138，帖子動態載入 -->
+<!-- 主題 8138 -->

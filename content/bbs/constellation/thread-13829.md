@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座中超難管教的小孩星座排行榜前五名"
 tid: 13829
 fid: 50
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1264943296
 layout: "bbs-single"
 ---
 
-<!-- 主題 13829，帖子動態載入 -->
+<!-- 主題 13829 -->

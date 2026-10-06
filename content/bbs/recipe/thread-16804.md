@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "貴妃雞"
 tid: 16804
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265832517
 layout: "bbs-single"
 ---
 

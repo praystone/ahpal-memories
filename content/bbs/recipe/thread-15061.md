@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香蒜汁"
 tid: 15061
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265311856
 layout: "bbs-single"
 ---
 

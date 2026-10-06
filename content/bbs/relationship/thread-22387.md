@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "生氣的時候不要作任何決定"
 tid: 22387
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306621030
 layout: "bbs-single"
 ---
 

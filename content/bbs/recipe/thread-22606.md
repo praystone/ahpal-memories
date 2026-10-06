@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "越南炒椰奶飯"
 tid: 22606
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308529073
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鞋子的搭配法則"
 tid: 12310
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264446272
 layout: "bbs-single"
 ---
 

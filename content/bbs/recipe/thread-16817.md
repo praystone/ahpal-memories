@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "XO醬燒排骨"
 tid: 16817
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265832659
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鳳梨炒飯"
 tid: 3114
 fid: 59
-author: "0"
-dateline: 0
+author: "lawliet"
+dateline: 1235823249
 layout: "bbs-single"
 ---
 

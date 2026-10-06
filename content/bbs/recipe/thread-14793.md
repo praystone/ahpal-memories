@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌白菜心"
 tid: 14793
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265230373
 layout: "bbs-single"
 ---
 

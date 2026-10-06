@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "菜膽明蝦球"
 tid: 12671
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264534893
 layout: "bbs-single"
 ---
 

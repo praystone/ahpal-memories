@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌茄子"
 tid: 23411
 fid: 59
-author: "0"
-dateline: 0
+author: "mary19661024"
+dateline: 1316064293
 layout: "bbs-single"
 ---
 

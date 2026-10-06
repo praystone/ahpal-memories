@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "下面那個夢境情節是最讓你害怕的？"
 tid: 2974
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235494679
 layout: "bbs-single"
 ---
 

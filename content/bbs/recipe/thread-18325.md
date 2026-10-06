@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黑胡椒薯片"
 tid: 18325
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266234620
 layout: "bbs-single"
 ---
 

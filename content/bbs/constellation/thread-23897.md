@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[分享] 12星座男生吵架時最怕女友做出的行為"
 tid: 23897
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325119259
 layout: "bbs-single"
 ---
 
-<!-- 主題 23897，帖子動態載入 -->
+<!-- 主題 23897 -->

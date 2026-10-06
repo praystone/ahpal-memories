@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "和風味噌燉牛肉"
 tid: 22407
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306748672
 layout: "bbs-single"
 ---
 

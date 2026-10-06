@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "栗子合桃排骨湯"
 tid: 23991
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325489544
 layout: "bbs-single"
 ---
 

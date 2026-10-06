@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "星座排行榜／談戀愛最讓人鬱悶的星座"
 tid: 5445
 fid: 50
-author: "0"
-dateline: 0
+author: "louie"
+dateline: 1247821318
 layout: "bbs-single"
 ---
 
-<!-- 主題 5445，帖子動態載入 -->
+<!-- 主題 5445 -->

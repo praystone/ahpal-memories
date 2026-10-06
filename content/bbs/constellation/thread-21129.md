@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "最能感動12星座的禮物"
 tid: 21129
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1296300623
 layout: "bbs-single"
 ---
 
-<!-- 主題 21129，帖子動態載入 -->
+<!-- 主題 21129 -->

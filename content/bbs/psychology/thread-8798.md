@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "測驗你的暴露度和性需要量"
 tid: 8798
 fid: 52
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1262335693
 layout: "bbs-single"
 ---
 

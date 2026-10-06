@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座的魅力源泉"
 tid: 24034
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325654489
 layout: "bbs-single"
 ---
 
-<!-- 主題 24034，帖子動態載入 -->
+<!-- 主題 24034 -->

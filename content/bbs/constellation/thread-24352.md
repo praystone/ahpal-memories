@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座和”舊情人”的見面率"
 tid: 24352
 fid: 50
-author: "0"
-dateline: 0
+author: "kiopp"
+dateline: 1331200110
 layout: "bbs-single"
 ---
 
-<!-- 主題 24352，帖子動態載入 -->
+<!-- 主題 24352 -->

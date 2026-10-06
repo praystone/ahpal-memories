@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "紅酒燉洋蔥"
 tid: 18242
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266232683
 layout: "bbs-single"
 ---
 

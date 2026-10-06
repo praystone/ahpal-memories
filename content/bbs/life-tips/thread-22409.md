@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "退休者必讀，未退休者參考"
 tid: 22409
 fid: 72
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1306749336
 layout: "bbs-single"
 ---
 

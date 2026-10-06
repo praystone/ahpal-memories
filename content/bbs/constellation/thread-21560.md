@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座的眼淚"
 tid: 21560
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1300184742
 layout: "bbs-single"
 ---
 
-<!-- 主題 21560，帖子動態載入 -->
+<!-- 主題 21560 -->

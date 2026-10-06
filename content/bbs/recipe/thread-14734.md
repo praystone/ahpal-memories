@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "雞排佐青花椰菜"
 tid: 14734
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265223095
 layout: "bbs-single"
 ---
 

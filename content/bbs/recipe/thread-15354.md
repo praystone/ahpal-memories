@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鴨掌(1)"
 tid: 15354
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265484511
 layout: "bbs-single"
 ---
 

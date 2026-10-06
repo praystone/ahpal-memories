@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "快速做冷豆腐"
 tid: 22259
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305418384
 layout: "bbs-single"
 ---
 

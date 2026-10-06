@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "奶油玉米"
 tid: 18437
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266254913
 layout: "bbs-single"
 ---
 

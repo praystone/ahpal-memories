@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "筍香咖哩"
 tid: 17005
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265864294
 layout: "bbs-single"
 ---
 

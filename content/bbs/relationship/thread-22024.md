@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "犀利人妻的經典名言"
 tid: 22024
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1303799184
 layout: "bbs-single"
 ---
 

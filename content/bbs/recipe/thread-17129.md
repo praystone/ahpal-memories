@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "台式香腸捲餅"
 tid: 17129
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265867400
 layout: "bbs-single"
 ---
 

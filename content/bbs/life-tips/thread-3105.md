@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "日常多挖鼻孔、吃鼻屎，有益健康"
 tid: 3105
 fid: 72
-author: "0"
-dateline: 0
+author: "lawliet"
+dateline: 1235802115
 layout: "bbs-single"
 ---
 

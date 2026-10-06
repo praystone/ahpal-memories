@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜泥蒸魚"
 tid: 17580
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265956246
 layout: "bbs-single"
 ---
 

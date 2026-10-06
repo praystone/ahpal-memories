@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "白色主義"
 tid: 18596
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266257710
 layout: "bbs-single"
 ---
 

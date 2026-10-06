@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "亞麻全穀蛋糕"
 tid: 18481
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266255793
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "夏季將至！減肥瘦身趕得上進度嗎"
 tid: 22005
 fid: 52
-author: "0"
-dateline: 0
+author: "johnnyanthea"
+dateline: 1303721334
 layout: "bbs-single"
 ---
 

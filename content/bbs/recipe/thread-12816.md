@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麵包布甸"
 tid: 12816
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264657703
 layout: "bbs-single"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "不可思議！禽獸也能變專情的男生星座"
 tid: 5438
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247819774
 layout: "bbs-single"
 ---
 
-<!-- 主題 5438，帖子動態載入 -->
+<!-- 主題 5438 -->

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "西芹干貝醬"
 tid: 17527
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265950392
 layout: "bbs-single"
 ---
 

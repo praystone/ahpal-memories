@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[點心] 各式布丁做法"
 tid: 828
 fid: 59
-author: "0"
-dateline: 0
+author: "Powered"
+dateline: 1213082307
 layout: "bbs-single"
 ---
 

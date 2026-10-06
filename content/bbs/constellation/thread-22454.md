@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座橫刀奪愛排行榜["
 tid: 22454
 fid: 50
-author: "0"
-dateline: 0
+author: "chang1118"
+dateline: 1307102881
 layout: "bbs-single"
 ---
 
-<!-- 主題 22454，帖子動態載入 -->
+<!-- 主題 22454 -->

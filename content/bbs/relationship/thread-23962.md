@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "『陽痿』是心臟病發作前兆？"
 tid: 23962
 fid: 68
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1325472394
 layout: "bbs-single"
 ---
 

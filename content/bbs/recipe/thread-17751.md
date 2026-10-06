@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "三絲炒干條"
 tid: 17751
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006431
 layout: "bbs-single"
 ---
 

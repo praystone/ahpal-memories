@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香腸高麗菜炒飯"
 tid: 14684
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265221700
 layout: "bbs-single"
 ---
 

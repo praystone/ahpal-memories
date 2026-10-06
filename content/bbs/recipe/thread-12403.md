@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "玫瑰豉油雞"
 tid: 12403
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452455
 layout: "bbs-single"
 ---
 

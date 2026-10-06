@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "泡菜豬肉飯"
 tid: 13326
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264791362
 layout: "bbs-single"
 ---
 

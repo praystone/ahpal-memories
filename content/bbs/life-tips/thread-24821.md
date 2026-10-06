@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "年輕男性的早洩疾病的預防"
 tid: 24821
 fid: 72
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1357288548
 layout: "bbs-single"
 ---
 

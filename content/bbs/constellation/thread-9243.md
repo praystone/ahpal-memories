@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座幸運中獎秘訣"
 tid: 9243
 fid: 50
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1263021651
 layout: "bbs-single"
 ---
 
-<!-- 主題 9243，帖子動態載入 -->
+<!-- 主題 9243 -->

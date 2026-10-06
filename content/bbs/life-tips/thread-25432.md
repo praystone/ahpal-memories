@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "廁所有裝抽風機的冰友進來一下"
 tid: 25432
 fid: 72
-author: "0"
-dateline: 0
+author: "whyalla"
+dateline: 1384153565
 layout: "bbs-single"
 ---
 

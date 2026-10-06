@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "五大孩子氣星座"
 tid: 23930
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325143247
 layout: "bbs-single"
 ---
 
-<!-- 主題 23930，帖子動態載入 -->
+<!-- 主題 23930 -->

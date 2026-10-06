@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "令12星座發瘋的狀況"
 tid: 2160
 fid: 50
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1230534479
 layout: "bbs-single"
 ---
 
-<!-- 主題 2160，帖子動態載入 -->
+<!-- 主題 2160 -->

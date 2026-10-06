@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[分享] 愛情就像是一塊水晶"
 tid: 23900
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325119823
 layout: "bbs-single"
 ---
 

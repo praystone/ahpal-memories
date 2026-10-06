@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座的老公有多聽老婆的話"
 tid: 2157
 fid: 50
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1230534295
 layout: "bbs-single"
 ---
 
-<!-- 主題 2157，帖子動態載入 -->
+<!-- 主題 2157 -->

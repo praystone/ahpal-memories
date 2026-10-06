@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "[分享] 愛的真諦"
 tid: 23903
 fid: 68
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325120383
 layout: "bbs-single"
 ---
 

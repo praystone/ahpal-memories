@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "生醃螃蟹醬"
 tid: 13428
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264833132
 layout: "bbs-single"
 ---
 

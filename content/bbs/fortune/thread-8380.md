@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "三世書財運──算算你的財運"
 tid: 8380
 fid: 51
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1261528456
 layout: "bbs-single"
 ---
 

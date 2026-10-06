@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "尼斯明蝦黑寬麵"
 tid: 18538
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256742
 layout: "bbs-single"
 ---
 

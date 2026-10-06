@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "碰上三角關係的 12 星座抉擇"
 tid: 5259
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1246976335
 layout: "bbs-single"
 ---
 
-<!-- 主題 5259，帖子動態載入 -->
+<!-- 主題 5259 -->

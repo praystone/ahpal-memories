@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "71個烹飪技巧"
 tid: 22618
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308616465
 layout: "bbs-single"
 ---
 

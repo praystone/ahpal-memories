@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "叉燒什錦炒飯"
 tid: 17790
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006995
 layout: "bbs-single"
 ---
 

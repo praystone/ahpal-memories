@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "請問一下 瀏覽器有差嗎"
 tid: 18963
 fid: 3
-author: "0"
-dateline: 0
+author: "puppets"
+dateline: 1268074016
 layout: "bbs-single"
 ---
 

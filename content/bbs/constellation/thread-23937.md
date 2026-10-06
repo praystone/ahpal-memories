@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "[分享] 十二星座情緒失控表現方式"
 tid: 23937
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325154195
 layout: "bbs-single"
 ---
 
-<!-- 主題 23937，帖子動態載入 -->
+<!-- 主題 23937 -->

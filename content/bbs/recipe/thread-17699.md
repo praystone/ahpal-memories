@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "豆豉辣椒炒肉"
 tid: 17699
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266005382
 layout: "bbs-single"
 ---
 

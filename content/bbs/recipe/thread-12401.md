@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒟蒻燒雞腿"
 tid: 12401
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452382
 layout: "bbs-single"
 ---
 

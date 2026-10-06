@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座誰的離婚率高"
 tid: 18176
 fid: 50
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1266129164
 layout: "bbs-single"
 ---
 
-<!-- 主題 18176，帖子動態載入 -->
+<!-- 主題 18176 -->

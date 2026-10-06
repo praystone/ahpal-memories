@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "和風蒜味海鮮沙拉"
 tid: 22732
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308702973
 layout: "bbs-single"
 ---
 

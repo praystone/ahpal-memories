@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蕃茄豆腐(1)"
 tid: 16396
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265746715
 layout: "bbs-single"
 ---
 

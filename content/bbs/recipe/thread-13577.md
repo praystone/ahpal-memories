@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "辣海帶芽泡菜"
 tid: 13577
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264881043
 layout: "bbs-single"
 ---
 

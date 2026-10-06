@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座對錢的看法"
 tid: 19289
 fid: 50
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1270920408
 layout: "bbs-single"
 ---
 
-<!-- 主題 19289，帖子動態載入 -->
+<!-- 主題 19289 -->

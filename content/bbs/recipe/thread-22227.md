@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香草烤布丁"
 tid: 22227
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305380548
 layout: "bbs-single"
 ---
 

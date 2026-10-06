@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "論壇近日是否變慢"
 tid: 3640
 fid: 3
-author: "0"
-dateline: 0
+author: "jojo999"
+dateline: 1238307884
 layout: "bbs-single"
 ---
 

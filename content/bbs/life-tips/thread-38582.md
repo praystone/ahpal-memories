@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "转载：Poway犹太教堂枪手被判终身监禁。"
 tid: 38582
 fid: 72
-author: "0"
-dateline: 0
+author: "jiuyuea"
+dateline: 1655111089
 layout: "bbs-single"
 ---
 

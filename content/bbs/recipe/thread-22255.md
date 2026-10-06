@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "自製銅鑼燒餅皮"
 tid: 22255
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1305418117
 layout: "bbs-single"
 ---
 

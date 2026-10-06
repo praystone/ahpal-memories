@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香煎牛排"
 tid: 13332
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264791611
 layout: "bbs-single"
 ---
 

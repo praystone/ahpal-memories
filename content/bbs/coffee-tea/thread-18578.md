@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "福爾摩沙"
 tid: 18578
 fid: 74
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266257419
 layout: "bbs-single"
 ---
 

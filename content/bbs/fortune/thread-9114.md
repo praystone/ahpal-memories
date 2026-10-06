@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "住宅風水的「六要」與「六不」"
 tid: 9114
 fid: 51
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1263014219
 layout: "bbs-single"
 ---
 

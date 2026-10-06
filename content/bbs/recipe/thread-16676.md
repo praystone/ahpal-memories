@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黑椒蒜香魚"
 tid: 16676
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265784027
 layout: "bbs-single"
 ---
 

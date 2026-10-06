@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "2012年誰最容易遇到錯的人"
 tid: 24196
 fid: 50
-author: "0"
-dateline: 0
+author: "凜以喵"
+dateline: 1327123580
 layout: "bbs-single"
 ---
 
-<!-- 主題 24196，帖子動態載入 -->
+<!-- 主題 24196 -->

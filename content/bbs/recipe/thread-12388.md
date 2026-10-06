@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "韓式辣汁韭菜炒雞胗"
 tid: 12388
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452052
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "綜合水果沙拉"
 tid: 16047
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265692099
 layout: "bbs-single"
 ---
 

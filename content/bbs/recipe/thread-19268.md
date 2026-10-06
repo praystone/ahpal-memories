@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "100道素菜"
 tid: 19268
 fid: 59
-author: "0"
-dateline: 0
+author: "雲自在"
+dateline: 1270788994
 layout: "bbs-single"
 ---
 

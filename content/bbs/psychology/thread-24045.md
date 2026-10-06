@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你的樂觀程度"
 tid: 24045
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325655293
 layout: "bbs-single"
 ---
 

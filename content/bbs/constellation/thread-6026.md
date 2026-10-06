@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "什麼星座的女人很容易把男生給惹毛？請參考太陽或金星"
 tid: 6026
 fid: 50
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251897781
 layout: "bbs-single"
 ---
 
-<!-- 主題 6026，帖子動態載入 -->
+<!-- 主題 6026 -->

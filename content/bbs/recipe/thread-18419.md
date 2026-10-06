@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "伯爵奶酪凍"
 tid: 18419
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266253945
 layout: "bbs-single"
 ---
 

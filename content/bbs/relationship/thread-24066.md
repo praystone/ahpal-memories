@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "小便裡4個不容忽視的真相"
 tid: 24066
 fid: 68
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1325838294
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鮮爆脆鱔片"
 tid: 15477
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265488800
 layout: "bbs-single"
 ---
 

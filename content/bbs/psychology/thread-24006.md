@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "最近會有意外驚喜發生？"
 tid: 24006
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325559341
 layout: "bbs-single"
 ---
 

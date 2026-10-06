@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "十神職業"
 tid: 5016
 fid: 51
-author: "0"
-dateline: 0
+author: "卯梅"
+dateline: 1245473895
 layout: "bbs-single"
 ---
 

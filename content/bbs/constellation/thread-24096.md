@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "走近十二星座有錢人"
 tid: 24096
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326157798
 layout: "bbs-single"
 ---
 
-<!-- 主題 24096，帖子動態載入 -->
+<!-- 主題 24096 -->

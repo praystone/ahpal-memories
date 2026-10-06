@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "12星座:妳最得誰疼?"
 tid: 24085
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326157094
 layout: "bbs-single"
 ---
 
-<!-- 主題 24085，帖子動態載入 -->
+<!-- 主題 24085 -->

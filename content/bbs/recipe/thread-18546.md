@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香蒜橄欖油麵"
 tid: 18546
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256946
 layout: "bbs-single"
 ---
 

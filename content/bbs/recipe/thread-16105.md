@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蔥爆滷雙味"
 tid: 16105
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265693469
 layout: "bbs-single"
 ---
 

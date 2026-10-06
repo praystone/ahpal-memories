@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "血型看讀書習慣"
 tid: 3139
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235938612
 layout: "bbs-single"
 ---
 

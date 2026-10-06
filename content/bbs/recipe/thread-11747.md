@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "米漢堡健康好味道"
 tid: 11747
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264358944
 layout: "bbs-single"
 ---
 

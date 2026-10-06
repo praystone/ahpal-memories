@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "我容易犯色戒嗎？"
 tid: 9276
 fid: 52
-author: "0"
-dateline: 0
+author: "claire165"
+dateline: 1263044003
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "凌氏醋辣白菜"
 tid: 11422
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264273977
 layout: "bbs-single"
 ---
 

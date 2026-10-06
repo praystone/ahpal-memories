@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你是天生自戀狂嗎？"
 tid: 5885
 fid: 52
-author: "0"
-dateline: 0
+author: "匿名"
+dateline: 1251724102
 layout: "bbs-single"
 ---
 

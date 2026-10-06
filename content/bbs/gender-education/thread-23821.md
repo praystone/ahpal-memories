@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "男性『性功能障礙』應警惕四種疾病"
 tid: 23821
 fid: 32
-author: "0"
-dateline: 0
+author: "momo321"
+dateline: 1323849551
 layout: "bbs-single"
 ---
 

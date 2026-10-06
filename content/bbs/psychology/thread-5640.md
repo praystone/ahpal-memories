@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你(妳)的好色程度有多高?"
 tid: 5640
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1249050364
 layout: "bbs-single"
 ---
 

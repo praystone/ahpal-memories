@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "魚香肉絲(1)"
 tid: 14784
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265230224
 layout: "bbs-single"
 ---
 

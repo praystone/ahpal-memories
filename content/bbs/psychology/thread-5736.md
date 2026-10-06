@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "生命顏色"
 tid: 5736
 fid: 52
-author: "0"
-dateline: 0
+author: "rin"
+dateline: 1250675948
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香氛制汗噴霧 克異香"
 tid: 13294
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264788413
 layout: "bbs-single"
 ---
 

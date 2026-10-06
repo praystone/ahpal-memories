@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香蕉摩卡冰沙"
 tid: 18570
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266257301
 layout: "bbs-single"
 ---
 

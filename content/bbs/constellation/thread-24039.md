@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "事業婚姻兩得意的星座女？"
 tid: 24039
 fid: 50
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325654793
 layout: "bbs-single"
 ---
 
-<!-- 主題 24039，帖子動態載入 -->
+<!-- 主題 24039 -->

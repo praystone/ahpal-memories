@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "珠蔥炒肉絲"
 tid: 16561
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265781882
 layout: "bbs-single"
 ---
 

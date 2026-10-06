@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黃豆發芽玄米飯"
 tid: 17762
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006581
 layout: "bbs-single"
 ---
 

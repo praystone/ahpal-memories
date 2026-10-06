@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鮮味XO醬作法"
 tid: 22740
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308712202
 layout: "bbs-single"
 ---
 

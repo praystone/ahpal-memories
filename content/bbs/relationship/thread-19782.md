@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "一篇男人看了會沈默的文章"
 tid: 19782
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1278603379
 layout: "bbs-single"
 ---
 

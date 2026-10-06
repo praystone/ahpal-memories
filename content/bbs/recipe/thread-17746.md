@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蠔油炒茄子"
 tid: 17746
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006338
 layout: "bbs-single"
 ---
 

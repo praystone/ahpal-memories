@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "香辣豆豉爆雞翼"
 tid: 12399
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264452289
 layout: "bbs-single"
 ---
 

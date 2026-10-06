@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "青豆蘑菇螺旋麵"
 tid: 18540
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256766
 layout: "bbs-single"
 ---
 

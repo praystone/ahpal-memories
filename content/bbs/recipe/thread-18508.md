@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "義式蔬菜米香清湯"
 tid: 18508
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266256279
 layout: "bbs-single"
 ---
 

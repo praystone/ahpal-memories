@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "排毒消腫茯苓皂"
 tid: 11770
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264369947
 layout: "bbs-single"
 ---
 

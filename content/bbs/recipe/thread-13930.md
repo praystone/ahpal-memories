@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "腐衣煎蘆筍"
 tid: 13930
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264962745
 layout: "bbs-single"
 ---
 

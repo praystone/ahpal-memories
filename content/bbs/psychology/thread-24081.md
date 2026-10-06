@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "八種顏色，八種戀愛攻略!"
 tid: 24081
 fid: 52
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326156833
 layout: "bbs-single"
 ---
 

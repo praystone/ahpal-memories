@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "客家小炒(7)"
 tid: 15471
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265488680
 layout: "bbs-single"
 ---
 

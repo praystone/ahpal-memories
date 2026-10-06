@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "父母宮"
 tid: 24638
 fid: 72
-author: "0"
-dateline: 0
+author: "webdesign2012"
+dateline: 1345798492
 layout: "bbs-single"
 ---
 

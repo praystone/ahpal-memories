@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "荷香糯米吉"
 tid: 22813
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1309269705
 layout: "bbs-single"
 ---
 

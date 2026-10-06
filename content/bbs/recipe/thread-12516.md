@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "牛肉捲菇菜"
 tid: 12516
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264487336
 layout: "bbs-single"
 ---
 

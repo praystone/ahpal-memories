@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "黃金鳳翅"
 tid: 17345
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265918830
 layout: "bbs-single"
 ---
 

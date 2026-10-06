@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "男生心疼女生的12點"
 tid: 2150
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1230533678
 layout: "bbs-single"
 ---
 

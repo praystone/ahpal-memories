@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "青椒牛肉片"
 tid: 17738
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006219
 layout: "bbs-single"
 ---
 

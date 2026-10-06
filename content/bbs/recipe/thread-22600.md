@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "一品芋頭湯"
 tid: 22600
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1308528089
 layout: "bbs-single"
 ---
 

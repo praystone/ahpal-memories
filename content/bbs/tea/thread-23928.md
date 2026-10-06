@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "喝茶、飲茶的最佳時間"
 tid: 23928
 fid: 34
-author: "0"
-dateline: 0
+author: "eastern-tea"
+dateline: 1325141785
 layout: "bbs-single"
 ---
 

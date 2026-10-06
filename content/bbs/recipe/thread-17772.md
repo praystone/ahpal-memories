@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "竹筍豆干絲"
 tid: 17772
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266006748
 layout: "bbs-single"
 ---
 

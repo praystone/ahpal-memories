@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "櫻花蝦白菜煮"
 tid: 23871
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325057615
 layout: "bbs-single"
 ---
 

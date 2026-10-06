@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜嗆白酒田雞腿"
 tid: 18351
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266235177
 layout: "bbs-single"
 ---
 

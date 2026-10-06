@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "2013高雄內門宋江陣～金鼎獎總鋪師等你來挑戰！"
 tid: 24879
 fid: 59
-author: "0"
-dateline: 0
+author: "Huanglala"
+dateline: 1360319461
 layout: "bbs-single"
 ---
 

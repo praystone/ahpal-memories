@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "豉香素菜涼拌"
 tid: 12709
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264536500
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鳳梨泡菜"
 tid: 8006
 fid: 59
-author: "0"
-dateline: 0
+author: "亞莉"
+dateline: 1260237766
 layout: "bbs-single"
 ---
 

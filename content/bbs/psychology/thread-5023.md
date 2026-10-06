@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "你是天生美人胚子嗎？"
 tid: 5023
 fid: 52
-author: "0"
-dateline: 0
+author: "IamCiCi"
+dateline: 1245495226
 layout: "bbs-single"
 ---
 

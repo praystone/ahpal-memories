@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "美式杯子蛋糕"
 tid: 12342
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264450702
 layout: "bbs-single"
 ---
 

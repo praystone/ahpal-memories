@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "千層白菜泡菜"
 tid: 13589
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264881288
 layout: "bbs-single"
 ---
 

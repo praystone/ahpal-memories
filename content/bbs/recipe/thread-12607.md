@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "彩椒菜甫炒煙火雞胸肉"
 tid: 12607
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264532523
 layout: "bbs-single"
 ---
 

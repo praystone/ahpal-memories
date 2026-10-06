@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬煮紫蘇"
 tid: 13549
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264880150
 layout: "bbs-single"
 ---
 

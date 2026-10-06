@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "什麼叫做「痛風」"
 tid: 7640
 fid: 72
-author: "0"
-dateline: 0
+author: "911"
+dateline: 1258185669
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "喝杯咖啡?^^"
 tid: 22539
 fid: 74
-author: "0"
-dateline: 0
+author: "Angela.."
+dateline: 1307942209
 layout: "bbs-single"
 ---
 

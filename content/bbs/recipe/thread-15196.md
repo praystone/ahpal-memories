@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "粒粒金元寶"
 tid: 15196
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265431236
 layout: "bbs-single"
 ---
 

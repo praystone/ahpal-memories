@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "何謂「姓名學」"
 tid: 6039
 fid: 51
-author: "0"
-dateline: 0
+author: "chj"
+dateline: 1251949629
 layout: "bbs-single"
 ---
 

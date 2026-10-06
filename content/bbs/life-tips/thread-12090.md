@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "化妝海棉晾乾法"
 tid: 12090
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264404760
 layout: "bbs-single"
 ---
 

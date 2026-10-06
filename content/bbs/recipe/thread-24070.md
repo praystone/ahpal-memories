@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "治手足冰冷－燒酒雞"
 tid: 24070
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326086352
 layout: "bbs-single"
 ---
 

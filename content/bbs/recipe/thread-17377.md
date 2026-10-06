@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜味沾醬"
 tid: 17377
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265919343
 layout: "bbs-single"
 ---
 

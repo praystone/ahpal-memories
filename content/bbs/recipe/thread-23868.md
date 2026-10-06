@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "肉醬的做法"
 tid: 23868
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1325056762
 layout: "bbs-single"
 ---
 

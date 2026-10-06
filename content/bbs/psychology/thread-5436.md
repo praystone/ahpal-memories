@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "為了奪愛，你耍狠的指數是多少？"
 tid: 5436
 fid: 52
-author: "0"
-dateline: 0
+author: "Anita"
+dateline: 1247819547
 layout: "bbs-single"
 ---
 

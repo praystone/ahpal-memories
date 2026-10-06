@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "麻醬腰子"
 tid: 16931
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265835078
 layout: "bbs-single"
 ---
 

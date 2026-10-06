@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "鯛魚葡萄串"
 tid: 17514
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265950043
 layout: "bbs-single"
 ---
 

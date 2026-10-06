@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "三色炒雞丁"
 tid: 14428
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265136333
 layout: "bbs-single"
 ---
 

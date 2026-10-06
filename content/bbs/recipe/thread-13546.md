@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "涼拌蓮藕(1)"
 tid: 13546
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264880097
 layout: "bbs-single"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "柏拉圖與蘇格拉底的問答"
 tid: 19755
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1278062809
 layout: "bbs-single"
 ---
 

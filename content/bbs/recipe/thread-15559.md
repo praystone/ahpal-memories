@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "干貝蹄筋燉雞湯"
 tid: 15559
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265492428
 layout: "bbs-single"
 ---
 

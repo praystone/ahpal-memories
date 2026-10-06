@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "十二星座的壞人"
 tid: 20034
 fid: 50
-author: "0"
-dateline: 0
+author: "萬靈丹"
+dateline: 1280813725
 layout: "bbs-single"
 ---
 
-<!-- 主題 20034，帖子動態載入 -->
+<!-- 主題 20034 -->

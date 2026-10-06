@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "豆干炒肉絲"
 tid: 13939
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264962969
 layout: "bbs-single"
 ---
 

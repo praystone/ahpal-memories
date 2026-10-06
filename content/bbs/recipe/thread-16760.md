@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "佃煮牛肉"
 tid: 16760
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265831630
 layout: "bbs-single"
 ---
 

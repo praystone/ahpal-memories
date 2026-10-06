@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "九層塔防果蟲"
 tid: 13045
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264710545
 layout: "bbs-single"
 ---
 

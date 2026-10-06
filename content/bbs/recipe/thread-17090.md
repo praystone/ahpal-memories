@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炒茭白筍"
 tid: 17090
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265866364
 layout: "bbs-single"
 ---
 

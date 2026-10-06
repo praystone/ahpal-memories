@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "臘腸蒸肉排"
 tid: 17434
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920551
 layout: "bbs-single"
 ---
 

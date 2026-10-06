@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "塔塔醬(9)"
 tid: 18353
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266235207
 layout: "bbs-single"
 ---
 

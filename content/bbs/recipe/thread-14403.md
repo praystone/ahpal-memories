@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "金針菇炒大白菜"
 tid: 14403
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265135807
 layout: "bbs-single"
 ---
 

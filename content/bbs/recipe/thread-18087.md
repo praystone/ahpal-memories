@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蒜頭雞腿"
 tid: 18087
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266084896
 layout: "bbs-single"
 ---
 

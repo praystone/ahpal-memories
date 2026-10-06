@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "素佛跳牆"
 tid: 17426
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265920428
 layout: "bbs-single"
 ---
 

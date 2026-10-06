@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "烤肉串"
 tid: 17350
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265918944
 layout: "bbs-single"
 ---
 

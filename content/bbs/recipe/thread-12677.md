@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "芝麻蝦多士"
 tid: 12677
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264535041
 layout: "bbs-single"
 ---
 

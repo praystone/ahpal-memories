@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "玫瑰花香布丁"
 tid: 18438
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266254930
 layout: "bbs-single"
 ---
 

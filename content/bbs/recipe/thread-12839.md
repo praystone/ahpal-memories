@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "低脂麥香布甸"
 tid: 12839
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264659146
 layout: "bbs-single"
 ---
 

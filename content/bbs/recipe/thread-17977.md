@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "炸鯛魚片"
 tid: 17977
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1266082777
 layout: "bbs-single"
 ---
 

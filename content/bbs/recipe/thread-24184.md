@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "蕃茄糙米粥"
 tid: 24184
 fid: 59
-author: "0"
-dateline: 0
+author: "wangwyc"
+dateline: 1326868624
 layout: "bbs-single"
 ---
 

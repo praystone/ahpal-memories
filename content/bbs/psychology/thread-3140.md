@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "同性緣。異性緣::::&lt;緣&gt;"
 tid: 3140
 fid: 52
-author: "0"
-dateline: 0
+author: "黑羽瀧一"
+dateline: 1235938927
 layout: "bbs-single"
 ---
 

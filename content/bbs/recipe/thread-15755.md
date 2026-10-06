@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "醬滷牛肋條"
 tid: 15755
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265578692
 layout: "bbs-single"
 ---
 

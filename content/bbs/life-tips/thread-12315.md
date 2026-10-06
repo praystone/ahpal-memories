@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "六個讓你生病的居家生活習慣"
 tid: 12315
 fid: 72
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1264446534
 layout: "bbs-single"
 ---
 

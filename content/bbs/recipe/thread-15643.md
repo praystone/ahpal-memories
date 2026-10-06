@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "薑汁豆芽燒肉"
 tid: 15643
 fid: 59
-author: "0"
-dateline: 0
+author: "小柚仔"
+dateline: 1265527773
 layout: "bbs-single"
 ---
 

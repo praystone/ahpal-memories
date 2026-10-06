@@ -1,9 +1,9 @@
 ---
-title: "0"
+title: "男人九大禁忌"
 tid: 3843
 fid: 68
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1239555262
 layout: "bbs-single"
 ---
 

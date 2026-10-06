@@ -1,10 +1,10 @@
 ---
-title: "0"
+title: "射手星座的女人"
 tid: 2151
 fid: 50
-author: "0"
-dateline: 0
+author: "leo0201"
+dateline: 1230533839
 layout: "bbs-single"
 ---
 
-<!-- 主題 2151，帖子動態載入 -->
+<!-- 主題 2151 -->
